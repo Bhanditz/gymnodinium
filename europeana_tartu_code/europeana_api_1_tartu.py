@@ -10,7 +10,8 @@ records at a time. This means that if we want to gather all 20839 records, we ne
 the API 209 times. We can control which of the records are retrieved using the "start"
 parameter in the API query. In this instance, I made a list of integers from 1 to 20900 in
 increments of 100. For example 1, 101, 201, 301, etc. This is in the file query_rows.txt. The 
-increment needs to equal the "rows" parameter in the API call.
+increment needs to equal the "rows" parameter in the API call. Replace the "X" with your 
+own API key.
 """
 in_file_name = "query_rows_20000.txt"
 in_file = open(in_file_name, 'r')
@@ -18,7 +19,7 @@ out_file_name = "europeana_ids.txt"
 out_file = open(out_file_name, 'w')
 
 def data_object_url(q):
-    return 'http://europeana.eu/api//v2/search.json?wskey=QcneaFyv2&profile=standard&query=europeana_collectionName%3A11617*&start=' + str(q) + '&rows=100'
+    return 'http://europeana.eu/api//v2/search.json?wskey=XXXXXXXXX&profile=standard&query=europeana_collectionName%3A11617*&start=' + str(q) + '&rows=100'
 
 for q in in_file:
 	print q
