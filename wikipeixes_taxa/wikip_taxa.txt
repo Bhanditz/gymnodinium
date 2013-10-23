@@ -1,0 +1,1140 @@
+T10001	Knodus hypopterus
+T10002	Chilodus punctatus
+T10003	Leporacanthicus galaxias
+T10004	Sternarchella orthos
+T10005	Cyphocharax vanderi
+T10006	Roeboides myersi
+T10007	Baryancistrus
+T10008	Hypselecara temporalis (Günther, 1862)
+T10009	Pamphorichthys araguaiensis
+T10010	Crenuchus spilurus
+T10011	Doras higuchii Sabaj Pérez & Birindelli, 2008				R10047
+T10012	Pogonopoma wertheimeri
+T10013	Steindachnerina fasciata
+T10014	Moenkhausia oligolepis
+T10015	Pygopristis denticulata
+T10016	Crossoloricaria bahuaja
+T10017	Bryconops melanurus
+T10018	Hemiodus immaculatus
+T10019	Anostomus ternetzi Fernández-Yépez, 1949				R10011
+T10020	Apistogramma gephyra
+T10021	Anadoras Eigenmann, 1925				R10125
+T10022	Gymnotus chaviro
+T10023	Exodon paradoxus
+T10024	Curimata ocellata
+T10025	Dekeyseria scaphirhyncha
+T10026	Scorpiodoras Eigenmann, 1925				R10133
+T10027	Sternarchogiton nattereri
+T10028	Pseudanos trimaculatus
+T10029	Satanoperca jurupari
+T10030	Gymnotus carapo
+T10031	Liosomadoras oncinus (Jardine, 1841)
+T10032	Hypostomus francisci (Lütken, 1874)				R10065
+T10033	Bryconexodon juruenae Géry, 1980				R10022;R20003
+T10034	Sternarchorhynchus mesensis
+T10035	Leporinus nigrotaeniatus
+T10036	Anodus elongatus (Agassiz, 1829)
+T10037	Leporinus friderici
+T10038	Steatogenys duidae
+T10039	Roeboides affinis (Günther, 1868)
+T10040	Amblydoras Bleeker, 1862				R10125
+T10041	Corydoras sterbai Knaack, 1962
+T10042	Hoplerythrinus unitaeniatus
+T10043	Bergiaria westermanni
+T10044	Steindachneridion parahybae
+T10045	Synaptolaemus latofasciatus (Steindachner, 1910)				R10112
+T10046	Microlepidogaster longicolla
+T10047	Monocirrhus polyacanthus Heckel, 1840
+T10048	Sartor respectus Myers & Carvalho, 1959
+T10049	Centrodoras brachiatus (Cope, 1872)
+T10050	Heliotrygon gomesi
+T10051	Pseudoloricaria punctata
+T10052	Pseudopimelodus pulcher
+T10053	Acnodon Eigenmann 1903
+T10054	Brycon falcatus
+T10055	Acestrorhynchus pantaneiro
+T10056	Auchenipterus osteomystax
+T10057	Leporinus thayeri Borodin, 1929
+T10058	Moenkhausia dichroura
+T10059	Acarichthys heckelii
+T10060	Scoloplax dolicholophia Schaefer, Weitzman & Britski, 1989				R10106
+T10061	Phenacorhamdia nigrolineata
+T10062	Hypancistrus zebra
+T10063	Acnodon normani
+T10064	Hassar Eigenmann & Eigenmann, 1888
+T10065	Trachycorystes trachycorystes
+T10066	Cichla temensis
+T10067	Astyanax bockmanni
+T10068	Aphyocharax alburnus (Günther, 1869)
+T10069	Acanthodoras spinosissimus
+T10070	Chalceus epakros Zanata & Toledo-Piza, 2004				R10027
+T10071	Aphyocharax pusillus Günther, 1868
+T10072	Metynnis lippincottianus
+T10073	Physopyxis ananas
+T10074	Serrasalmus brandtii Lütken, 1875				R10107
+T10075	Curimatopsis myersi Vari, 1982
+T10076	Oligancistrus punctatissimus
+T10077	Amblydoras bolivarensis (Fernández-Yépez, 1968)				R10125
+T10078	Cichlasoma boliviense
+T10079	Mylossoma aureum
+T10080	Schizodon knerii (Steindachner, 1875)
+T10081	Paragoniates alburnus
+T10082	Brycon insignis Steindachner, 1877
+T10083	Pterygoplichthys gibbiceps
+T10084	Laemolyta taeniata
+T10085	Caenotropus schizodon Scharcanski & Lucena, 2007
+T10086	Acestrorhynchus falcatus
+T10087	Crenicichla britskii
+T10088	Crenicichla lepidota
+T10089	Laemolyta proxima
+T10090	Potamorhina altamazonica
+T10091	Peckoltia oligospila
+T10092	Phenacorhamdia somnians
+T10093	Pseudostegophilus nemurus (Günther, 1869)
+T10094	Apistogramma elisabethae
+T10095	Creagrutus pila
+T10096	Curimata inornata
+T10097	Rineloricaria hasemani
+T10098	Ageneiosus inermis (Linnaeus, 1766)				R10003
+T10099	Microglanis poecilus
+T10100	Leporinus longo
+T10101	Crenicichla strigata Günther, 1862				R10037
+T10102	Myleus levis
+T10103	Lonchogenys ilisha
+T10104	Serrapinnus piaba
+T10105	Notholebias minimus
+T10106	Pterygoplichthys xinguensis
+T10107	Platydoras armatulus (Valenciennes, 1840)
+T10108	Iracema caiana
+T10109	Trachydoras steindachneri
+T10110	Astyanax elachylepis
+T10111	Nematobrycon palmeri
+T10112	Calophysus macropterus
+T10113	Coptobrycon bilineatus
+T10114	Panaque purusiensis
+T10115	Otothyris travassosi
+T10116	Corydoras stenocephalus
+T10117	Auchenipterus brachyurus
+T10118	Characidium laterale
+T10119	Exoson paradoxus Müller & Troschel, 1844
+T10120	Moenkhausia dichroura (Kner, 1858)
+T10121	Trachelyichthys decaradiatus Mees, 1974				R10026
+T10122	Auchenipterichthys punctatus
+T10123	Hemiodontichthys acipenserinus
+T10124	Pseudotylosurus angusticeps
+T10125	Hypostomus tapijara
+T10126	Brycon nattereri
+T10127	Scoloplax dicra
+T10128	Phenacogaster beni
+T10129	Rhamdia quelen
+T10130	Crenicichla sedentaria
+T10131	Leporinus megalepis Günther, 1863
+T10132	Physopyxis lyra Cope, 1871				R10125
+T10133	Bayancistrus niveatus
+T10134	Myloplus asterias
+T10135	Hysteronotus megalostomus
+T10136	Apistogramma borelli (Regan, 1906)
+T10137	Hemigrammus stictus (Durbin, 1909)
+T10138	Acestrorhynchus heterolepis (Cope, 1878)
+T10139	Moenkhausia petymbuaba Lima & Birindelli, 2006
+T10140	Sternarchorhynchus stewarti
+T10141	Duopalatinus emarginatus
+T10142	Leporinus amblyrhynchus
+T10143	Thoracocharax stellatus
+T10144	Astrodoras Bleeker, 1862
+T10145	Hyphessobrycon erythrostigma
+T10146	Hyphessobrycon heterorhabdus
+T10147	Exallodontus aguanai
+T10148	Amblydoras bolivarensis
+T10149	Rhinodoras boehlkei
+T10150	Rineloricaria lanceolata
+T10151	Leporinus britskii
+T10153	Rivulus santensis
+T10154	Pseudoplatystoma punctifer (Castelnau, 1855)
+T10155	Brachyplatystoma tigrinum Britski , 1981
+T10156	Hoplias intermedius
+T10157	Hemisorubim platyrhynchos (Valenciennes, 1840)
+T10158	Hypancistrus inspector Armbruster, 2002				R10056
+T10159	Leporinus megalepis
+T10160	Ammocryptocharax elegans Weitzman & Kanazawa, 1976				R10007
+T10161	Aequidens michaeli
+T10162	Moenkhausia agnase
+T10163	Myleus setiger
+T10164	Corydoras sterbai
+T10165	Australoheros facetus
+T10166	Pimelodus pictus
+T10167	Opsodoras ternetzi
+T10168	Leporinus guttatus
+T10169	Steindachnerina fasciata Vari & Géry, 1985
+T10170	Apistogramma panduro
+T10171	Callichthys callichthys
+T10172	Delturus carinotus
+T10173	Crenicichla vittata Heckel, 1840
+T10174	Geophagus megasema Heckel, 1840
+T10175	Pseudopimelodus pulcher (Boulenger, 1887)
+T10176	Platyurosternarchus macrostoma
+T10177	Hypostomus faveolus Zawadzki, Birindelli & Lima, 2008				R10064
+T10178	Leporinus guttatus Birindelli & Britski, 2009				R10073
+T10179	Chalceus erythrurus (Cope, 1870)
+T10180	Clupeacharax anchoveoides
+T10181	Ostomus pyrineusi
+T10182	Satanoperca pappaterra (Heckel, 1840)
+T10183	Cynodon septenarius
+T10184	Knodus orteguasae
+T10185	Boulengerella cuvieri
+T10186	Trichomycterus mimonha
+T10187	Anadoras weddellii (Castelnau, 1855)				R10125
+T10188	Leporinus trifasciatus
+T10189	Iheringichthys megalops Eigenmann & Ward, 1907
+T10190	Japigny kirschbaum Meunier, Jegú & Keith 2011				R10067
+T10191	Parodon pongoensis
+T10192	Hypancistrus inspector
+T10193	Lophiosilurus alexandri 
+T10194	Satanoperca leucosticta
+T10195	Apistogramma bitaeniata Pellegrin, 1936
+T10196	Peckoltia cavatica
+T10197	Hopliancistrus tricornis Isbrücker & Nijssen 1989
+T10198	Gymnotocinclus anosteos
+T10199	Astyanax bimaculatus
+T10200	Bryconops alburnoides
+T10201	Satanoperca jurupari (Heckel, 1840)
+T10202	Hypancistrus zebra Isbrücker & Nijssen, 1991
+T10203	Pimelodus atrobrunneus Vidal & Lucena, 1999				R10092
+T10204	Rineloricaria fallax
+T10205	Hemibrycon jelskii
+T10206	Baryancistrus xanthellus
+T10207	Hyphessobrycon copelandi
+T10208	Serrasalmus rhombeus (Linnaeus, 1766)				R10109
+T10209	Triportheus albus Cope, 1872
+T10210	Ituglanis amazonicus
+T10211	Knodus savannensis
+T10212	Fluviphylax pigmaeus
+T10213	Leptodoras linnellii
+T10214	Brachyplatystoma juruense
+T10215	Moenkhausia lepidura
+T10216	Pterophyllum scalare (Schultze, 1823)				R10034
+T10217	Microglanis poecilus Eigenmann, 1912
+T10218	Crenicichla vittata
+T10219	Micromischodus sugillatus Roberts, 1971
+T10220	Triportheus albus
+T10221	Leporinus reinhardti Lütken, 1875
+T10222	Biotodoma cupido
+T10223	Pterygoplichthys pardalis
+T10224	Anodus orinocensis (Steindachner, 1887)
+T10225	Hyphessobrycon bifasciatus
+T10226	Pseudoplatystoma reticulatum
+T10227	Micromischodus sugillatus
+T10228	Apistogramma borelli
+T10229	Gymnotus pantherinus
+T10230	Mylesinus paucisquamatus Jégu & Santos, 1988				R10085
+T10231	Apistogramma caetei
+T10232	Caenotropus maculosus (Eigenmann, 1912)
+T10233	Moenkhausia lepidura (Kner, 1858)
+T10234	Hypophthalmus edentatus
+T10235	Hemigrammus yinyang
+T10236	Pimelodina flavipinnis
+T10237	Franciscodoras marmoratus
+T10238	Prochilodus rubrotaeniatus
+T10239	Pachypops fourcroi (Lacépède, 1802)
+T10240	Lamontichthys filamentosus
+T10241	Hyphessobrycon flammeus
+T10242	Potamotrygon schroederi
+T10243	Hemiodus immaculatus Kner, 1858
+T10244	Homodiaetus passarellii (Miranda-Ribeiro, 1944)				R10055
+T10245	Bujurquina robusta Kullander, 1986
+T10246	Goeldiella eques
+T10247	Pseudanos trimaculatus (Kner, 1858)				R10101
+T10248	Panaque armbrusteri
+T10249	Leporinus maculatus Müller & Troschel, 1844
+T10250	Duopalatinus peruanus Eigenmann & Allen, 1942
+T10251	Iguanodectes geisleri Géry, 1970
+T10252	Acestrocephalus boehlkei Menezes, 1977
+T10253	Astyanax maximus
+T10254	Cichla orinocensis Humboldt, 1821				R10030
+T10255	Psectrogaster rutiloides
+T10256	Pimelodus luciae
+T10257	Merodoras nheco Higuchi, Birindelli, Sousa, & Britski, 2007				R10082
+T10258	Moenkhausia petymbuaba
+T10259	Trachydoras brevis (Kner, 1853)
+T10260	Hemisorubim platyrhynchus
+T10261	Leporinus sexstriatus
+T10262	Psectrogaster curviventris Eigenmann & Kennedy, 1903
+T10263	Rachoviscus crassiceps
+T10264	Bryconexodon trombetasi
+T10265	Psectrogaster amazonica Eigenmann & Eigenmann, 1889
+T10266	Gymnotus silvius
+T10267	Prochilodus argenteus
+T10268	Aequidens Eigenmann & Bray 1894
+T10269	Hypostomus luteus
+T10270	Moenkhausia chlorophthalma
+T10271	Brycon insignis
+T10272	Boulengerella lucius
+T10273	Rivulus zygonectes
+T10274	Liosomadoras oncinus
+T10275	Leporinus brunneus Myers, 1950				R10070
+T10276	Sternarchorhynchus hagedornae Santana & Vari, 2010
+T10277	Sternopygus macrurus
+T10278	Aequidens tetramerus
+T10279	Bryconamericus pectinatus
+T10280	Petulanos Sidlauskas & Vari 2008
+T10281	Galeocharax gulo
+T10282	Tetragonopterus Cuvier, 1816
+T10283	Pimelodus pohli
+T10284	Sturisoma nigrirostrum
+T10285	Hyphessobrycon socolofi
+T10286	Oxydoras niger
+T10287	Apistogramma commbrae
+T10288	Nannostomus eques
+T10289	Hemigrammus marginatus
+T10290	Synaptolaemus latofasciatus
+T10291	Cichla pleiozona
+T10292	Nemadoras humeralis (Kner, 1855)
+T10293	Schizodon vittatus
+T10294	Geophagus
+T10295	Geophagus winemilleri
+T10296	Carnegiella strigata
+T10297	Curimata inornata Vari, 1989				R10038
+T10298	Hyphessobrycon peugeoti Ingenito, Lima & Buckup, 2013				R10061
+T10299	Acestrorhynchus falcirostris
+T10300	Goeldiella eques (Müller & Troschel, 1848)
+T10301	Leporinus reticulatus Britski & Garavello, 1993
+T10302	Peckoltia brevis
+T10303	Anadoras grypus
+T10304	Trachydoras brevis
+T10306	Steindachnerina insculpta
+T10307	Nemadoras leporhinus
+T10308	Schizolecis guntheri
+T10309	Crenicichla proteus
+T10310	Tetranematichthys wallacei Vari & Ferraris Jr., 2006				R10116
+T10311	Hypoclinemus mentalis
+T10312	Brycon opalinus
+T10313	Crenicichla phaiospilus Kullander, 1991				R10036
+T10314	Acestrocephalus stigmatus
+T10315	Parapteronotus hasemani
+T10316	Sturisoma
+T10317	Prochilodus lineatus
+T10318	Monocirrhus polyacanthus
+T10319	Rhamphichthys hahni
+T10320	Characidium lauroi
+T10321	Salminus 
+T10322	Symphysodon aequifasciatus
+T10323	Potamotrygon schroederi Fernandez-Yépez, 1958				R10097
+T10324	Salminus brasiliensis
+T10325	Pseudoplatystoma punctifer
+T10326	Iheringichthys labrosus (Lütken, 1874)
+T10327	Cynodon gibbus
+T10328	Centrodoras brachiatus
+T10329	Trachelyopterichthys taeniatus (Kner, 1858)
+T10330	Megalechis thoracata
+T10331	Curimata vittata
+T10332	Hypostomus emarginatus
+T10333	Abramites hypselonotus
+T10334	Crenicichla britskii Kullander, 1982				R10033
+T10335	Potamorhina latior (Spix & Agassiz, 1829)
+T10336	Scoloplax baskini
+T10337	Attonitus ephimeros
+T10338	Wertheimeria maculata Steindachner, 1877				R10122
+T10339	Moenkhausia cosmops
+T10340	Chaetostoma formosae
+T10341	Salminus maxillosus
+T10342	Anostomus anostomus
+T10343	Brycon orthotaenia
+T10344	Leptoancistrus Meek & Hildebrand, 1916
+T10345	Acestrocephalus pallidus
+T10346	Brycon nattereri Günther, 1864
+T10347	Lasiancistrus schomburgki
+T10348	Sorubim maniradii
+T10349	Aphyocharax dentatus
+T10350	Argonectes robertsi
+T10351	Physopyxis lyra
+T10352	Mylossoma duriventre
+T10353	Leporinus taeniatus Lütken, 1875
+T10354	Megalechis thoracatha
+T10355	Anostomus anostomus (Linnaeus, 1758)				R10011
+T10356	Jupiaba apenina
+T10357	Laemolyta proxima (Garman, 1890)
+T10358	Dekeyseria Rapp Py-Daniel, 1985
+T10359	Parodon pongoensis (Allen, 1942)
+T10360	Pygocentrus piraya (Cuvier, 1819)				R10103
+T10361	Leporinus geminis Garavello & Santos, 2009				R10072
+T10362	Cichlasoma amazonarum
+T10363	Hypostomus unicolor
+T10364	Cyphocharax gillii
+T10365	Curimatella meyeri (Steindachner, 1882)
+T10366	Peckoltia Miranda Ribeiro, 1912				R10131
+T10367	Serrasalmus hollandi Eigenmann, 1915
+T10368	Anadoras weddellii
+T10369	Ctenobrycon alleni
+T10370	Leporinus klausewitzi
+T10371	Boulengerella lateristriga (Boulenger, 1895)				R10017
+T10372	Bryconamericus pachacuti
+T10373	Serrasalmus gouldingi
+T10374	Mylesinus paucisquamatus
+T10375	Leporinus garmani Borodin, 1929
+T10376	Prochilodus costatus
+T10377	Pimelodus blochii
+T10378	Scorpiodoras heckelii (Kner, 1855)
+T10380	Serrasalmus maculatus
+T10381	Hemiodus microlepis
+T10382	Trichomycterus mimonha Costa, 1992				R10118
+T10383	Leporinus copelandii
+T10384	Paratrygon aiereba
+T10385	Cyphocharax vanderi (Britski, 1980)
+T10386	Psectrogaster rutiloides (Kner, 1858)
+T10387	Iguanodectes variatus Géry, 1993
+T10388	Geophagus megasema
+T10389	Tetragonopterus carvalhoi
+T10390	Ancistrus
+T10391	Potamotrygon motoro (Müller & Henle, 1841)
+T10392	Oxydoras eigenmanni
+T10393	Nannostomus marginatus
+T10394	Tatia gyrina
+T10395	Hassar wilderi Kindle, 1895
+T10396	Caenotropus labyrinthicus
+T10397	Pimelodus ornatus
+T10398	Brycon vermelha
+T10399	Iguanodectes variatus
+T10400	Brycon orthotaenia Günther, 1864
+T10401	Prochilodus lineatus (Valenciennes, 1836)				R10099
+T10402	Steindachnerina guentheri
+T10403	Pterygoplichthys gibbiceps (Kner, 1854)
+T10404	Chilodus fritillus Vari & Ortega, 1997
+T10405	Megalonema platycephalum
+T10406	Otocinclus caxarari
+T10407	Iguanodectes geisleri
+T10408	Pimelodus fur
+T10409	Acestrorhynchus falcirostris (Cuvier, 1819)
+T10410	Leporinus brunneus
+T10411	Leporinus mormyrops
+T10412	Sorubim maniradii Littmann, Burr & Buitrago-Suárez, 2001
+T10413	Panaqolus albomaculatus
+T10414	Cyphocharax notatus
+T10415	Hypancistrus contradens Armbruster, Lujan & Taphorn, 2007				R10056
+T10416	Aphyocharax alburnus
+T10417	Hypostomus francisci
+T10418	Acestrorhynchus falcatus (Bloch, 1794)
+T10419	Hypodoras forficulatus Eigenmann, 1925				R10125
+T10420	Hemiodus semitaeniatus
+T10421	Potamorhina altamazonica (Cope, 1878)
+T10422	Leporinus desmotes
+T10423	Serrasalmus hollandi
+T10424	Knodus smithi
+T10425	Triportheus rotundatus
+T10426	Crenuchus spilurus Günther, 1863
+T10427	Iracema caiana Triques, 1996
+T10428	Pachyurus adspersus
+T10429	Ageneiosus brevifilis
+T10430	Curimata acutirostris Vari & Reis, 1996
+T10431	Pachypops fourcroi
+T10432	Tridentopsis pearsoni
+T10433	Paragoniates alburnus Steindachner, 1876
+T10434	Apistogramma gibbiceps
+T10435	Pareiorhaphis stephanus
+T10436	Leporinus octofasciatus
+T10437	Roeboides affinis
+T10438	Panaque armbrusteri Lujan, Hidalgo & Stewart, 2010
+T10439	Pterygoplichthys ambrosettii (holmberg, 1893)
+T10440	Pareiorhaphis 
+T10441	Gymnorhamphichthys hypostomus
+T10442	Boulengerella maculata
+T10443	Chalceus erythrurus
+T10444	Rhynchodoras xingui
+T10445	Amblydoras affinis (Kner, 1855)				R10125
+T10446	Semaprochilodus Fowler, 1941
+T10447	Leporinus yophorus
+T10448	Odontostilbe fugitiva
+T10449	Farlowella paraguayensis
+T10450	Sorubim lima
+T10451	Lithodoras dorsalis (Valenciennes, 1840)
+T10452	Phenacogaster beni Eigenmann, 1911
+T10453	Characidium zebra
+T10454	Hypancistrus debilittera Armbruster, Lujan & Taphorn, 2007				R10056
+T10455	Hydrolycus armatus
+T10456	Scleromystax barbatus
+T10457	Acanthicus hystrix Spix & Agassiz, 1829
+T10458	Hypancistrus contradens
+T10459	Pygocentrus piraya
+T10460	Loricaria cataphracta
+T10461	Acanthopoma annectens
+T10462	Leporinus tigrinus Borodin, 1929
+T10463	Aphyocharax dentatus Eigenmann & Kennedy, 1903
+T10464	Tetragonopterus argenteus
+T10465	Apistogramma agassizi
+T10466	Cheirocerus eques
+T10467	Hypostomus latifrons
+T10468	Steindachnerina corumbae
+T10469	Adontosternarchus balaenops (Cope, 1878)
+T10470	Potamotrygon leopoldi
+T10471	Ogcocephalus vespertilio
+T10472	Trachycorystes trachycorystes (Valenciennes, 1840)
+T10473	Leporinus striatus
+T10474	Pimelodus blochii Valenciennes, 1840
+T10475	Hoplias malabaricus
+T10476	Hydrolycus wallacei
+T10477	Exallodontus aguanai Lundberg, Mago-Leccia & Nass, 1991
+T10478	Caenotropus mestomorgmatos
+T10479	Abramites hypselonotus (Günther, 1868)				R10001;R20000
+T10480	Plagioscion squamosissimus
+T10481	Simpsonichthys picturatus
+T10482	Leporinus cylindriformis
+T10483	Crenicichla phaiospilus
+T10484	Henonemus punctatus
+T10485	Myleus rhomboidalis
+T10486	Psectrogaster amazonica
+T10487	Steindachnerina leucisca
+T10488	Aequidens rondoni (Miranda-Ribeiro, 1918)
+T10489	Aguarunichthys torosus
+T10490	Hydrolycus tatauaia
+T10491	Moenkhausia heikoi
+T10492	Crenicichla cincta Regan, 1905				R10034
+T10493	Acaronia nassa
+T10494	Steindachnerina corumbae Pavanelli & Britski, 1999
+T10495	Hollandichthys multifasciatus
+T10496	Megalonema amaxanthum
+T10497	Dianema longibarbis Cope, 1872
+T10498	Astyanax
+T10499	Farlowella kneri
+T10500	Iguanodectes spilurus
+T10501	Pimelodus luciae Rocha & Ribeiro, 2010
+T10502	Pseudocurimata troschelii (Günther, 1860)
+T10503	Steindachneridion doceana (Eigenmann & Eigenmann, 1889)				R10110
+T10504	Crenicichla lenticulata Heckel, 1840
+T10505	Cyphocharax multilineatus
+T10506	Hisonotus notopagos
+T10507	Scoloplax dicra Bailey & Baskin, 1976
+T10508	Leporinus lacustris Campos, 1945
+T10509	Scoloplax empousa Schaefer, Weitzman & Britski, 1989
+T10510	Farlowella amazona
+T10511	Nemadoras leporhinus (Eigenmann, 1912)
+T10512	Taeniacara candidi
+T10513	Hemiodus semitaeniatus Kner, 1858
+T10514	Otothyropsis piribebuy
+T10515	Eigenmannia limbata (Schreiner & Miranda Ribeiro 1903)
+T10516	Scorpiodoras heckelii
+T10517	Petulanos intermedius (Winterbottom 1980)
+T10518	Curimatella alburna (Müller & Troschel, 1844)				R10041
+T10519	Gymnorhamphichthys hypostomus Ellis, 1912
+T10520	Crenicichla reticulata
+T10521	Duopalatinus peruanus
+T10522	Pimelodus platicirris
+T10523	Potamorhina squamoralevis
+T10524	Physopyxis Cope, 1871
+T10525	Prochilodus nigricans
+T10526	Leporinus nigrotaeniatus (Jardine, 1841)
+T10527	Peckoltia compta
+T10528	Brycon vermelha Lima & Castro, 2000				R10021;R20002
+T10529	Rhynchodoras xingui Klausewitz & Rössel 1961
+T10530	Acnodon senai
+T10531	Cyphocharax aspilos Vari, 1992
+T10532	Steindachnerina hypostoma
+T10533	Utiaritichthys sennaebragai Miranda-Ribeiro, 1937				R10121
+T10534	Bunocephalus coracoideus
+T10535	Acestrocephalus sardina (Fowler, 1913)
+T10536	Astyanax turmalinensis
+T10537	Rhinodoras dorbignyi
+T10538	Batrochoglanis raninus (Valenciennes, 1840)
+T10539	Acestrocephalus Eigenmann 1910
+T10540	Hemigrammus ulreyi (Boulenger, 1895)				R10052;R20005
+T10541	Tatia intermedia (Steindachner, 1877)				R10113
+T10542	Myoglanis koepckei Chang, 1999
+T10543	Bujurquina robusta
+T10544	Amblydoras affinis
+T10545	Astrodoras asterifrons (Kner, 1853)				R10125
+T10546	Leporinus thayeri
+T10547	Sternarchorhynchus hagedornae
+T10548	Leiarius marmoratus
+T10549	Triporteus angulatus
+T10550	Archolaemus blax
+T10551	Ageneiosus inermis
+T10552	Petulanos intermedius
+T10553	Amaralia hypsiura
+T10554	Nannostomus beckfordi
+T10555	Oxydoras kneri Bleeker, 1862
+T10556	Hassar orestis
+T10557	Curimatella lepidura
+T10558	Schizodon borellii
+T10559	Chalceus macrolepidotus
+T10560	Heterocharax virgulatus Toledo-Piza, 2000				R10054
+T10561	Pimelodus La Cepède, 1803				R10132
+T10562	Hyphessobrycon boulengeri
+T10563	Cyphocharax gillii (Eigenmann & Kennedy, 1903)
+T10564	Hemiodus microlepis Kner, 1858
+T10565	Batrochoglanys raninus
+T10566	Oxydoras niger (Valenciennes, 1821)
+T10567	Prochilodus hartii Steindachner, 1875
+T10568	Hyphessobrycon erythrostigma (Fowler, 1943)
+T10569	Leporinus reticulatus
+T10570	Auchenipterichthys coracoideus (Eigenmann & Allen, 1942)				R10014
+T10571	Bryconamericus grosvenori
+T10572	Apistogramma rupununi
+T10573	Sartor respectus
+T10574	Hoplosternum littorale
+T10575	Knodus savannensis Géry, 1961
+T10576	Corydoras haraldschultzi Knaack, 1962
+T10577	Hopliancistrus tricornis
+T10578	Panaque schaeferi
+T10579	Panaque Eigenmann & Eigenmann, 1889				R10130
+T10580	Dianema longibarbis
+T10581	Peckoltia vittata
+T10582	Brycon orbignyanus
+T10583	Pachyurus stewarti
+T10584	Rhamphichthys drepanium
+T10585	Leptodoras acipenserinus
+T10586	Hypopomus artedi
+T10587	Planiloricaria cryptodon
+T10588	Cynodon septenarius Toledo-Piza, 2000				R10043
+T10589	Curimata acutirostris
+T10590	Characidium declivirostre
+T10591	Abramites hypselonotus Günter, 1868
+T10592	Pterygoplichthys ambrosettii
+T10593	Curimata vittata (Kner, 1858)				R10039
+T10594	Sartor elongatus
+T10595	Characidium steindachneri
+T10596	Brachyplatystoma tigrinum
+T10597	Geryichthys sterbai
+T10598	Leptodoras praelongus
+T10599	Hyphessobrycon loweae
+T10600	Roeboides xenodon
+T10601	Platistomatichthys sturio
+T10602	Pimelodus fur (Lütken, 1874)
+T10603	Anostomus ternetzi
+T10604	Hypostomus tapijara Oyakawa, Akama & Zanata 2005
+T10605	Tetragonopterus carvalhoi Melo, Benine, Mariguela & Oliveira, 2011
+T10606	Trachelyopterus coriaceus Valenciennes, 1840
+T10607	Leporinus tigrinus
+T10608	Leporinus arcus Eigenmann, 1912
+T10609	Argonectes Böhlke & Myers 1956
+T10610	Pseudoplatystoma corruscans
+T10611	Cyphocharax oenas
+T10612	Astyanax abramis
+T10613	Moenkhausia aurantia Bertaco, Jerep & Carvalho 2011				R10083
+T10614	Ageneiosus vittatus Steindachner, 1908				R10003
+T10615	Hypancistrus debilittera
+T10616	Leporinus steindachneri Eigenmann, 1907
+T10617	Tatia intermedia
+T10618	Chalceus macrolepidotus Cuvier, 1816
+T10619	Geophagus altifrons
+T10620	Serrasalmus rhombeus
+T10621	Hemiodus quadrimaculatus
+T10622	Boulengerella lucius (Cuvier, 1816)				R10017
+T10623	Adontosternarchus balaenops
+T10624	Leptodoras linellii
+T10625	Leporinus agassizi Steindachner, 1876
+T10626	Steindachnerina amazonica
+T10627	Leporinus copelandii Steindachner, 1875
+T10628	Peckoltia compta Oliveira, Zuanon, Rapp Py-Daniel and Rocha, 2010
+T10629	Ageneiosus vittatus
+T10630	Tatia brunnea Mees, 1974				R10026
+T10631	Hoplias malabaricus
+T10632	Merodoras Higuchi et al., 2007
+T10633	Leporinus garmani
+T10634	Catoprion mento (Cuvier, 1819)
+T10635	Doras higuchi
+T10636	Serrasalmus manueli (Fernandez-Yépez & Ramírez, 1967)
+T10637	Hyphessobrycon socolofi Weitzman, 1977
+T10638	Hypancistrus furunculus
+T10639	Tatia gyrina (Eigenmann & Allen, 1942)				R10113
+T10640	Potamorhina squamoralevis (Braga & Azpelicueta, 1983)
+T10641	Crenicichla hemera Kullander, 1990				R10035
+T10642	Peckoltia bachi
+T10643	Leporinus fasciatus
+T10644	Physopyxis ananas Sousa & Rapp Py-Daniel, 2005				R10125
+T10645	Acestrocephalus stigmatus Menezes, 2006				R10002
+T10646	Crenicichla alta
+T10647	Megalodoras uranoscopus
+T10648	Squaliforma emarginata (Valenciennes, 1840)
+T10649	Geophagus proximus
+T10650	Hypostomus faveolus
+T10651	Jupiaba acanthogaster
+T10652	Cichla ocellaris
+T10653	Leptodoras juruensis
+T10654	Ctenobrycon hauxwellianus
+T10655	Apteronotus caudimaculosus
+T10656	Myloplus arnoldi
+T10657	Triportheus guentheri
+T10658	Gymnotus ucamara
+T10659	Platysilurus mucosus
+T10660	Hassar orestis (Steindachner, 1875)
+T10661	Cyphocharax gangamon Vari, 1992
+T10662	Opsodoras boulengeri
+T10663	Caenotropus labyrinthicus (Kner, 1858)				R10024
+T10664	Platydoras hancockii
+T10665	Cynodon gibbus Agassiz, 1829				R10043
+T10666	Bujurquina vittata
+T10667	Delturus brevis
+T10668	Pimelodella cristata
+T10669	Triportheus angulatus
+T10670	Curimatopsis myersi
+T10671	Sternopygus xingu Autor, ano
+T10672	Nemuroglanis Eigenmann & Eigenmann, 1889				R10129
+T10673	Agoniates halecinus
+T10674	Curimata ocellata (Eigenmann & Eigenmann, 1889)					R10039
+T10675	Crenicichla lenticulata
+T10676	Myoglanis koepckei
+T10677	Jupiaba potaroensis
+T10678	Sternarchorhynchus 
+T10679	Batrochoglanis raninus
+T10680	Characidium hasemani
+T10681	Hemisorubim platyrhynchos
+T10682	Farlowella smithi
+T10683	Potamorhaphis eigenmanni
+T10684	Stygichthys typhlops
+T10685	Anchoviella carrikeri
+T10686	Leporinus steindachneri
+T10687	Sternarchella scotti
+T10688	Schizodon knerii
+T10689	Creagrutus occidaneus
+T10690	Spectracanthicus murinus
+T10691	Hyphessobrycon coelestinus
+T10692	Platydoras armatulus
+T10693	Boulengerella maculata (Valenciennes, 1850)				R10017
+T10694	Dicrossus maculatus
+T10695	Pterodoras granulosus
+T10696	Boulengerella lateristriga
+T10697	Leporellus vittatus
+T10698	Sternopygus macrurus (Bloch & Schneider, 1801)
+T10699	Lebiasina 
+T10700	Pinirampus pirinampu
+T10701	Pseudotocinclus parahybae
+T10702	Pseudotocinclus juquiae
+T10703	Psellogrammus kennedyi
+T10704	Chaetostoma Tschudi, 1845				R10127
+T10705	Trichomycterus itacarambiensis Trajano & de Pinna, 1996
+T10706	Leptodoras oyakawai
+T10707	Cichlasoma dimerus
+T10708	Corydoras condicipulus
+T10709	Hyphessobrycon peugeoti
+T10710	Centromochlus perugiae
+T10711	Charax tectifer
+T10712	Hypodoras forficulatus
+T10713	Serrasalmus maculatus Kner, 1858
+T10714	Prochilodus argenteus Agassiz, 1829
+T10715	Aspidoras pauciradiatus
+T10716	Carnegiella strigata (Günther, 1864)
+T10717	Moenkhausia browni Eigenmann, 1909
+T10718	Lepidosiren paradoxa
+T10719	Homodiaetus passarellii
+T10720	Leporellus vittatus (Valenciennes, 1850)
+T10721	Leporinus pearsoni
+T10722	Agamyxis pectinifrons
+T10723	Megalodoras uranoscopus (Eigenmann & Eigen- mann, 1888)
+T10724	Oxydoras eigenmanni Boulenger, 1895
+T10725	Pseudostegophilus nemurus
+T10726	Steatogenys elegans
+T10727	Hypostomus kopeyaka
+T10728	Pimelodus pantaneiro
+T10729	Brycon falcatus Müller & Troschel, 1844
+T10730	Chilodus punctatus Müller & Troschel, 1844
+T10731	Pimelodus maculatos
+T10732	Phenacogaster capitulatus
+T10733	Dicrossus warzeli
+T10734	Prochilodus rubrotaeniatus Jardine, 1841
+T10735	Xyliphyus lepturus
+T10736	Farlowella nattereri
+T10737	Scoloplax distolothrix Schaefer, Weitzman & Britski, 1989
+T10738	Schizodon vittatus (Valenciennes, 1850)				R10105
+T10739	Heliotrygon gomesi Carvalho & Lovejoy, 2011				R10049
+T10740	Poecilocharax weitzmani
+T10741	Stygichthys typhlops Brittan & Böhlke, 1965				R10111
+T10742	Plagioscion squamosissimus (Heckel, 1840)
+T10743	Henochilus wheatlandii
+T10744	Conorhynchos conirostris
+T10745	Leporinus britskii Feitosa, Santos & Birindelli, 2011				R10069
+T10746	Leptodoras marki
+T10747	Anodus elongatus
+T10749	Crenicichla semicincta
+T10750	Heterocharax virgulatus
+T10751	Odontostilbe euspilura
+T10752	Auchenipterus nuchalis
+T10753	Leporinus amblyrhynchus Garavello & Britski, 1987
+T10754	Dontostilbe fugitiva
+T10755	Geophagus brasiliensis
+T10756	Leporinus mormyrops Steindachner, 1875
+T10757	Anostomus Scopoli 1777
+T10758	Trachelyopterus coriaceus
+T10759	Centromochlus schultzi Rössel, 1962				R10026
+T10760	Pterygoplichthys scrophus
+T10761	Myloplus asterias (Müller & Troschel, 1844)				R10086
+T10762	Chaetostoma lineopunctatum
+T10763	Hypancistrus furunculus Armbruster, Lujan & Taphorn, 2007				R10056
+T10764	Moenkhausia nigromarginata
+T10765	Plagioscion ternetzi
+T10766	Iheringichthys labrosus
+T10767	Limatulichthys griseus
+T10768	Jupiaba polylepis
+T10769	Acinocheirodon melanogramma Malabarba & Weitzman, 1999				R10141;R10142;R10124;R10143
+T10770	Hypancistrus lunaorum
+T10771	Acestrocephalus pallidus Menezes, 2006
+T10772	Bryconexodon juruenae
+T10773	Serrasalmus gouldingi Fink & Machado-Allison, 1992				R10108
+T10774	Moenkhausia oligolepis (Günther, 1864)
+T10775	Nannacara bimaculata
+T10776	Eigenmannia trilineata
+T10777	Pimelodus atrobrunneus
+T10778	Crossoloricaria rhami
+T10779	Anodus orinocensis
+T10780	Ammocryptocharax elegans
+T10781	Apionichthys finis
+T10782	Hassar wilderi
+T10783	Centromochlus schultzi
+T10784	Bryconops affinis (Günther, 1864)
+T10785	Pimelodus platicirris Borodin, 1927
+T10786	Leptodoras oyakawai Birindelli, Sousa & Sabaj Pérez, 2008				R10079
+T10787	Creagrutus tuyuka
+T10788	Creagrutus tuyuka Vari & Lima, 2003				R10032
+T10789	Prodontocharax melanotus
+T10790	Apteronotus bonapartii
+T10791	Pterophyllum scalare
+T10792	Lithodoras dorsalis
+T10793	Hemigrammus arua Lima, Wosiacki & Ramos, 2009				R10051
+T10794	Hoplias malabaricus
+T10795	Cynodon meionactis Géry, Le Bail & Keith, 1999
+T10796	Steindachneridion scriptum
+T10797	Cyphocharax multilineatus (Myers, 1927)				R10045;R20004
+T10798	Scleromystax barbatus (Quoy & Gaimard, 1824)
+T10799	Imparfinis mirini
+T10800	Pseudanos varii
+T10801	Leporinus geminis
+T10802	Hyphessobrycon elachys
+T10803	Leporinus taeniatus
+T10804	Acestrorhynchus Agassiz, 1829
+T10805	Cetopsis coecutiens
+T10806	Thayeria boehlkei
+T10807	Ctenobrycon hauxwellianus (Cope, 1870)
+T10808	Hypostomus kopeyaka Hollanda-Carvalho, Lima & Zawadzki, 2010				R10066
+T10809	Archolaemus blax Korringa, 1970
+T10810	Cyphocharax modestus (Fernandez-Yepez, 1948)
+T10811	Scobinancistrus aureatus
+T10812	Merodoras nheco
+T10813	Creagrutus barrigai
+T10814	Apistogramma agassizii (Steindachner, 1875)
+T10815	Leporinus sexstriatus Britski & Garavello, 1980				R10075
+T10816	Eigenmannia virescens
+T10817	Hemigrammus arua
+T10818	Utiaritichthys sennaebragai
+T10819	Potamotrygon motoro
+T10820	Moenkhausia browni
+T10821	Potamorhina latior
+T10822	Crenicichla cincta
+T10823	Leporinus trifasciatus Steindachner, 1876
+T10824	Retroculus lapidifer
+T10825	Astyanax xavante
+T10826	Tetranematichthys quadrifilis
+T10827	Cyphocharax notatus (Steindachner, 1908)				R20004
+T10828	Lonchogenys ilisha Myers, 1927				R10080
+T10829	Leporinus lacustris
+T10830	Auchenipterichthys punctatus (Valenciennes, 1840)					R10014
+T10831	Anadoras grypus (Cope, 1872)				R10125
+T10832	Apistogramma trifasciata
+T10833	Spatuloricaria puganensis
+T10834	Corydoras aeneus
+T10835	Satanoperca pappaterra
+T10836	Peckoltia braueri
+T10837	Hypancistrus lunaorum Armbruster, Lujan & Taphorn, 2007				R10056
+T10838	Pimelodus ornatus Kner, 1858
+T10839	Doras carinatus
+T10840	Auchenipterichthys coracoideus
+T10841	Retroculus lapidifer (Castelnau, 1855)
+T10842	Leptodoras linnelli Eigenmann, 1912				R10076
+T10843	Schizodon borellii (Boulenger, 1900)
+T10844	Pterodoras granulosus (Valenciennes, 1821)
+T10845	Chilodus zunevei Puyo, 1946
+T10846	Corydoras haraldschultzi
+T10847	Agoniates halecinus Müller & Troschel, 1845
+T10848	Agamyxis pectinifrons (Cope, 1870)
+T10849	Rineloricaria phoxocephala
+T10850	Steindachnerina leucisca (Günther, 1868)
+T10851	Prochilodus hartii
+T10852	Caenotropus mestomorgmatos Vari, Castro & Raredon, 1995				R10024
+T10853	Acestrocephalus boehlkei
+T10854	Potamotrygon orbigny
+T10855	Microlepidogaster perforatus
+T10856	Trachelyichthys decaradiatus
+T10857	Leporinus reinhardti
+T10858	Steindachnerina amazonica (Steindachner, 1911)
+T10859	Characidium declivirostre Steindachner, 1915
+T10860	Copella nigrofasciata
+T10861	Moenkhausia plumbea
+T10862	Acanthicus hystrix
+T10863	Potamorhina laticeps (Valenciennes, 1850)
+T10864	Triportheus guentheri (Garman, 1890)				R10119
+T10865	Hypomasticus julii
+T10866	Prochilodus costatus Valenciennes, 1850				R10099
+T10867	Helogenes gouldingi
+T10868	Hypodoras Eigenmann, 1925				R10125
+T10869	Acinocheirodon Malabarba & Weitzman, 1999				R10124
+T10870	Hyphessobrycon loweae Costa & Géry, 1994				R10061
+T10871	Hydrolycus Müller & Troschel, 1844
+T10872	Squaliforma emarginata
+T10873	Astyanax asuncionensis
+T10874	Hemidoras stenopeltis (Kner, 1855)
+T10875	Thoracocharax stellatus (Kner, 1858)
+T10876	Astyanax bockmanni Vari & Castro, 2007
+T10877	Schizolecis guntheri (Miranda-Ribeiro, 1918)
+T10878	Hypophthalmus fimbriatus
+T10879	Phractocephalus hemioliopterus (Bloch & Schneider, 1801)
+T10880	Hemidoras stenopeltis
+T10881	Brycon hilarii
+T10882	Leptodoras marki Birindelli & Sousa, 2010				R10078
+T10883	Synbranchus marmoratus
+T10884	Características diagnósticas Composição
+T10885	Crenicichla hemera
+T10886	Serrasalmus manueli
+T10887	Markiana nigripinnis
+T10888	Cichla orinocensis
+T10889	Corymbophanes kaiei
+T10890	Leporinus maculatus
+T10891	Leptodoras juruensis Boulenger, 1898				R10076
+T10892	Serrasalmus brandtii
+T10893	Nemadoras
+T10894	Leporacanthicus joselimai
+T10895	Leporinus agassizi
+T10896	Leporinus pachycheilus Britski, 1976				R10074
+T10897	Acestrorhynchus isalineae Menezes & Géry, 1983
+T10898	Hydrolycus wallacei Toledo-Piza, Menezes & Santos, 1999
+T10899	Curimatella meyeri
+T10900	Oxydoras kneri
+T10901	Cetopsorhamdia phantasia
+T10902	Acanthicus Spix & Agassiz, 1829				R10123
+T10903	Brycon opalinus (Cuvier, 1819)				R10020;R20001
+T10904	Astrodoras
+T10905	Cyphocharax oenas Vari, 1992
+T10906	Colomesus asellus
+T10907	Chalceus epakros
+T10908	Acestrorhynchus isalineae
+T10909	Leiarius marmoratus (Gill, 1870)
+T10910	Moenkhausia intermedia
+T10911	Salminus franciscanus
+T10912	Crenicichla strigata
+T10913	Cyphocharax aspilos
+T10914	Otothyropsis piribebuy Calegari, Lehmann & Reis, 2011				R10087
+T10915	Tetragonopterus argenteus Cuvier, 1816
+T10916	Acestrocephalus sardina
+T10917	Pimelodus pohli Ribeiro & Lucena, 2006				R10095
+T10918	Scleromystax macropterus
+T10919	Biotodoma cupido (Heckel, 1840)
+T10920	Leporinus yophorus Eigenmann, 1922
+T10921	Sternopygus xingu
+T10922	Apteronotus albifrons
+T10923	Leporinus cylindriformis Borodin, 1929				R10071
+T10924	Otothyropsis marapoama
+T10925	Astyanax maximus (Steindachner, 1876)
+T10926	Leporinus klausewitizi Géry, 1960
+T10927	Leporinus octofasciatus Steindachner, 1915
+T10928	Nannacara taenia
+T10929	Imparfinis stictonotus
+T10930	Laemolyta taeniata (Kner, 1859)				R10068
+T10931	Astyanacinus multidens
+T10932	Pseudanos gracilis
+T10933	Pseudocurimata troschelii
+T10934	Moenkhausia forestii
+T10935	Curimatella lepidura (Eigenmann & Eigenmann, 1889)				R10042
+T10936	Acanthodoras cataphractus
+T10937	Trachelyopterichthys taeniatus
+T10938	Dekeyseria amazonica
+T10939	Potamorhina laticeps
+T10940	Psectrogaster curviventris
+T10941	Roeboides myersii Gill, 1870
+T10942	Platydoras hancockii (Valenciennes, 1840)				R10096
+T10943	Moenkhausia pyrophthalma
+T10944	Hypostomus pyrineusi
+T10945	Moenkhausia aurantia
+T10946	Japigny kirschbaumi
+T10947	Nemadoras trimaculatus (Boulenger, 1898)
+T10948	Leporinus striatus Kner, 1858
+T10949	Triportheus nematurus
+T10950	Bryconops caudomaculatus
+T10951	Steindachnerina guentheri (Eigenmann & Eigenmann, 1889)
+T10952	Cyphocharax modestus
+T10953	Nemadoras humeralis
+T10954	Leptagoniates steindachneri
+T10955	Xenurobrycon heterodon
+T10956	Creagrutus changae
+T10957	Pimelodus pantaneiro Souza-Filho & Shibatta, 2007				R10094
+T10958	Apistogramma bitaeniata
+T10959	Synbranchus madeirae
+T10960	Scleromystax macropterus Regan, 1913
+T10961	Curimatella alburna
+T10962	Duopalatinus emarginatus (Valenciennes, 1840)
+T10963	Roeboides microlepis
+T10964	Piaractus mesopotamicus
+T10965	Leporinus desmotes Fowler, 1914
+T10966	Moenkhausia nigromarginata Costa, 1994
+T10967	Ceratobranchia obtusirostris
+T10968	Helogenes marmoratus Günther, 1863				R10050
+T10969	Acestrorhynchus heterolepis
+T10970	Leporinus pearsoni Fowler, 1940
+T10971	Aphyocharax pusillus
+T10972	Bergiaria westermanni (Lütken, 1874)
+T10973	Pseudanos gracilis (Kner, 1858)
+T10974	Bryconops alburnoides Kner, 1858
+T10975	Salminus franciscanus Lima & Britski, 2007				R10104
+T10976	Hemigrammus stictus
+T10977	Characidium xavante
+T10978	Pyrrhulina australis
+T10979	Phractocephalus hemioliopterus
+T10980	Pterygoplichthys xinguensis (Weber, 1991)
+T10981	Cyphocharax gangamon
+T10982	Apistogramma diplotaenia
+T10983	Nemadoras trimaculatus
+T10984	Geophagus winemilleri López-Fernández & Taphorn, 2004				R10048
+T10985	Catoprion mento
+T10986	Tatia brunnea
+T10987	Helogenes marmoratus
+T10988	Wertheimeria maculata
+T10989	Dekeyseria brachyura
+T10990	Rineloricaria castroi
+T10991	Aequidens rondoni
+T10992	Auchenipterus nuchalis (Agassiz, 1829)				R10016
+T10993	Hypselecara temporalis
+T10994	Rhaphiodon vulpinus
+T10995	Characidium purpuratum
+T10996	Leporinus arcus
+T10997	Eigenmannia limbata
+T10998	Potamotrygon cururu
+T10999	Leporinus fasciatus (Bloch, 1794)
+T11000	Leporachanthicus heterodon
+T11001	Cichla temensis Humboldt, 1821				R10030
+T11002	Bunocephalus coracoideus (Cope, 1874)				R10023
+T11003	Leporinus pachycheilus
+T11004	Lepthoplosternum pectorale
+T11005	Chalceus guaporensis
+T11006	Megalechis thoracata (Valenciennes, 1840)
+T11007	Panaqolus changae
+T11008	Agamyxis albomaculatus
+T11009	Crenicichla chicha
+T12000	Peckoltia
+T12001	Scobinancistrus
+S10001	Leporinus hypselonotus Günther, 1868	T10479	synonym
+S10002	Leporinus solarii Holmberg, 1891	T10479	synonym
+S10003	Abramites ternetzi Norman, 1926	T10479	synonym
+S10004	Abramites microcephalus Norman, 1926	T10479	synonym
+S10005	Leporinus nigripinnis Meinken, 1935	T10479	synonym
+S10006	Leporinus hypselonotus Günther, 1868	T10479	synonym
+S10007	Leporinus solari Holmberg, 1891	T10479	synonym
+S10008	Abramites ternetzi Norman, 1926	T10479	synonym
+S10009	Abramites microcephalus Norman, 1926	T10479	synonym
+S10010	Leporinus nigripinnis Meinken, 1935	T10479	synonym
+S10011	Rinelepis acanthicus	T10457	synonym
+S10012	Charax sardina Fowler, 1913	T10535	synonym
+S10013	Ageneiosus armatus Lacépède, 1803;	T10098	synonym
+S10014	Ageneiosus brevifilis Valenciennes, 1840;	T10098	synonym
+S10015	Hypophthalmus dawalla Jardine, 1841;	T10098	synonym
+S10016	Dawalla schomburgkii Bleeker, 1858;	T10098	synonym
+S10017	Ageneiosus axillaris Günther, 1864;	T10098	synonym
+S10018	Ageneiosus sebae Günther, 1864;	T10098	synonym
+S10019	Ageneiosus therezinae Steindachner, 1909;	T10098	synonym
+S10020	Ageneiosus ogilviei Fowler, 1914;	T10098	synonym
+S10021	Ageneiosus gabardinii Risso & Risso, 1964	T10098	synonym
+S10022	Anadoras regani (Steindachner, 1908)	T10187	synonym
+S10023	Chirodon alburnus Günther, 1869	T10068	synonym
+S10024	Aphyocharax avary Fowler, 1913	T10068	synonym
+S10025	Aphyocharax pappenheimi Ahl, 1923	T10463	synonym
+S10026	Natropocharax difficilis Marini, Nichols & La Monte, 1933	T10463	synonym
+S10027	Aphyocharax nasutus Ahl, 1936	T10463	synonym
+S10028	Apistogramma pertense var bitaeniata Pellegrin, 1936	T10195	synonym
+S10029	Apistogramma sweglesi Meinken, 1961	T10195	synonym
+S10030	Apistogramma klausewitzi Meinken, 1962	T10195	synonym
+S10031	Apistogramma kleei Meiken, 1964	T10195	synonym
+S10032	Heterogramma borelli Regan, 1906	T10136	synonym
+S10033	Heterogramma ritense Haseman, 1911	T10136	synonym
+S10034	Heterogramma rondoni Miranda Ribeiro, 1918	T10136	synonym
+S10035	Apistogramma aequipinnis Ahl, 1938	T10136	synonym
+S10036	Apistogramma reitzigi Mitsch, 1938	T10136	synonym
+S10037	Auchenipterichthys dantei Soares-Porto, 1994.	T10830	synonym
+S10038	Pimelodus westermanni Lütken, 1874	T10972	synonym
+S10039	Xyphostoma taedo Cope, 1872.	T10693	synonym
+S10040	Brycon bahiensis Günther, 1864	T10903	synonym
+S10041	Tylobronchus maculosus Eigenmann, 1912	T10232	synonym
+S10042	Mylesinus macropterus Ulrey, 1894	T10634	synonym
+S10043	Cichla argus Valenciennes, 1821.	T10254	synonym
+S10044	Crenicichla guentheri Ploeg, 1990	T10641	synonym
+S10045	Crenicichla ornata Regan, 1905.	T10504	synonym
+S10046	Crenicichla johanna var. strigata Günther, 1862	T10101	synonym
+S10047	Tetragonopterus hauxwellianus Cope, 1870	T10807	synonym
+S10048	Ctenobrycon rhadops Fowler, 1913	T10807	synonym
+S10049	Curimatus semitaeniatus Steindachner, 1915	T10674	synonym
+S10050	Curimatus lepidurus Eigenmann & Eigenmann, 1889	T10935	synonym
+S10051	Curimatus meyeri Steindachner, 1882	T10365	synonym
+S10052	Curimatus serpae Eigenmann & Eigenmann, 1889	T10365	synonym
+S10053	Curimata reticulata Allen, 1942	T10365	synonym
+S10054	Curimatus gillii Eigenmann & Kennedy, 1903	T10563	synonym
+S10055	Curimatella rehni Fowler, 1932	T10563	synonym
+S10056	Curimatorbis modestus Fernandez-Yepez, 1948	T10810	synonym
+S10057	Curimata vanderi Britski, 1980	T10385	synonym
+S10058	Callichthys adspersus Steindachner, 1877	T10497	synonym
+S10059	Decapogon verissimi Miranda Ribeiro, 1911	T10497	synonym
+S10060	Tetragonopterus ulreyi Boulenger, 1895	T10540	synonym
+S10061	Plecostomus francisci	T10032	synonym
+S10062	Leporinus marcgravii Lütken, 1875	T10249	synonym
+S10063	Chalceus nigrotaeniatus Jardine, 1841	T10526	synonym
+S10064	Leporinus margaritaceus Günther, 1864	T10526	synonym
+S10065	Leporinus affinis Steindachner, 1875	T10616	synonym
+S10066	Salmo tiririca Natterer in Kner, 1859	T10948	synonym
+S10067	Leporinus fasciatus tigrinus Borodin, 1929	T10462	synonym
+S10068	Leporinus y-ophorus Eigenmann, 1922	T10920	synonym
+S10069	Tetragonopterus dichrorus Kner, 1858	T10120	synonym
+S10070	Tetragonopterus oligolepis Günther, 1864	T10774	synonym
+S10071	Pseudorhamdia macronema Bleeker, 1864	T10474	synonym
+S10072	Pseudorhamdia piscatrix Cope, 1870	T10474	synonym
+S10073	Megalonema rhabdostigma Fowler, 1914	T10838	synonym
+S10074	Johnius crouvina Castelnau, 1855	T10742	synonym
+S10075	Johnius amazonicus Castelnau, 1855	T10742	synonym
+S10076	Plagioscion francisci Steindachner, 1915	T10742	synonym
+S10077	Plagioscion squamosissimus	T10742	synonym
+S10078	iquitensis Nakashima, 1941	T10742	synonym
+S10079	Plagioscion casatii Aguilera & Aguilera, 2001	T10742	synonym
+S10080	Curimatus laticeps Valenciennes, 1850	T10863	synonym
+S10081	Anodus latior Spix & Agassiz, 1829	T10335	synonym
+S10082	Semitapiscis squamoralevis Braga & Azpelicueta, 1983	T10640	synonym
+S10083	Prochilodus marggravi, Fowler, 1950	T10714	synonym
+S10084	Prochilodus affinis Lütken, 1875	T10866	synonym
+S10085	Prochilodus scrofa Steindachner 1881	T10401	synonym
+S10086	Prochilodus platensis Holmberg, 1891	T10401	synonym
+S10087	Salmo novemradiatus Larrañaga, 1923	T10401	synonym
+S10088	Curimata pearsoni Myers, 1929	T10262	synonym
+S10089	Psectrogaster rhomboides australis Risso & Sánchez, 1964	T10262	synonym
+S10090	Curimatus rutiloides Kner, 1858	T10386	synonym
+S10091	Curimatus isognathus Eigenmann & Eigenmann 188	T10386	synonym
+S10092	Psectrogaster auratus Gill, 1896	T10386	synonym
+S10093	Schizodon gracilis Kner, 1859	T10973	synonym
+S10094	Schizodon trimaculatus Kner, 1858	T10247	synonym
+S10095	Pseudanos irinae Winterbottom, 1980	T10247	synonym
+S10096	Anodus troschelii Günther, 1860	T10502	synonym
+S10097	Curimatus brevipes Eigenmann & Ogle, 1907	T10502	synonym
+S10098	Curimatus aureus Pellegrin, 1908	T10502	synonym
+S10099	Pterodoras lentiginosus	T10844	synonym
+S10100	Platax scalaris Cuvier, em Cuvier & Valenciennes, 1831;	T10216	synonym
+S10101	Plataxoides dumerilii Castelnau, 1855;	T10216	synonym
+S10102	Pterophyllum eimekei Ahl, 1928	T10216	synonym
+S10103	Liposarcus altipinnis Günther, 1864.	T10403	synonym
+S10104	Anacyrtus affinis Günther, 1868	T10039	synonym
+S10105	Roeboides bicornis Cope, 1870	T10039	synonym
+S10106	Roeboides rubrivertex Cope, 1872	T10941	synonym
+S10107	Charax hasemani Steindachner, 1915	T10941	synonym
+S10108	Salminus brevidens	T10975	synonym	used wrongly
+S10109	Salminus brasiliensis (Lima & Britski, 2007).	T10975	synonym	used wrongly
+S10110	Anostomus borellii Boulenger, 1900	T10843	synonym
+S10111	Anostomus knerii Steindachner, 1875	T10080	synonym
+S10112	Pseudotocinclus ribeiroi Gomes, 1955.	T10877	synonym
+S10113	Curimatus elegans amazonica Steindachner, 1911	T10858	synonym
+S10114	Curimatus guentheri Eigenmann & Eigenmann, 1889	T10951	synonym
+S10115	Curimatus morawhannae Eigenmann, 1912	T10951	synonym
+S10116	Curimatus issororoensis Eigenmann, 1912	T10951	synonym
+S10117	Curimatus metae Eigenmann, 1922	T10951	synonym
+S10118	Curimata robustula Allen in Eigenmann & Allen, 1942	T10951	synonym
+S10119	Curimatus leuciscus Günther, 1868	T10850	synonym
+S10120	Curimatus leuciscus boliviae Eigenmann & Ogle, 1907	T10850	synonym
+S10121	Allenina pectinata Fernandez-Yépez, 1948	T10850	synonym
+S10122	Synaptolaemus cingulatus Myers & Fernández-Yépez, 1950	T10045	synonym
+S10123	Centromochlus creutzbergi Boeseman, 1953.	T10639	synonym
+S10124	Gasteropelecus stellatus Kner, 1858	T10875	synonym
+S10125	Lipopterichthys Norman, 1935	T10704	synonym
+S10126	Hypocolpterus Fowler, 1943	T10704	synonym
+S10127	Lipopterichthys Norman, 1935	T10704	synonym
+S10128	Hypocolpterus Fowler, 1943	T10704	synonym
+S10129	Zonancistrus Isbrücker et al., 2001	T10358	synonym
+S10130	Pseudariodes Bleeker, 1862	T10561	synonym
+S10131	Pseudorhamdia Bleeker, 1862	T10561	synonym
+T30000	Jupiaba potaroensis
+T30001	Amazonspinther dalmata Bührnheim, Carvalho, Malabarba & Weitzman, 2008				R10140

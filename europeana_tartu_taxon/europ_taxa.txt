@@ -1,0 +1,3410 @@
+T10002	Baltisphaeridium
+T10003	Caldariola
+T10004	Cymatiogalea
+T10005	Dictyotidium operculata Volkova
+T10006	Goniosphaeridium
+T10008	Lagenochitina
+T10010	Leiosphaeridia
+T10012	Peteinosphaeridium
+T10013	Peteinosphaeridium trifurcatum (Eisenack, 1931) Eisenack, 1969
+T10014	Pirea
+T10015	Poikilofusa
+T10016	Stelliferidium stelligerum (Gorka, 1967) Deunff, Gorka and Rauscher 1974
+T10017	Silenis
+T10019	Abraxas grossulariata (Linnaeus, 1758)
+T10020	Abraxas sylvata (Scopoli, 1763)
+T10021	Abrostola tripartita (Hufnagel, 1766)
+T10022	Abrostola triplasia (Linnaeus, 1758)
+T10023	Acanthoceras rhotomagnese d'Orbigny
+T10024	Acanthocladia dubia Schlotheim, 1820
+T10025	Acanthocrinus longispina Römer
+T10027	Acanthodiacrodium angustum (Downie, 1958) Combaz, 1967
+T10028	Acanthodiacrodium formosum Gorka, 1967
+T10029	Acanthodiacrodium
+T10030	Acanthodiacrodium timofeevii Golub and Volkova, 1985
+T10031	Acanthodiacrodium tremadocum Gorka, 1967
+T10032	Acanthodiacrodium tuberatum (Downie 1958) Martin 1973
+T10033	Acanthostega gunnari Jarvik, 1952
+T10034	Acanthothyris spinosa
+T10035	Acasis viretata (Hübner, 1799)
+T10036	Aceraspis robustus Kiaer
+T10037	Acervularia ananas Linne, 1758
+T10038	Acervularia davidsoni Edward & Heyne
+T10039	Acervularia goldfusii Edw. & H.
+T10040	Acervularia impressa Roemer
+T10041	Acervularia luxurians (Edwards & Haime)
+T10042	Acervularia luxurians Eichwald, 1829
+T10043	Acervularia
+T10044	Achatella kegelensis Schmidt
+T10045	Achatella nieszkowskii Schmidt
+T10046	Acherontia atropos (Linnaeus, 1758)
+T10047	Achlya flavicornis (Linnaeus, 1758)
+T10048	Acidaspis buchi Barrande
+T10049	Acidaspis buchii Barrande
+T10050	Acidaspis keyserlingi Barrande
+T10051	Acidaspis kuckersiana Schmidt, 1885
+T10052	Acidaspis mira Barrande
+T10053	Acidaspis solis Öpik, 1925
+T10054	Acidaspis verenuili Barrande
+T10055	Acidaspis vesiculosa Barrande
+T10056	Acidolites lateseptatus (Lindström, 1899)
+T10057	Acritarch
+T10059	Acroculia prisca
+T10060	Acronicta aceris (Linnaeus, 1758)
+T10061	Acronicta alni (Linnaeus, 1767)
+T10062	Acronicta auricoma (Denis & Schiffermüller, 1775)
+T10063	Acronicta cuspis (Hübner, 1813)
+T10064	Acronicta leporina (Linnaeus, 1758)
+T10065	Acronicta megacephala (Denis & Schiffermüller, 1775)
+T10066	Acronicta psi (Linnaeus, 1758)
+T10067	Acronicta rumicis (Linnaeus, 1758)
+T10068	Acronicta strigosa (Denis & Schiffermüller, 1775)
+T10069	Acrothele granulata Linnarsson, 1876
+T10070	Acrotreta pileata Resser & Endo, 1937
+T10071	Acrotreta
+T10072	Actinocamax westfalicus Schlotheim
+T10073	Actinocrinites moniliformis Milers
+T10074	Actinocrinus
+T10075	Actinocrinus cingulatus Goldf.
+T10076	Actinocrinus laevis Miller
+T10077	Actinocrinus moniliferus Goldf.
+T10078	Actinocrinus moniliformis Miller
+T10079	Actinocrinus nodulosus Goldf.
+T10080	Actinocrinus triaconta dactyllis Miller
+T10081	Actinocrinus unicornis Owen et Shumard
+T10082	Actinomena orta (Öpik, 1930)
+T10083	Actinomena parva Rõõmusoks
+T10084	Actinotia polyodon (Clerck, 1759)
+T10085	Actinotodissus
+T10086	Adscita statices (Linnaeus, 1758)
+T10087	Aegiria norvegica Öpik
+T10088	Aeglina speciosa Corda
+T10089	Aglais urticae (Linnaeus, 1758)
+T10090	Aglia tau (Linnaeus, 1758)
+T10091	Agnostus comes Resser and Endo, 1937
+T10092	Agnostus glandiformis (Angelin, 1851)
+T10093	Agnostus integer Beyr.
+T10094	Agnostus pisiformis (Linnaeus, 1757)
+T10095	Agnostus punctuosus, Angelin 1851
+T10096	Agraulos thea Walcott, 1890
+T10097	Agriopis aurantiaria (Hübner, 1799)
+T10098	Agriopis marginaria (Fabricius, 1776)
+T10099	Agrius convolvuli (Linnaeus, 1758)
+T10100	Agrotis clavis clavis (Hufnagel, 1766)
+T10101	Agrotis segetum (Denis & Schiffermüller, 1775)
+T10102	Agrotis vestigialis (Hufnagel, 1766)
+T10103	Ahtiella arenaria Öpik
+T10104	Ahtiella baltica Öpik
+T10106	Ahtioconcha auris Öpik
+T10107	Ahtioconcha auris Öpik, 1930
+T10108	Aktinostroma
+T10109	Alaria subbicarinata d'Orb
+T10110	Albertella bosworthi Walcott, 1908
+T10111	Alces alces (Linnaeus, 1758)
+T10112	Alcis repandata (Linnaeus, 1758)
+T10113	Aldanella kunda (Öpik, 1926)
+T10114	Aldanella kunda Öpik, 1926
+T10115	Alethopteris meriani
+T10116	Allophyes oxyacanthae (Linnaeus, 1758)
+T10117	Allorisma
+T10118	Alsophila aescularia (Denis & Schiffermüller, 1775)
+T10119	Aluverina multiporata Männil
+T10120	Alveolites suborbicularis (Lamarck)
+T10121	Alveolites suborbicularis Lamarck
+T10122	Amaltheus spinatus Brogniart
+T10123	Ambonychia bellistriata (Hall, 1847)
+T10124	Ammoconia caecimacula (Denis & Schiffermüller, 1775)
+T10125	Amphilichas hexadactylus (Nieszkowski), 1857
+T10126	Amphilichas lineatus Angelin
+T10127	Amphipyra berbera svenssoni Fletcher, 1968
+T10128	Amphipyra perflua (Fabricius, 1787)
+T10129	Amphipyra pyramidea (Linnaeus, 1758)
+T10130	Amphipyra tragopoginis (Clerck, 1759)
+T10131	Amphoracrinus
+T10132	Amphorichnus papillatus Ralf Männil, 1966
+T10133	Amplexopora irregularis Bassler, 1906
+T10134	Amplexopora septosa (Ulrich, 1879)
+T10135	Amplexopora solitaria Dyer, 1925
+T10136	Ampyx nasutus Dalman
+T10137	Ampyx portlocki Barrande
+T10138	Ampyx rostratus Sars, 1835
+T10139	Ampyx rouaulti Barrande
+T10142	Ananchytes ovata Leske
+T10144	Anaplectoides prasina (Denis & Schiffermüller, 1775)
+T10145	Ancillaria glandiformis Lamarck
+T10146	Ancistroceras undulatum Boll
+T10147	Ancyrocrinus bulbosus Hall, 1862
+T10148	Anemocare excavatum Angelin
+T10149	Angerona prunaria (Linnaeus, 1758)
+T10150	Anglaspis heintzi Kiaer
+T10151	Angulotreta postapicalis Palmer, 1954
+T10152	Angusticardinia recta (Pander)
+T10153	Animalia
+T10154	Anisocardia tenera Sowbery
+T10155	Anisus contortus (Linnaeus, 1758)
+T10156	Annularia longifolia Brong.
+T10157	Anodonta anatina Linnaeus, 1758
+T10158	Anodonta cygnea Linnaeus, 1758
+T10159	Anodonta Lamarck, 1799
+T10160	Anodonta piscinalis Nilsson, 1823
+T10162	Anolotichia impolita Ulrich, 1886
+T10163	Anolotichia rhombica Bassler
+T10164	Anomalocaris canadensis Whiteaves, 1892
+T10165	Anomocare limbatum Angelin
+T10166	Anoplotheca lamellosa Sandberger
+T10167	Anthocharis cardamines (Linnaeus, 1758)
+T10168	Anthracosia tellinaria Goldfuss
+T10169	Anticalyptraea calyptrata Eichwald, 1860
+T10170	Anticollix sparsata (Treitschke, 1828)
+T10171	Antigonambonites aequistriatus (Gagel)
+T10172	Antigonambonites anna Öpik
+T10173	Antigonambonites costatus Öpik
+T10174	Antigonambonites mäekülaensis Öpik
+T10175	Antigonambonites planus (Pander)
+T10176	Antiogonambonites sulcatus Öpik
+T10177	Antitype chi (Linnaeus, 1758)
+T10178	Apamea crenata (Hufnagel, 1766)
+T10179	Apamea furva (Denis & Schiffermüller, 1775)
+T10180	Apamea illyria (Freyer, 1846)
+T10181	Apamea lateritia (Hufnagel, 1766)
+T10182	Apamea monoglypha (Hufnagel, 1766)
+T10183	Apamea oblonga (Haworth, 1809)
+T10184	Apamea ophiogramma (Esper, 1794)
+T10185	Apamea remissa (Hübner, 1809)
+T10186	Apamea rubrirena rubrirena (Treitschke, 1825)
+T10187	Apamea scolopacina (Esper, 1788)
+T10188	Apamea sordens (Hufnagel, 1766)
+T10189	Apamea sublustris (Esper, 1788)
+T10190	Apamea unanimis (Hübner, 1813)
+T10191	Apatorthis inflata Öpik
+T10192	Apatorthis jugata Öpik
+T10193	Apatorthis punctata Öpik
+T10194	Apatorthis tenuicosta (Eichwald)
+T10195	Apatorthis ultima Öpik
+T10196	Apatura iris (Linnaeus, 1758)
+T10197	Apeira syringaria (Linnaeus, 1758)
+T10198	Aphanomena
+T10200	Aphantopus hyperantus (Linnaeus, 1758)
+T10201	Apheoortina danus Mickwitz
+T10202	Apiocrinus parkinsoni
+T10203	Aplocera praeformata (Hübner, 1826)
+T10204	Apoda limacodes (Hufnagel, 1766)
+T10205	Apomatella ingrica (Pahlen)
+T10206	Aporia crataegi (Linnaeus, 1758)
+T10207	Araschnia levana (Linnaeus, 1758)
+T10208	Araucarites saxonicus
+T10209	Arbusculidium destombesii  Deunff, 1968
+T10210	Arca
+T10211	Arcestes cymbiformis Wulfen
+T10212	Archaeodiscina
+T10213	Archaeodiscina umbonulata Volkova, 1968
+T10214	Archiearis notha (Hübner, 1803)
+T10215	Archiearis parthenias (Linnaeus, 1761)
+T10216	Arctaspis hoeli Heintz
+T10217	Arctia caja (Linnaeus, 1758)
+T10218	Arctinurus ornatus (Angelin, 1854)
+T10219	Arenostola phragmitidis (Hübner, 1803)
+T10220	Arethusina konincki Barrande, 1846
+T10221	Argynnis (Argynnis) paphia (Linnaeus, 1758)
+T10222	Argynnis (Argyronome) laodice (Pallas, 1771)
+T10223	Argynnis (Fabriciana) adippe (Denis & Schiffermüller, 1775)
+T10224	Argynnis (Fabriciana) niobe (Linnaeus, 1758)
+T10225	Argynnis (Mesoacidalia) aglaja (Linnaeus, 1758)
+T10226	Arietites bucklandi Sowbery
+T10227	Arietites omündensis Oppel
+T10228	Arionellus ceticephalus Barrande
+T10229	Aristerella nitiduloides Bekker, 1921
+T10230	Arpadites arpadis Mojsisovics
+T10231	Arthrophycus alleghaniensis (Harlan, 1831)
+T10232	Arvoceras quantum Stumbur
+T10233	Arvoceras vasalemmaense Stumbur
+T10234	Aryballomorpha grootaertii (Martin, 1984) Martin & Leiming 1988
+T10235	Aryballomorpha
+T10236	Asaphellus toledanus (Gil, 1976)
+T10237	Asaphiscus wheeleri Meek, 1873
+T10239	Asaphus (Asaphus) broeggeri Schmidt
+T10240	Asaphus (Asaphus) expansus (Wahlenberg, 1821)
+T10242	Asaphus (Neoasaphus) cornutus holmi Schmidt
+T10244	Asaphus (Neoasaphus) laevissimus laevissimus Schmidt
+T10245	Asaphus (Neoasaphus) nieszkowskii Schmidt
+T10247	Asaphus devexus Eichwald, 1840
+T10248	Asaphus kowalewskii Lawrow 1856
+T10249	Asaphus lepidurus Nieszkowski, 1859
+T10250	Asaphus ludibundus mut. kegelensis Schmidt, 1901
+T10251	Asaphus nobilis Barrande
+T10252	Asaphus ornatus Pompecki, 1890
+T10253	Asaphus platyurus Angelin, 1854
+T10254	Asaphus raniceps Dalman
+T10255	Asaphus robergi Wiman, 1908
+T10256	Aspidiaria (undulata Sternb.)
+T10257	Astamena flexuaosa Rõõmusoks, 1989
+T10258	Astamena flexuosa Rõõmusoks, 1989
+T10259	Astamena inaequalis Rõõmusoks
+T10260	Astamena inaequalis Rõõmusoks, 1989
+T10261	Astamena inaequalis Rõõmusoks, 2004
+T10262	Astarte bohemica (Barrande, 1881)
+T10263	Astarte elegans Sowerby
+T10264	Astarte henckeliusiana Nyst
+T10265	Asteridium  tornatum (Volkova, 1968) Moczydlowska  1991
+T10266	Asterolepis estonica Gross, 1940
+T10268	Asterolepis radiata Rohon, 1900
+T10269	Asterolepis
+T10270	Asterophyllites hippuroides
+T10271	Asteroxylon
+T10272	Asteusloffia acuta (Krause, 1891)
+T10273	Asthena albulata (Hufnagel, 1767)
+T10274	Astraeospongia meniscus
+T10275	Astraeospongia meniscus Roemer, 1848
+T10276	Astraeospongium patina Roemer, 1861
+T10277	Astrea tubulosa Roemer
+T10278	Astylospongia
+T10279	Atactopora intermedia Cumings & Galloway, 1913
+T10280	Athabascaella penika Martin and Yin Leiming , 1988
+T10281	Athabascaella playfordii (Martin, 1984) Martin & Yin Leiming, 1988
+T10282	Athabascaella rossii (Martin, 1984) Martin & Yin Leiming, 1988
+T10283	Athabascaella
+T10284	Athetis pallustris (Hübner, 1808)
+T10285	Athyris spiriferoides (Eaton, 1938)
+T10286	Atolmis rubricollis (Linnaeus, 1758)
+T10287	Atractopyge kutorgae (Schmidt, 1881)
+T10288	Atractopyge
+T10289	Atractopyge xipheres Öpik
+T10290	Atraktoprion cornutus Kielan-Jaworowska, 1966
+T10291	Atrypa bulonensis d'Orb.
+T10292	Atrypa comata (Barrande)
+T10293	Atrypa eximia Hall
+T10294	Atrypa micans (Buch)
+T10295	Atrypa prunum Dalman, 1828
+T10296	Atrypa reticularis
+T10297	Atrypa reticularis (Linnaeus,1767)
+T10298	Atrypa reticularis (Linnaeus)
+T10299	Atrypa reticularis (Linne, 1758)
+T10300	Atrypa reticularis Linne
+T10301	Atrypa reticulata (Linnaeus)
+T10302	Atrypa
+T10303	Atrypa undata
+T10304	Atrypoidea prunum (Dalman, 1828)
+T10305	Atrypoidea prunum (Dalman)
+T10306	Aucella (Aucellina)  grypnaevides Sow.
+T10307	Aulacopella cepa (Roemer, 1861)
+T10308	Aulacopella cepa Roemer
+T10309	Aulacophycus sulcatus Göpp.
+T10310	Aulacopium aurantium Oswald
+T10311	Aulacopsis simplex (Krause, 1892)
+T10312	Aulocopsis simplex (Krause, 1892)
+T10313	Aulopora macrostoma
+T10314	Aulopora repens Edwards & Heyne
+T10315	Aulopora repens Linne
+T10316	Aulopora
+T10317	Autographa bractea (Denis & Schiffermüller, 1775)
+T10318	Autographa buraetica (Staudinger, 1892)
+T10319	Autographa excelsa (Kretschmar, 1862)
+T10320	Autographa gamma (Linnaeus, 1758)
+T10321	Autographa jota (Linnaeus, 1758)
+T10322	Autographa mandarina (Freyer, 1845)
+T10323	Autographa pulchrina (Haworth, 1809)
+T10324	Avicula amygdaloides A. Roemer
+T10325	Avicula crinita A. Roemer
+T10326	Avicula crinita Roemer
+T10327	Avicula gregaria Barrande
+T10328	Avicula lepida Goldf.
+T10329	Avicula
+T10330	Aviculopecten ingriae Verneuil
+T10331	Axylia putris (Linnaeus, 1761)
+T10332	Aysheaia pedunculata Walcott, 1911
+T10333	Bactrites gracilis Sandberger
+T10334	Balanophyllia
+T10335	Baltisphaerididm cerinum
+T10336	Baltisphaeridium accinctum Loeblich & Tappan, 1978
+T10337	Baltisphaeridium bystrentos Loeblich & Tappan, 1978
+T10338	Baltisphaeridium capillatum (Naumova, 1950) Umnova, 1975
+T10339	Baltisphaeridium dubium Volkova, 1968
+T10340	Baltisphaeridium implicatum Fridriksone, 1971
+T10341	Baltisphaeridium perclarum Loeblich & Tappan, 1978
+T10342	Baltisphaeridium pseudofaveolatum Fridriksone, 1971
+T10344	Baltisphaeridium stipaticum Hagenfeldt, 1989
+T10345	Baltisphaeridium varium
+T10346	Baltoeurypterus tetragonophthalmus (Fischer, 1839
+T10347	Baltonotella
+T10348	Barbarorthis foraminifera Öpik, 1934
+T10349	Barbarorthis porkuniensis Oraspõld, 1959
+T10350	Barrandeolites
+T10351	Basilicus kuckersianus Schmidt, 1904
+T10352	Basilicus lutsi Öpik, 1927
+T10353	Bassettella gracilis Zuykov & Butts, 2008
+T10354	Bathynotus holopyge (Hall, 1860)
+T10355	Bathyuriscus rotundatus (Rominger, 1887)
+T10356	Batostoma fertile Ulrich, 1886
+T10357	Batostoma granulosum Bassler, 1911
+T10358	Batostoma implicatum (Nicholson, 1881)
+T10359	Batostoma jamesi (Nicholson, 1874)
+T10360	Batostoma prosseri, Cumings & Galloway, 1912
+T10361	Batostoma varians (James, 1878)
+T10362	Beckwithia typa Resser, 1931
+T10363	Bekkerina dorsata (Bekker, 1921)
+T10364	Bekkerina raricostellata Rõõmusoks, 1993
+T10366	Bekkeromena semipartita (Roemer)
+T10367	Bekkeromena vormsina Rõõmusoks, 2004
+T10368	Bekkeromena ilmari Rõõmusoks, 2004
+T10369	Bekkeromena infirma Rõõmusoks
+T10370	Baculites neocamiensis
+T10372	Belemnitella mucronata Schlotheim
+T10373	Belemnites blainvillei Voltz
+T10374	Belemnites giganteus Schloth.
+T10375	Belemnites giganteus Schlotheim
+T10376	Belemnites subhastatus Zieten
+T10377	Bellerophon bilobatus Sowerby
+T10378	Bellerophon bisulcatus A. Roemer
+T10379	Bellerophon bohemicus Barrande
+T10380	Bellerophon globatus Sow.
+T10381	Bellerophon globatus Sowerby
+T10382	Bellerophon minutissimus Wirtgen
+T10383	Bellerophon plebeius Barrande
+T10384	Bellerophon
+T10386	Bellerophon striatus A. Roemer
+T10387	Bellerophon striatus d'Orb.
+T10388	Bellerophon trilobatus Murchison
+T10389	Beloitoceras duplex Stumbur
+T10390	Beloitoceras heterocurvatum Strand, 1934
+T10391	Beloitoceras nanum (Eichwald)
+T10392	Bembecia ichneumoniformis (Denis & Schiffermüller, 1775)
+T10393	Beyrichia bohemica Barrande
+T10394	Beyrichia
+T10395	Bicarinatina bicarinata (Kutorga, 1837)
+T10396	Bicuspina dorsata Hisinger
+T10397	Bifoveoceras bifoveatum Noetling
+T10399	Bilobia musca Öpik
+T10400	Bingeria
+T10401	Biston betularia (Linnaeus, 1758)
+T10402	Biston strataria (Hufnagel, 1767)
+T10403	Bithynia tentaculata (Linnaeus, 1758)
+T10404	Blainia gregaria Walcott, 1916
+T10405	Blepharita amica (Treitschke, 1825)
+T10406	Bockia cucumis Hecker, 1938
+T10407	Bockia laevis Hecker
+T10408	Boloria (Boloria) aquilonaris (Stichel, 1908)
+T10409	Boloria (Clossiana) dia (Linnaeus, 1767)
+T10410	Boloria (Clossiana) euphrosyne (Linnaeus, 1758)
+T10411	Boloria (Clossiana) frigga (Thunberg, 1791)
+T10412	Boloria (Clossiana) selene (Denis & Schiffermüller, 1775)
+T10413	Boloria (Clossiana) titania (Esper, 1793)
+T10414	Boloria (Proclossiana) eunomia (Esper, 1799)
+T10415	Bonnia senecta (Billings, 1861)
+T10416	Boreadortis crassa Öpik
+T10417	Boreadortis crassa Öpik, 1934
+T10418	Boreadortis recula Öpik, 1934
+T10419	Boreadortis recula aequivalvata Öpik
+T10420	Borealis borealis borealis (Eichwald)
+T10421	Bornia scrabiculata (Goepp.)
+T10422	Bornia transitionis (Roem)
+T10423	Bos primigenius (Bojanus, 1827)
+T10424	Bostrychoceras polyplocum A. Römer
+T10425	Bothriolepis cellulosa (Pander, 1846)
+T10426	Brachionycha nubeculosa (Esper, 1785)
+T10427	Brachyelasma hiumica Reiman
+T10428	Brachylomia viminalis (Fabricius, 1776)
+T10429	Brachymetopus
+T10430	Brachytomaria baltica (Verneuil, 1845)
+T10431	Brachyura rugosus Schlotheim
+T10432	Bradoria
+T10433	Brenthis ino (Rottemburg, 1775)
+T10434	Brevivelum avelata Schallreuter, 1993
+T10435	Brezelina palmata (Krause, 1889)
+T10436	Broeggeria salteri (Holl, 1865)
+T10437	Bronteus dormitzeri Barrande
+T10438	Bronteus palifer Beyrich
+T10439	Bronteus thysanopeltis Barrande
+T10440	Bronteus umbellifer Beyreuth
+T10441	Brooksella alternata Walcott, 1896
+T10442	Bryozoa
+T10444	Buccinum oceani Goldf.
+T10445	Buchiola retrostriata v. Buc
+T10446	Buedingiisphaeridium tremadocum Rasul, 1979
+T10447	Bugula turbinata Alder, 1857
+T10448	Bumastus bariensis (Murchison)
+T10449	Bumastus barriensis (Murchison, 1839)
+T10450	Bunodes lunula Eichwald, 1854
+T10451	Burgessia bella Walcott, 1912
+T10452	Buthotrepis palmata Hall
+T10453	Byssacanthus dilatatus (Eichwald, 1844)
+T10454	Byssacanthus
+T10455	Byssonychia radiata (Hall, 1847)
+T10456	Bythopora meeki (James, 1878)
+T10457	Cadoceras elatinae Nikit.
+T10458	Calamites distans (Goeppert)
+T10459	Calamites goepperti (Roemer)
+T10460	Calamites
+T10461	Calamites transitionis (Goeppert)
+T10462	Calamites varians Sternberg
+T10463	Calamopona basaltica d'Orb.
+T10464	Calamopona goldfusii d'Orb.
+T10465	Calamopona perplexa Handell & Shuman
+T10466	Calamopona polymorpha d'Orb.
+T10467	Calamopora infundibulifera Goldfuss
+T10468	Calamopora alveolaris Goldfuss
+T10469	Calamopora gothlandica Goldfuss
+T10470	Calamopora polymorpha Goldf.
+T10471	Calamopora polymorpha Goldfuss
+T10472	Calceocrinidae
+T10473	Calceola gotlandica Roemer, 1856
+T10474	Calceola sandalina (Linnaeus, 1771)
+T10475	Calceola sandalina Linnaeus 1771
+T10476	Caldariola glabra (Martin, 1972) Molyneux 1988
+T10477	Caleoprion gracile Sandberger
+T10478	Callavia perfecta Walcott, 1913
+T10479	Callimorpha dominula (Linnaeus, 1758)
+T10480	Callistege mi (Clerck, 1759)
+T10481	Calliteara abietis (Denis & Schiffermüller, 1775)
+T10482	Calliteara fascelina (Linnaeus, 1758)
+T10483	Calliteara pudibunda (Linnaeus, 1758)
+T10484	Callophrys rubi (Linnaeus, 1758)
+T10485	Calymene abbreviata Foerste, 1910
+T10486	Calymene baylei Barrande
+T10487	Calymene blumenbachii (Brongniart, 1817)
+T10488	Calymene blumenbachii Brongniart, 1817
+T10489	Calymene declinata Corda
+T10490	Calymene diademata Barrande
+T10491	Calymene frontosa Lindström
+T10492	Calymene niagarensis (Hall, 1852)
+T10493	Calymene parvula Barrande
+T10494	Calymene pulchra Barrande
+T10495	Calymene senaria Conrad, 1841
+T10496	Calymene
+T10497	Calymene verneulli
+T10498	Camarophoria schlotheimi
+T10499	Camarophoria schlotheimi King
+T10500	Camarotoechia borealis (Schl.)
+T10501	Camarotoechia diodonta (Dalman, 1828)
+T10502	Camerella dura Oraspõld, 1956
+T10503	Camerophoria (Rhynchonella) microrhyncha
+T10504	Camerospongia runeiformis
+T10505	Campophyllum fleuxrcosum Edw. & H.
+T10506	Camptogramma bilineata (Linnaeus, 1758)
+T10507	Canadia spinosa Walcott, 1911
+T10508	Cancer
+T10509	Capulus anguis Barrande
+T10510	Capulus elegans Barrande
+T10511	Capulus priscus Goldfuss
+T10512	Capulus robustus Barrande
+T10513	Capulus
+T10514	Caradrina morpheus (Hufnagel, 1766)
+T10515	Cardinia carinata Roemer
+T10516	Cardinia devonica d'Orb.
+T10517	Cardinia inflata Roemer
+T10518	Cardioceras cordatus Sowerby
+T10520	Cardiola bohemica (Barrande, 1881)
+T10521	Cardiola concentrica v. Buch
+T10522	Cardiola fibrosa Murchison
+T10523	Cardiola gibbosa Barrande
+T10524	Cardiola interrupta Barrande
+T10525	Cardiola interrupta Sowerby
+T10526	Cardiola interrupta Sowerby in Murchison 1839
+T10527	Cardiola retrostriata Sandberger
+T10528	Cardiola
+T10529	Cardita crenata Goldf.
+T10530	Cardium cingulatum Goldf.
+T10531	Cardium cognatum Phill.
+T10532	Cardium comatulum Bronn.
+T10533	Cardium echinatum Linné
+T10534	Caritodens demissa (Conrad, 1842)
+T10535	Carpinus
+T10536	Carpospongia castanea (Roemer, 1861)
+T10537	Carpospongia globosa  (Eichwald, 1830)
+T10538	Carsia sororiata (Hübner, 1813)
+T10539	Carterocephalus palaemon (Pallas, 1771)
+T10540	Carterocephalus silvicola (Meigen, 1829)
+T10541	Carya ventricosa
+T10542	Caryocrinites ornatus Say, 1825
+T10543	Caryomanon incisolobatum
+T10544	Cassianella gryphaeata Münster
+T10545	Catarhoe cuculata (Hufnagel, 1767)
+T10546	Catarhoe rubidata (Denis & Schiffermüller, 1775)
+T10547	Catenipora
+T10548	Catocala adultera Ménétriés, 1856
+T10549	Catocala fraxini (Linnaeus, 1758)
+T10550	Catocala fulminea (Scopoli, 1763)
+T10551	Catocala nupta (Linnaeus, 1767)
+T10552	Catocala pacta (Linnaeus, 1758)
+T10553	Catocala promissa (Denis & Schiffermüller, 1775)
+T10554	Catocala sponsa (Linnaeus, 1767)
+T10555	Cedaria woosteri (Whitefield)
+T10556	Celaena haworthii (Curtis, 1829)
+T10557	Celaena leucostigma (Hübner, 1808)
+T10558	Celastrina argiolus (Linnaeus, 1758)
+T10559	Cellaria sinuosa (Hassall, 1840)
+T10560	Cellepora ramulosa (Linné, 1735)
+T10561	Celtiberium dedalinum Fombella, 1978
+T10562	Celtiberium robustum
+T10563	Centropleura loveni (Angelin, 1851)
+T10564	Cephalaspis aarhusi Wängsjö, 1952
+T10565	Cephalites catenifer T. Smith
+T10566	Cepphis advenaria (Hübner, 1790)
+T10567	Ceramophylla frondosa Ulrich, 1893
+T10568	Ceramoporella distincta Ulrich, 1882
+T10569	Cerapteryx graminis (Linnaeus, 1758)
+T10570	Ceratiocaris
+T10572	Ceratites enodis
+T10573	Ceratites nodosus
+T10574	Ceratites nodosus de Haan
+T10575	Ceratites semipartites Montfort
+T10576	Ceratites
+T10577	Ceratocephala (Acidaspis) brighti (Murchison)
+T10578	Ceratocephala (Acidaspis) viruana Öpik
+T10579	Ceratocephala kukersiana Fr. Schmidt, 1885
+T10580	Ceratophyton groetlingboensis
+T10581	Ceratreta tanneri (Metzger, 1922)
+T10582	Ceraurus aculeatus (Eichwald, 1860)
+T10583	Ceriopora conifera D'Orbigny 1849
+T10584	Cerithium (Potamides) plicatum var. pustulata A. Braun
+T10585	Cerithium (Potamides) plicatus var. pustulata A. Braun
+T10586	Cerithium hantkeni Munier-Chalmas
+T10587	Cerithium laevissimum Schlotheim
+T10588	Cerithium plicatus
+T10589	Cerura erminea (Esper, 1783)
+T10590	Cerura vinula (Linnaeus, 1758)
+T10591	Carcinus moenas
+T10592	Chaetetes cornuta Verneuil & Hein.
+T10593	Charactoceras estonicum Strand
+T10594	Chasmatopora furcata Eichwald
+T10595	Chasmatopora punctata Bekker, 1921
+T10596	Chasmatoporella furcata Eichwald
+T10597	Chasmops maxima (Schmidt, 1881)
+T10598	Chasmops musei Öpik, 1937
+T10599	Chasmops mutica (Schmidt, 1881)
+T10600	Chasmops odini (Eichwald, 1840)
+T10601	Chasmops praecurrens Schmidt
+T10602	Chasmops
+T10603	Chasmops tallinnensis Öpik
+T10604	Chasmops wenjukowi Schmidt
+T10605	Chasmotopora furcata (Eichwald, 1860)
+T10606	Chaunograptus sphaericola (Öpik, 1928)
+T10607	Cheiracanthus murchisoni Agassiz
+T10608	Cheirurus (Nieszkowskia) ahti Öpik, 1928
+T10609	Cheirurus (Nieszkowskia) capitalis Öpik, 1928
+T10610	Cheirurus (Nieszkowskia) cephaloceras Nieszkowski, 1857
+T10611	Cheirurus beyrichi Barrande
+T10612	Cheirurus claviger Barrande
+T10613	Cheirurus globosus Barrande
+T10614	Cheirurus insignis Beyr.
+T10615	Cheirurus macrophthalmus Kutorga, 1854
+T10616	Cheirurus spinulosus Nieszkowski, 1857
+T10617	Cheirurus spinulosus, Plectambonites sericeus Sowerby
+T10618	Cheirurus wahli Öpik, 1928
+T10619	Chemnitzia nexilis Phillips
+T10620	Chersotis cuprea (Denis & Schiffermüller, 1775)
+T10621	Chiasmia clathrata (Linnaeus, 1758)
+T10622	Chilodes maritima (Tauscher, 1806)
+T10623	Chilotrypa ostiolata (Hall, 1852)
+T10624	Chiroterium
+T10625	Chloroclysta miata (Linnaeus, 1758)
+T10626	Chloroclysta siterata (Hufnagel, 1767)
+T10627	Chondrites
+T10628	Chonetes
+T10630	Chonetes crenulata De Koninck, 1847
+T10631	Chonetes dilatata (Roemer, 1844)
+T10632	Chonetes minuta de Koninck, 1847
+T10633	Chonetes mucronatus Hall, 1843
+T10634	Chonetes nana Verneuil
+T10635	Chonetes sarcinulata De Koninck, 1847
+T10636	Chonetes scitulus Hall, 1857
+T10637	Christiania oblonga Pander
+T10638	Christiania
+T10639	Cidaria fulvata (Forster, 1771)
+T10640	Cidaris alata Agassiz
+T10641	Cidaris claviger
+T10642	Cidaris dorsata Braun
+T10643	Cidaris-Stacheln (okkad)
+T10644	Cinnamomum lauceolatum Ung.
+T10645	Cinnamomum polymorphum
+T10646	Cladiscites tornatus Bronn
+T10647	Clathrodictyon striatellum (d'Orbigny, 1849)
+T10648	Clathrodictyon turritum Nestor, 1964
+T10649	Clathrospira elliptica (Hishiger, 1837)
+T10650	Clathrospira elliptica Hisinger
+T10651	Clathrospira inflata Koken
+T10652	Clathrospira
+T10653	Cleora cinctaria (Denis & Schiffermüller, 1775)
+T10654	Clidophorus pallasi
+T10655	Cliftonia dorsata (Hisinger, 1837)
+T10656	Climacograptus scharenbergi Lapworth, 1876
+T10657	Climacograptus
+T10658	Clinambon anomalus (Schlotheim, 1822)
+T10659	Clinambon anomalus postumus Öpik
+T10660	Clinambon anomalus praecendens Öpik
+T10661	Clinambon inflatus Öpik
+T10662	Clionychia lamellosa (Hall, 1861)
+T10663	Clisospira rugosa Koken, 1897
+T10664	Clisospira reinwaldti Öpik, 1930
+T10665	Clitambonites (Hemipronites) famulus Öpik
+T10666	Clitambonites (Vellamo ) complectens (Wiman, 1907)
+T10667	Clitambonites (Vellamo) emarginatus (Pahlen)
+T10668	Clitambonites (Vellamo) parvus Öpik, 1930
+T10669	Clitambonites (Vellamo) pyramidalis (Pahlen, 1877)
+T10670	Clitambonites (Vellamo) pyramidalis arcuatus Öpik, 1930
+T10671	Clitambonites (Vellamo) pyramidalis pahleni Öpik, 1930
+T10672	Clitambonites (Vellamo) pyramidalis simplex Öpik, 1930
+T10673	Clitambonites (Vellamo) ultimus Öpik, 1930
+T10674	Clitambonites (Vellamo) viruanus Öpik, 1930
+T10675	Clitambonites adscendens Pander
+T10676	Clitambonites marginatus Pahlen
+T10677	Clitambonites maximus (Pander, 1830)
+T10678	Clitambonites maximus circularis Öpik
+T10679	Clitambonites maximus devius Öpik, 1930
+T10680	Clitambonites maximus lyra Öpik, 1930
+T10681	Clitambonites maximus Pander
+T10682	Clitambonites schmidti (Pahlen, 1877)
+T10683	Clitambonites schmidti epigonus Öpik
+T10684	Clitambonites schmidti septatus Öpik
+T10685	Clitambonites squamatus (Pahlen)
+T10686	Clitambonites squamatus Pahlen
+T10687	Clonograptus
+T10688	Clostera anachoreta (Denis et Schiffermüller, 1775)
+T10689	Clostera anastomosis (Linnaeus, 1758)
+T10690	Clostera curtula (Linnaeus, 1758)
+T10691	Clostera pigra (Hufnagel, 1766)
+T10692	Clymenia annulata Mstr.
+T10693	Clymenia
+T10694	Clyptosphaerites leuchtenbergi Volborth
+T10695	Cnemidiastrum rimulosum Goldf.
+T10696	Cnemidiastrum stellatum
+T10697	Coccosteus trautscholdi (Eastman, 1897)
+T10698	Cochlicopa lubrica (Müller 1774)
+T10699	Cochlicopa lubrica (Muller, 1774
+T10700	Cochlicopa lubrica (Muller, 1774)
+T10701	Cochlioceras commune (Wahlenberg)
+T10702	Cochlodina laminata (Montagu 1803)
+T10703	Codonophyllum rhizobolon (Dybowski, 1873)
+T10704	Coelodonta antiquitatis (Blumenbach, 1807)
+T10705	Coeloptychium agaricoides Goldfuss 1826
+T10706	Coelosphaeridium kohtlaense Bekker, 1924
+T10707	Coelosphaeridium
+T10708	Coenites juniperinus Eichwald, 1829
+T10709	Coenonympha arcania (Linnaeus, 1761)
+T10710	Coenonympha glycerion (Borkhausen, 1788)
+T10711	Coenonympha hero (Linnaeus, 1761)
+T10712	Coenonympha pamphilus (Linnaeus, 1758)
+T10713	Coenonympha tullia (Müller, 1764)
+T10714	Coenophila subrosea (Stephens, 1829)
+T10715	Coenothyris vulgaris
+T10716	Colias hyale (Linnaeus, 1758)
+T10717	Colias palaeno (Linnaeus, 1761)
+T10718	Collenia nudosa Walcott , 1914
+T10719	Colobochyla salicalis (Denis & Schiffermüller, 1775)
+T10720	Colocasia coryli (Linnaeus, 1758)
+T10721	Colostygia aptata (Hübner, 1813)
+T10722	Colostygia pectinataria (Knoch, 1781)
+T10723	Colotois pennaria (Linnaeus, 1761)
+T10724	Comasphaeridium brachyspinosum Kiryanov, 1974
+T10725	Comasphaeridium latviense
+T10726	Comasphaeridium longispinosum Hagenfeldt, 1989
+T10727	Comasphaeridium molliculum Moczyd?owska & Vidal, 1988
+T10728	Comasphaeridium strigosum Jankauskas, 1976
+T10729	Conchidium biloculare (Hisinger, 1799)
+T10730	Conchidium
+T10731	Conchoprimitia gammae (Öpik, 1935)
+T10732	Conchoprimitia gammae Öpik, 1935
+T10733	Conchoprimitia socialis (Brögger, 1882)
+T10734	Condylopyge rex (Barrande, 1846)
+T10735	Conichnus conicus Männil, 1966
+T10736	Conistra vaccinii (Linnaeus, 1761)
+T10737	Conocardium crenatum Steinberger
+T10738	Conocardium trapezoidale A. Roemer
+T10739	Conocephalus striatus Emmrich, 1839
+T10740	Conoclypeus osiris
+T10741	Conocoryphe laticeps Angelin
+T10742	Conocoryphe sulzeri (Schlotheim, 1823)
+T10743	Conocoryphe ulrichi Resser and Endo
+T10744	Conolichas aequilobus Steinhardt
+T10745	Conolichas deflexus Angelin
+T10746	Conolichas eichwaldi (Nieszkowski, 1857)
+T10747	Conolichas pahleni Schmidt
+T10748	Conolichas peri Warburg
+T10749	Conolichas schmidti Dames
+T10750	Conolichas triconicus Dames
+T10751	Constellaria limitaris (Ulrich, 1879)
+T10752	Constellaria polystomella Nicholson, 1875
+T10753	Constellaria teres Hayes and Ulrich, 1903
+T10754	Conularia bohemica Barrande
+T10755	Conularia cancellata Sandberger
+T10756	Conularia fecunda Barrande
+T10757	Conularia grandis Barrande
+T10758	Conularia
+T10759	Conularia trentonensis Hall
+T10760	Conus (Leptoconus) semperi Speyer
+T10761	Copperia tubiformis Walcott, 1914
+T10762	Corbicula (Loxoptychodon) cuneiformis Sowerby 1817
+T10763	Corbicula augheyi White
+T10764	Corbicula faujasi Desh
+T10765	Corbis melingi
+T10766	Corbula deshayesea Buv.
+T10767	Corbula ovata A. Roemer
+T10768	Corbula
+T10769	Cordylodus
+T10770	Cornulites cellulosus Herringshaw, Thomas and Smith, 2007
+T10771	Cornulites semiapertus Öpik, 1930
+T10772	Cornulites
+T10775	Cornulites stromatoporoides Vinn and Wilson, 2010
+T10776	Corophioides erraticus R. Richter
+T10777	Corophioides helmerseni Öpik, 1929
+T10778	Corophioides
+T10779	Coryphidium elegans Cramer, Allam, Kanes and Díez, 1974
+T10780	Coscinia cribraria (Linnaeus, 1758)
+T10781	Coscinia striata (Linnaeus, 1758)
+T10782	Coscinotrypa praenuntia (Bassler, 1911)
+T10783	Cosmia pyralina (Denis & Schiffermüller, 1775)
+T10784	Cosmia trapezina (Linnaeus, 1758)
+T10785	Cosmoceras jason Rein
+T10786	Cosmorhoe ocellata (Linnaeus, 1758)
+T10787	Cosmotriche lobulina lobulina (Denis & Schiffermüller, 1775)
+T10788	Cossus cossus (Linnaeus, 1758)
+T10789	Costispirifer arenosus (Conrad, 1839)
+T10790	Crania antiqua
+T10791	Craniophora ligustri (Denis & Schiffermüller, 1775)
+T10792	Craspedobolbina permira Sarv, 1968
+T10793	Craspedobolbina
+T10794	Crassatella barthingii Roemer
+T10795	Crassoseptaria virve (Rõõmusoks, 1985)
+T10796	Cratisularia fenestrata
+T10797	Credneria triacuminata Hampe
+T10798	Crepicephalus iowaensis Owen, 1852
+T10799	Crinoidenstiele
+T10800	Cristallinium cambriense (Slavikova, 1968) Vanguestaine 1978
+T10802	Cristallinium randomense (Martin, 1981) Martin, 1988
+T10803	Cristellaria rotulata
+T10804	Crocallis elinguaria (Linnaeus, 1758)
+T10805	Cromus aransiens Barrande
+T10806	Cromus beaumontii Barrande
+T10807	Cromus bohemicus Barrande
+T10808	Cromus intercostatus Barrande
+T10809	Cromyocrinus simplex
+T10810	Crossopterygidae
+T10811	Crotalocrinites rugosus (Miller)
+T10812	Crotalocrinites rugosus varrelülid
+T10813	Crotalocrinites
+T10814	Crypsedra gemmea (Treitschke, 1825)
+T10816	Cryptocala chardinyi (Boisduval, 1829)
+T10817	Cryptochorda stromboides (Hermannsen 1781)
+T10818	Cryptograptus murchisoni (Carruthers, 1858)
+T10819	Cryptolithus tesselatus Green
+T10820	Cryptonella rectirostris Hall, 1860
+T10821	Cryptozoon grabaui Resser and Endo
+T10822	Cryptozoon
+T10823	Ctenentoma umbonata (Steusloff, 1895)
+T10824	Ctenentoma levis (Sarv, 1959)
+T10825	Ctenoceras schmidti Noetling, 1884
+T10826	Ctenoceras sweeti Kröger & Isakar
+T10827	Ctenoceras sweeti Kröger & Isakar, 2006
+T10828	Ctenocrinus decadactylus F. Roemer
+T10829	Ctenocrinus typus Braun
+T10830	Ctenodonta logani Salter, 1859
+T10831	Cucullia absinthii (Linnaeus, 1761)
+T10832	Cucullia argentea (Hufnagel, 1766)
+T10833	Cucullia umbratica (Linnaeus, 1758)
+T10834	Cupido (Cupido) minimus (Fuessly, 1775)
+T10835	Cupressites ullmanni
+T10836	Cupressocrinites gracilis Goldfuss, 1831
+T10837	Cupressocrinus abbreviatus Goldf.
+T10838	Cupressocrinus crassus Goldfuss 1831
+T10839	Cupressocrinus nodosus Sandberger and Sandberger
+T10840	Curtoceras teres (Eichwald)
+T10841	Cyanthophyllum explanatum Goldfuss
+T10842	Cyanthophyllum fluxuosum Goldfuss
+T10843	Cyanthophyllum grande Barrande
+T10844	Cyathaxonia cornu Michelin
+T10845	Cyatheites arborescens Göpperl
+T10846	Cyathocrinites rugosus Goldf.
+T10847	Cyathocrinus pinnatus Goldf.
+T10848	Cyathocystis rhizophora Schmidt
+T10849	Cyathophylloides irregularis Dybowski
+T10850	Cyathophylloides kassariensis Dybowski
+T10851	Cyathophyllum angustinus (Edwards & Haime)
+T10852	Cyathophyllum articulatum (Edwards & Haime)
+T10853	Cyathophyllum dianthus Goldf.
+T10854	Cyathophyllum explanatum Goldf.
+T10855	Cyathophyllum flexuosum (Edwards & Haime)
+T10856	Cyathophyllum gracile Münster
+T10857	Cyathophyllum grayi (Edwards & Haime)
+T10858	Cyathophyllum guadrigenium Goldf.
+T10859	Cyathophyllum heliantoides (Goldf.)
+T10860	Cyathophyllum hexagonum Goldf.
+T10861	Cyathophyllum hypocrateniforma Goldf.
+T10862	Cyathophyllum primaecum Pfeiniger
+T10863	Cyathophyllum pseudoceratites (Edwards & Haime)
+T10864	Cyathophyllum qadrigeminum (Goldf.)
+T10865	Cyathophyllum radians Edw. & Heyne
+T10866	Cyathophyllum
+T10867	Cyathophyllum turbinatum Goldf.
+T10868	Cyathophyllum vermiculare Goldf.
+T10869	Cyathophyllum vermiculare Goldfuss
+T10870	Cybele (Cybele) bellatula Dalman, 1827
+T10871	Cybele (Cybele) grewingki Schmidt, 1881
+T10872	Cybele coronata Schmidt, 1881
+T10873	Cybele rex Nieszkowski, 1857
+T10874	Cybele xiphere Öpik, 1925
+T10875	Cybosia mesomella (Linnaeus, 1758)
+T10876	Cyclendoceras
+T10877	Cyclocrinites spasskii Eichwald
+T10878	Cyclocrinus
+T10879	Cyclocrinus spasski Eichwald
+T10880	Cyclolites undulata Lam.
+T10881	Cyclonema (C.) hiiumaa Teichert
+T10882	Cyclonema hiiumaa Teichert, 1928
+T10883	Cyclonema lineatum Koken, 1897
+T10884	Cyclophora albipunctata (Hufnagel, 1767)
+T10885	Cyclophora pendularia (Clerck, 1759)
+T10886	Cyclophora punctaria (Linnaeus, 1758)
+T10887	Cylindraspis latispinosa Sandberger
+T10888	Cymatiogale columellifera
+T10889	Cymatiogale
+T10893	Cymatiogalea aspergillum Martin, 1988
+T10894	Cymatiogalea bellicosa Deunff, 1961
+T10895	Cymatiogalea cristata (Downie 1958) Rauscher 1973
+T10896	Cymatiogalea cuvillieri (Deunff, 1961) Deunff 1964
+T10897	Cymatiogalea dentalea
+T10898	Cymatiogalea deunffii Jardiné, Combaz, Magloire, Peniguel and Vachey 1974, 1974
+T10899	Cymatiogalea messaoudensis Jardiné, Combaz, Magloire, Peniguel and Vachey 1974, 1974
+T10904	Cymatiogalea virgulta Martin, 1988
+T10905	Cymatiogalea wironia
+T10907	Cymatiosphaera capsulara Jankauskas, 1976
+T10908	Cymatiosphaera postii Jankauskas, 1976
+T10909	Cymatiosphaera
+T10911	Cyphaspis barrandei Corda
+T10912	Cyphaspis burmeisteri Barrande
+T10913	Cyphaspis depressa Barrande
+T10914	Cyphaspis elegantulus Angelin, 1854
+T10915	Cyphaspis planifrons Eichwald, 1861
+T10916	Cyphotrypa stidhami (Ulrich, 1863)
+T10917	Cyphotrypa wilmingtonensis Ulrich & Bassler, 1904
+T10918	Cypressocrinus elongatus Goldf.
+T10919	Cypressocrinus gracilis Goldf.
+T10920	Cypridina nitida A. Roemer
+T10921	Cyprina rotundata A. Braun
+T10922	Cyprina rotundata Braun
+T10923	Cyprina rotundata valatis
+T10924	Cyprina vetusta Roemer
+T10925	Cyrena brommi
+T10926	Cyrena tenuistriata Desh.
+T10927	Cyrtia exporrecta (Wahlenberg, 1821)
+T10928	Cyrtina hamiltonensis Hall, 1857
+T10929	Cyrtoceras ambiquum Barrande
+T10930	Cyrtoceras angulosum Schmidt
+T10931	Cyrtoceras depressum Goldfuss
+T10932	Cyrtoceras elongatum Barrande
+T10933	Cyrtoceras imperiale Barrande
+T10934	Cyrtoceras intermedium Barrande
+T10935	Cyrtoceras perelegans Barrande
+T10936	Cyrtoceras plebeium Barrande
+T10937	Cyrtoceras subuloideum Barrande
+T10938	Cyrtodonta rotundata Bekker, 1921
+T10939	Cyrtograptus
+T10940	Cyrtometopus clavifrons Dalman
+T10941	Cyrtometopus plautini Schmidt, 1881
+T10942	Cyrtonotella barbara Öpik
+T10943	Cyrtonotella kukersiana (Wysogorski)
+T10944	Cyrtorizoceras uncum Stumbur
+T10945	Cyrtospirifer archiaci (Murchison, 1840)
+T10946	Cystiphyllum conifollis ( Hall, 1876)
+T10947	Cystiphyllum americanum Edward & Heyne
+T10948	Cystiphyllum lamellosum Goldf.
+T10949	Cystiphyllum vesiculosum Goldfuss
+T10950	Cystiphyllum vesiculosum Phil.
+T10951	Cystoblastus kokeni Jaekel, 1918
+T10952	Cytherea beyrichi Semp.
+T10953	Cytherea incrassata Sowbery
+T10954	Cytherea incrassata Sowerby
+T10955	Cytherea splendida Mer.
+T10956	Cytherina fugax u gregaria Barrande
+T10957	Cytherina gerlonga Barrande
+T10958	Cytherina gregaria Barrande
+T10959	Cytherina memoranda Barrande
+T10960	Cytherina pelagia Barrande
+T10961	Cytherina prunella Barrande
+T10962	Dactylocrinus oligoptilis (Pacht.)
+T10963	Dactylocrinus oligoptilus (Pacht)
+T10964	Dactylogonia luhai (Sokolskaja)
+T10965	Dadoxylon tchichatcheffi Goeppert
+T10966	Dalejina hybrida (Sowerby)
+T10967	Dalejina
+T10968	Dalila incumbens
+T10969	Dalmanella kegelensis Alichova, 1954
+T10970	Dalmanella navis Öpik, 1930
+T10971	Dalmanella wesenbergensis Wysogorski
+T10972	Dalmania caudata Barrande
+T10973	Dalmanites dubia Barrande
+T10974	Dalmanites limulurus (Green, 1832)
+T10975	Dalmanites phillipsi Barrande
+T10976	Dalmanites rugosa Corda
+T10977	Dalmanites socialis var. proaeva Emm.
+T10978	Dalmanitina socialis Barrande
+T10979	Daphnis nerii (Linnaeus, 1758)
+T10980	Dartmuthia gemmifera Patten, 1931
+T10981	Dartmuthia
+T10982	Dasydiacrodium caudatum Vanguestaine, 1973
+T10983	Dasydiacrodium obsonum Martin, 1988
+T10984	Dasypolia templi (Thunberg, 1792)
+T10985	Dawsonoceras compactum Stumbur
+T10986	Dawsonoceras fenetratum (Eichwald, 1860)
+T10987	Dawsonoceras infernum Stumbur
+T10988	Dawsonoceras largeum Stumbur
+T10989	Deilephila elpenor elpenor (Linnaeus, 1758)
+T10990	Deilephila porcellus (Linnaeus, 1758)
+T10991	Deileptenia ribeata (Clerck, 1759)
+T10992	Dekayella foliacea Ulrich and Bassler, 1904
+T10993	Dekayella praenuntia simplex Ulrich, 1893
+T10994	Dekayella singularis (Ulrich, 1890)
+T10995	Dekayella ulrichi (Nicholson, 1881)
+T10996	Dekayia maculata James, 1881
+T10997	Delthyris acuminata Hall
+T10998	Delthyris curtaena (Dalm.)
+T10999	Delthyris elevata Dalman
+T11000	Delthyris granuliformis Hall
+T11001	Delthyris mucronata Hall
+T11002	Delthyris
+T11003	Deltote bankiana (Fabricius, 1775)
+T11004	Demospongiae Sollas, 1885
+T11005	Dendrodus
+T11006	Dendrolimus pini pini (Linnaeus, 1758)
+T11007	Densastroma podolicum (Yavorsky, 1929)
+T11008	Densiphyllum thomsoni Dybowski, 1873
+T11009	Dentalium avenarium Roemer
+T11010	Dentalium fissura Lamarck
+T11011	Diachrysia chrysitis (Linnaeus, 1758)
+T11012	Diachrysia tutti (Kostrovicki, 1961)
+T11013	Diacrisia sannio (Linnaeus, 1758)
+T11014	Dianulites fastigiatus Eichwald
+T11015	Dianulites grandis Bassler
+T11016	Diaphora mendica (Clerck, 1759)
+T11017	Diarsia brunnea (Denis & Schiffermüller, 1775)
+T11018	Diarsia dahlii (Hübner, 1813)
+T11019	Diarsia mendica (Fabricius, 1775)
+T11020	Diarsia rubi (Vieweg, 1790)
+T11021	Dictyonema aluvereum Obut et Rytzk
+T11022	Dictyonema
+T11023	Dictyotidium hasletianum Vanguestaine, 1974
+T11024	Dictyotidium microreticulatum Hagenfeldt, 1989
+T11025	Dictyotidium operculatum Siverzeva & Volkova,
+T11026	Dictyotidium priscum Kiryanov & Volkova, 1979
+T11027	Didymothyris didyma (Dalman,1828)
+T11028	Didymothyris didyma (Dalman)
+T11029	Dielasma romingeri Hall
+T11030	Diestoceras conulus (Eichwald)
+T11031	Dimeropyge minuta Öpik, 1937
+T11032	Dinorthis (Plaesiomys) saxbyana Oraspõld, 1959
+T11033	Dinorthis (Plaesiomys) solaris (Buch)
+T11034	Dionide formosa Barrande
+T11035	Diphyphyllum minus A. Roemer
+T11036	Dipleura dekayi Green, 1832
+T11037	Diplobune quercyi (Filhol , 1877)
+T11038	Diplocraterion helmerseni (Öpik, 1929)
+T11039	Diplocraterion parallelum Torell, 1870
+T11040	Diplograptus bekkeri Öpik, 1927
+T11041	Diplograptus portumus Eichwald
+T11042	Diplotrypa bicornis (Eichwald, 1829)
+T11043	Diplotrypa bicornis Eichwald
+T11044	Diplotrypa lamellaris Bekker, 1921
+T11045	Diplotrypa moniliformis Bassler, 1911
+T11046	Diplotrypa petropolitana (Nichoson, 1879)
+T11047	Diplotrypa petropolitana Nicholson, 1879
+T11048	Diplotrypa petropolitana petropolitana (Nicholson, 1879)
+T11049	Diplotrypa petropolitana petropolitana Nicholson, 1879
+T11050	Diplotrypa pyramidalis Bekker
+T11051	Diplotrypa westoni Ulrich, 1889
+T11052	Dipterus
+T11054	Discina gibba Lamarck
+T11055	Discina
+T11056	Discoceras antiquissimus (Eichwald)
+T11057	Discoceras
+T11058	Discoidal crinoid holdfast
+T11059	Ditrypa arietina McIntosh, 1923
+T11060	Dittopora colliculata (Eichwald, 1856)
+T11061	Dittopora magnipora Bekker, 1921
+T11062	Dodecaceria caulleryi Dehorne, 1933
+T11063	Dolerorthis rustica osiliensis (Schrenk)
+T11064	Dolichometopus suecicus Angelin, 1854
+T11065	Donax
+T11066	Dreissena polymorpha Pallas, 1771
+T11067	Drepana curvatula (Borkhausen, 1790)
+T11068	Drepana falcataria (Linnaeus, 1758)
+T11069	Dromiopsis rugosa Schlotheim 1820
+T11070	Drymonia ruficornis (Hufnagel, 1766)
+T11071	Dualina
+T11072	Dypterygia scabriuscula (Linnaeus, 1758)
+T11073	Dyptychosteus
+T11074	Dysstroma citrata (Linnaeus, 1761)
+T11075	Dysstroma latefasciata (Blöcker, 1908)
+T11076	Dysstroma truncata (Hufnagel, 1767)
+T11077	Dystactella aedilis (Eichwald)
+T11078	Earias clorana (Linnaeus, 1761)
+T11079	Ecclimadictyon microvesiculosum (Riabinin, 1951)
+T11080	Echinoconus conicus Ag
+T11081	Echinoconus roemeri Desor
+T11082	Echinocorys vulgaris Breynius 1732
+T11083	Echinoencrinites angulosus (Pander, 1830)
+T11084	Echinolampas
+T11085	Echinoneus ovatus Münster
+T11086	Echinosphaerites aurantium Gyll.
+T11087	Echinosphaerites aurantium infra Hecker
+T11088	Echinosphaerites aurantium suprum Hecker
+T11089	Echinus pusillus Münst
+T11090	Ecliptopera capitata (Herrich-Schäffer, 1839)
+T11091	Ecliptopera silaceata (Denis & Schiffermüller, 1775)
+T11092	Eilema complana (Linnaeus, 1758)
+T11093	Eilema deplana (Esper, 1787)
+T11094	Eilema griseola (Hübner, 1803)
+T11095	Eilema lurideola (Zincken, 1817)
+T11096	Eilema lutarella (Linnaeus, 1758)
+T11097	Eilema sororcula (Hufnagel, 1766)
+T11098	Elaeacrinus verneuilli F. Römer
+T11099	Elaphria venustula (Hübner, 1790)
+T11100	Eldonia ludwigi Walcott, 1911
+T11101	Electrophaes corylata (Thunberg, 1792)
+T11102	Elegantacpis reticornis Heintz
+T11103	Eleutherocrania gibberosa Huene, 1899
+T11104	Eliasum microgranulatum Hagenfeldt, 1989
+T11105	Elliptocephalus asaphoides Emmons, 1849
+T11106	Elliptocyprites nonumbonatus (Hessland, 1949)
+T11107	Elliptocyprites nonumbonatus (Hessland, 1949)
+T11108	Ellypsocephalus hoffi Schlotheim
+T11109	Elrathia hoboi Resser and Endo, 1937
+T11110	Ena
+T11111	Enargia paleacea (Esper, 1788)
+T11112	Encrinuroides seebachi Schmidt
+T11113	Encrinurus kiltsiensis Rosenstein, 1941
+T11114	Encrinurus pilistverensis Rosenstein, 1941
+T11115	Encrinurus punctatus (Wahlenberg, 1821)
+T11116	Encrinurus rumbaensis Rosenstein, 1941
+T11117	Encrinurus seebachi Schmidt
+T11118	Encrinurus
+T11119	Encrinus granulosus Münster.
+T11120	Encrinus liliformis
+T11121	Encrinus liliiformis
+T11122	Encrinus liliiformis Miller
+T11123	Encrinus varians Münster
+T11124	Endoceras commune Wahlenberg, 1820
+T11125	Endoceras duplex Wahlenberg, 1818
+T11126	Endoceras iucundum Stumbur
+T11127	Endoceras magnum Stumbur
+T11128	Endoceras
+T11129	Endoceras vaginatum (Schlotheim, 1813)
+T11130	Endoceras vertebrale Eichwald, 1860
+T11131	Endromis versicolora (Linnaeus, 1758)
+T11132	Ennomos alniaria (Linnaeus, 1758)
+T11133	Ennomos autumnaria (Werneburg, 1859)
+T11134	Ennomos erosaria (Denis & Schiffermüller, 1775)
+T11135	Ennomos fuscantaria (Haworth, 1809)
+T11136	Entomis sigma Krause, 1889
+T11137	Eobromidella cicatriosa Sarv, 1959
+T11138	Eofletcheria orvikui (Sokolov, 1955)
+T11139	Eofletcheria tubulus (Dybowski, 1873)
+T11140	Eoleperditia
+T11141	Eoorthis
+T11142	Eoplectodonta aluverensis
+T11143	Eoplectodonta duvalii (Davidson)
+T11144	Eoplectodonta schmidti (Lindström)
+T11145	Eospiringerina sulevi Jaanusson
+T11146	Ephippiorthoceras magnum Stumbur
+T11147	Epione repandaria (Hufnagel, 1767)
+T11148	Epione vespertaria (Linnaeus, 1767)
+T11149	Epirranthis diversata (Denis & Schiffermüller, 1775)
+T11150	Epirrhoe alternata (Müller, 1764)
+T11151	Epirrhoe galiata (Denis & Schiffermüller, 1775)
+T11152	Epirrhoe hastulata (Hübner, 1790)
+T11153	Epirrhoe pupillata (Thunberg, 1788)
+T11154	Epirrhoe tristata (Linnaeus, 1758)
+T11155	Epirrita autumnata (Borkhausen, 1794)
+T11156	Epirrita dilutata (Denis & Schiffermüller, 1775)
+T11157	Erannis defoliaria (Clerck, 1759)
+T11158	Erebia ligea (Linnaeus, 1758)
+T11159	Eriditidae
+T11160	Eridophyllum frictum Edward & Heyne
+T11161	Eridotrypa aedilis (Eichwald, 1855)
+T11162	Eridotrypa minor (Ulrich, 1893)
+T11163	Eriogaster lanestris (Linnaeus, 1758)
+T11164	Erynnis tages (Linnaeus, 1758)
+T11165	Eschara dichotoma
+T11166	Escharopora recta Hall, 1847
+T11167	Esthonipora communis Bassler
+T11168	Estiastra minima Volkova, 1969
+T11169	Estlandia marginata Pahlen
+T11170	Estlandia marginata (Pahlen)
+T11171	Estlandia marginata aspera Öpik
+T11172	Estlandia pyron pyron (Eichwald, 1840)
+T11173	Estlandia pyron silicificata Öpik
+T11174	Estonioceras
+T11175	Estoniops exilis Eichwald
+T11176	Estonirhynchia estonica (H. Schmidt, 1954)
+T11177	Estonomena estonensis (Bekker, 1921)
+T11178	Estonomena estonensis (Bekker)
+T11179	Estonomena kalevi Rõõmusoks, 2004
+T11180	Estonomena lindae Rõõmusoks, 1989
+T11181	Eublemma minutata (Fabricius, 1794)
+T11182	Eucalyptocrinites
+T11184	Eucalyptocrinus rosaceus Goldf.
+T11185	Euchalcia modestoides Poole, 1989
+T11186	Euchoeca nebulata (Scopoli, 1763)
+T11187	Euclidia glyphica (Linnaeus, 1758)
+T11188	Euconulus fulvus (Müller, 1774)
+T11189	Eugnorisma (Metagnorisma) depuncta (Linnaeus, 1761)
+T11190	Eugraphe sigma (Denis & Schiffermüller, 1775)
+T11191	Eulithis mellinata (Fabricius, 1787)
+T11192	Eulithis populata (Linnaeus, 1758)
+T11193	Eulithis prunata (Linnaeus, 1758)
+T11194	Eulithis pyraliata (Denis & Schiffermüller, 1775)
+T11195	Eulithis pyropata (Hübner, 1809)
+T11196	Eulithis testata (Linnaeus, 1761)
+T11197	Euloma ornatum Angelin, 1854
+T11198	Euomphalus (Straparollus) circinalis Goldf.
+T11199	Euomphalus annulatus Phill.
+T11200	Euomphalus archiaci Goldfuss
+T11201	Euomphalus articulatus Goldfuss
+T11202	Euomphalus bronnii Goldfuss
+T11203	Euomphalus catenulatus Hisinger
+T11204	Euomphalus coluber Barrande
+T11205	Euomphalus delphinuloides (Goldf.)
+T11206	Euomphalus funatus (Sowerby)
+T11207	Euomphalus goldfussii d'Arch. & Verneuil
+T11208	Euomphalus labadages d'Orb.
+T11209	Euomphalus laevis d'Orb.
+T11210	Euomphalus planorbis Roemer
+T11211	Euomphalus radiatus Goldf.
+T11212	Euomphalus rugosus (Sowerby)
+T11213	Euomphalus sculptus (Sow.)
+T11214	Euomphalus serpuna de Kon.
+T11215	Euomphalus
+T11216	Euomphalus striatus d'Orb.
+T11217	Euomphalus wahlenbergii Goldfuss
+T11218	Euphydryas aurinia (Rottemburg, 1775)
+T11219	Euphydryas maturna (Linnaeus, 1758)
+T11220	Euphyia biangulata (Haworth, 1809)
+T11221	Euphyia unangulata (Haworth, 1809)
+T11222	Eupithecia abietaria (Goeze, 1781)
+T11223	Eupithecia absinthiata (Clerck, 1759)
+T11224	Eupithecia actaeata Walderdorff, 1869
+T11225	Eupithecia assimilata Doubleday, 1856
+T11226	Eupithecia centaureata (Denis & Schiffermüller, 1775)
+T11227	Eupithecia conterminata Lienig, 1846
+T11228	Eupithecia denotata (Hübner, 1813)
+T11229	Eupithecia exiguata (Hübner, 1813)
+T11230	Eupithecia gelidata Möschler, 1860
+T11231	Eupithecia icterata (de Villers, 1789)
+T11232	Eupithecia indigata (Hübner, 1813)
+T11233	Eupithecia innotata (Hufnagel, 1767)
+T11234	Eupithecia intricata (Zetterstedt, 1839)
+T11235	Eupithecia inturbata (Hübner, 1817)
+T11236	Eupithecia lanceata (Hübner, 1825)
+T11237	Eupithecia lariciata (Freyer, 1841)
+T11238	Eupithecia linariata (Denis & Schiffermüller, 1775)
+T11239	Eupithecia nanata (Hübner, 1813)
+T11240	Eupithecia pimpinellata (Hübner, 1813)
+T11241	Eupithecia plumbeolata (Haworth, 1809)
+T11242	Eupithecia pusillata (Denis & Schiffermüller, 1775)
+T11243	Eupithecia pygmaeata (Hübner, 1799)
+T11244	Eupithecia satyrata (Hübner, 1813)
+T11245	Eupithecia selinata Herrich-Schäffer, 1861
+T11246	Eupithecia simpliciata (Haworth, 1809)
+T11247	Eupithecia sinuosaria (Eversmann, 1848)
+T11248	Eupithecia subfuscata (Haworth, 1809)
+T11249	Eupithecia subumbrata (Denis & Schiffermüller, 1775)
+T11250	Eupithecia succenturiata (Linnaeus, 1758)
+T11251	Eupithecia tantillaria Boisduval, 1840
+T11252	Eupithecia tenuiata (Hübner, 1813)
+T11253	Eupithecia tripunctaria Herrich-Schäffer, 1852
+T11254	Eupithecia trisignaria Herrich-Schäffer, 1848
+T11255	Eupithecia valerianata (Hübner, 1813)
+T11256	Eupithecia venosata (Fabricius, 1787)
+T11257	Eupithecia virgaureata Doubleday, 1861
+T11258	Eupithecia vulgata (Haworth, 1809)
+T11259	Euplexia lucipara (Linnaeus, 1758)
+T11260	Euprimites (Euprimites) anisus Jaanusson, 1957
+T11261	Euprimites (Euprimites) effusus Jaanusson, 1957
+T11262	Euprimites ansisus Jaanusson, 1957
+T11263	Euprimites reticulogranulatus Hessland, 1949
+T11264	Eupsilia transversa (Hufnagel, 1766)
+T11265	Eurois occulta (Linnaeus, 1758)
+T11266	Eurypterus fischeri Eichwald
+T11267	Eustroma reticulata (Denis & Schiffermüller, 1775)
+T11268	Euthrix potatoria potatoria (Linnaeus, 1758)
+T11269	Euxoa
+T11270	Euxoa (Euxoa) recussa (Hübner, 1817)
+T11271	Euxoa cursoria (Hufnagel, 1766)
+T11272	Euxoa nigricans (Linnaeus, 1761)
+T11273	Euxoa tritici (Linnaeus, 1761)
+T11274	Evenkiella
+T11275	Exogyra renisformis
+T11276	Exogyra virgula
+T11277	Falcaria lacertinaria (Linnaeus, 1758)
+T11278	Favastria hypocrateriforme Goldf.
+T11279	Favositella exerta Bassler
+T11280	Favositella laxata Ulrich
+T11281	Favositella
+T11282	Favosites alveolaris
+T11283	Favosites cervicornis d'Orbigny
+T11284	Favosites favosus (Goldfuss, 1826)
+T11285	Favosites forbesi (Edwards & Haime)
+T11286	Favosites gotlandicus Lamarck
+T11287	Favosites polymorpha
+T11288	Favosites polymorpha var. tuberasiramasa Goldfuss
+T11289	Favosites pseudoforbesi ohersaarensis Klaamann,1962
+T11290	Favosites
+T11291	Favosites vectorinus Klaamann, 1962
+T11292	Favosites vicinalis Klaamann, 1962
+T11294	Fedora nodosa Silén, 1947
+T11295	Fenestella aculeata Sandberger
+T11296	Fenestella antiqua
+T11297	Fenestella retiformis (Lonsd.)
+T11298	Fenestella
+T11300	Fenestella subrectangularis Sandberger
+T11301	Fenestrirostra
+T11302	Fimbria
+T11303	Fimbriaglomerella membranacea Kiryanov, 1974
+T11304	Fimbriaglomerella minuta Jankauskas, 1979
+T11305	Fistulipora maculosa (Hall, 1874)
+T11306	Fistulipora tenuilamellata (Bassler 1911)
+T11307	Fossiliseerunud puu (Fossiles Holz)
+T11308	Foveola maarduensis Gorjansky, 1969
+T11309	Fragmendid inartikulaatidest
+T11310	Fraxinus praedicta Heer
+T11311	Fruticicola fruticum (Muller, 1774)
+T11312	Furcula bicuspis (Borkhausen, 1790)
+T11313	Furcula bifida (Brahm, 1787)
+T11314	Furcula furcula (Clerck, 1759)
+T11315	Fusulina cylindrica d' Orbigny
+T11316	Gagitodes sagittata (Fabricius, 1787)
+T11317	Galba palustris (Müller)
+T11318	Galba truncatula ( Müller, 1774)
+T11319	Galerites (Echinoconus) vulgaris d'Orbigny
+T11320	Galerites
+T11321	Gastropacha populifolia populifolia (Denis & Schiffermüller, 1775)
+T11322	Gastropacha quercifolia quercifolia (Linnaeus, 1758)
+T11323	Geisonoceras rapiforme (Sandverg ja Sandberg,1850)
+T11325	Geniculina maennili Rõõmusoks
+T11326	Geniculina pseudoalternata (Schmidt, 1858)
+T11327	Geniculina pseudoalternata (Schmidt)
+T11328	Geniculina ralfi Rõõmusoks, 2004
+T11329	Geniculina subaequiclina (Alichova, 1951)
+T11330	Geniculina subaequiclina (Alichova), 1937
+T11331	Geniculina vironiensis Rõõmusoks, 2004
+T11332	Geniculina voorensis Rõõmusoks, 2004
+T11333	Geometra papilionaria (Linnaeus, 1758)
+T11334	Gerronostroma Yavorsky
+T11336	Gervilleia (Hoernesia) costata v. Schloth.
+T11337	Gervilleia (Hoernesia) socialis v. Schloth
+T11338	Gervillia aviculoides Sowbery
+T11339	Gervillia socialis
+T11340	Gibberella chmielewskii (Schmidt)
+T11341	Glaucopsyche (Maculinea) arion (Linnaeus, 1758)
+T11342	Globispira winkleri Öpik, 1930
+T11343	Globosphaeridium  cerinum (Volkova, 1968) Moczydlowska, 1991
+T11344	Glomerula gordialis (Schlotheim, 1820)
+T11345	Glossomorphites digitatus (Krause, 1889)
+T11346	Glossomorphites digitatus (Krause, 1892)
+T11347	Glossomorphites grandispinosus (Hessland, 1949)
+T11348	Glossorthis linda Öpik, 1930
+T11349	Glossorthis linda virgata Öpik, 1930
+T11350	Glossorthis
+T11351	Glossorthis tacens Öpik, 1930
+T11352	Gluphisia crenata (Esper, 1785)
+T11353	Glycymeris obovatus (Lamarck)
+T11354	Glycymeris obovatus (Lamarck) var crassus Speyer
+T11355	Glycymeris obovatus (Lamarck) var. Orbicularis
+T11356	Glyptocrinus
+T11357	Glyptolepis
+T11359	Gomphoceras subfusiforme Vortlock
+T11360	Gonambonites marginatus (Pahlen, 1877)
+T11361	Gonambonites marginatus asper Öpik, 1930
+T11362	Gonambonites marginatus magnus Öpik, 1930
+T11363	Gonambonites panderi Öpik, 1930
+T11364	Gonambonites pyrum Eichwald
+T11365	Gonepteryx rhamni (Linnaeus, 1758)
+T11366	Goniaster quinqueloba
+T11367	Goniatites (Manticoceras) intumescens Beyr.
+T11368	Goniatites aequalis Beyrich
+T11369	Goniatites buchii d'Arch. & Vern.
+T11370	Goniatites calculiformis Beyrich
+T11371	Goniatites carinatus Beyrich
+T11372	Goniatites compressus (Beyrich); Spirula compressa (Goldf.)
+T11373	Goniatites crenistria Phillips
+T11374	Goniatites intermercens Beyrich
+T11375	Goniatites intermerceus Beyrich
+T11376	Goniatites lamed S. var cordatus Sandberger
+T11377	Goniatites lamed Sandberger
+T11378	Goniatites mixolobus Phillips
+T11379	Goniatites plebeius Barrande
+T11380	Goniatites retrorsus Buch
+T11381	Goniatites retrosus (L. v. Buch)
+T11382	Goniatites
+T11383	Goniatites subnautilinus Buch
+T11384	Goniatites uniangularis Conrad. 1842
+T11385	Goniodiscus ruderatus
+T11386	Goniodiscus ruderatus (Studer)
+T11387	Goniomya dyboisi Agassiz
+T11388	Goniomya trapezicosta Pusch.
+T11389	Gonionema reticulatum Koken, 1896
+T11390	Gonionema
+T11394	Goniosphaeridium dentatum
+T11395	Goniosphaeridium tuberatum
+T11397	Goniosphaeridium volkovae Hagenfeldt, 1989
+T11398	Gortyna flavago (Denis & Schiffermüller, 1775)
+T11399	Gosseletia carinata Goldfuss
+T11400	Graciloceratidae
+T11404	Grammysia hamiltonensis Verneuil
+T11405	Grammysia obliqua (McCoy, 1852)
+T11406	Grammysia ovata Sandberger
+T11407	Grammysia
+T11408	Graphiphora augur (Fabricius, 1775)
+T11409	Graptodictya bonnemai Bassler, 1911
+T11410	Graptodictya bonnemai jaervensis Bekker, 1921
+T11411	Graptodictya delicata Männil
+T11412	Graptodictya maculata Bekker
+T11413	Graptodictya minima Bekker, 1921
+T11414	Graptodictya obliqua Bassler, 1911
+T11415	Graptodictya
+T11416	Graptolites ovatus Barrande
+T11417	Graptolites palmens Barrande
+T11418	Graptolites priodon Bronn
+T11419	Graptolites proteus Barrande
+T11420	Graptolites spiralis Grin
+T11421	Graptolites turriculatus Barrande
+T11422	Gryphaea arcuata Lamarck
+T11423	Gryphaea arcuata Lamarck.
+T11424	Gryphaea corrugata Say
+T11425	Gryphaea dilatata Hallam & Gould
+T11426	Gymnoscelis rufifasciata (Haworth, 1809)
+T11427	Gynaephora selenitica (Esper, 1763)
+T11428	Gynoceras expansus Saemann
+T11429	Gypidula galeata (Dalman, 1828)
+T11430	Gypidula
+T11431	Gyraulus albus (O. F. Müller 1774)
+T11432	Gyroceras alatum Barrande
+T11433	Gyroceras eiselense Goebel
+T11434	Gyroceras nodosum Goebel
+T11435	Gyroporella annulata
+T11436	Habrosyne pyritoides (Hufnagel, 1766)
+T11437	Hadena
+T11438	Hadena albimacula (Borkhausen, 1792)
+T11439	Hadena compta compta (Denis & Schiffermüller, 1775)
+T11440	Hadena confusa (Hufnagel, 1766)
+T11441	Hadrophyllum d'orbynyanum Edward & Heyne
+T11442	Haliophyllum halli Edward & Heyne
+T11443	Halitherium schinzi Kaup
+T11444	Haljalanites anijana (Öpik, 1930)
+T11445	Haljalanites assatkini (Alichova, 1951)
+T11446	Haljalanites grandis (Alichova, 1951)
+T11448	Hallopora dumalis (Ulrich, 1893)
+T11449	Hallopora dybowski Bassler, 1911
+T11450	Hallopora multituberculata (Ulrich)
+T11451	Hallopora nodulosa (Nicholson, 1875)
+T11452	Hallopora onealli var. communis (James)
+T11453	Hallopora ramosa (D'Orbigny, 1850)
+T11454	Hallopora rugosa ( Milne-Edwards and Haime, 1851)
+T11455	Hallopora subnodosa (Ulrich)
+T11456	Hallopora wesenbergiana Bassler
+T11457	Halyserites dechenianus Göppert
+T11458	Halysites catenularia Linnaeus
+T11459	Halysites catenularius (Linnaeus, 1767)
+T11461	Halysites
+T11462	Hamearis lucina (Linnaeus, 1758)
+T11463	Haplacanthus  marginalis  Agassiz, 1845
+T11464	Haplocrinus estonus Öpik
+T11465	Haplocrinus mespiliformis (Goldfuss, 1831)
+T11466	Haplocrinus mespiliformis F. Roemer
+T11470	Harjumena schmidti (Gagel, 1890)
+T11471	Harjumena
+T11472	Harpes ungula Steinbach
+T11473	Harpes vittatus Barrande
+T11474	Harpides breviceps Angelin
+T11475	Harpoceras lunula Q.
+T11476	Harpoceras lythense
+T11477	Harpoceras murchisonae Sow.
+T11478	Harpoceras
+T11479	Hazelia palmata Walcott, 1920
+T11480	Hazelia deliculata Walcott, 1920
+T11481	Heliastraea lucasana
+T11482	Heliocrinites araneus Schlotheim
+T11483	Heliocrinites balticus (Eichwald)
+T11484	Heliolites geinitzianus Barrande
+T11485	Heliolites halli (Dybowski)
+T11486	Heliolites interstincta
+T11487	Heliolites megastoma (Edwards & Haime)
+T11488	Heliolites subtubulatus (McCoy, 1905)
+T11489	Helix deflexa A. Braun
+T11490	Helix sylvana
+T11491	Helmersenia ladogensis (Jeremejew, 1856)
+T11492	Helmersenia
+T11493	Hemaris fuciformis (Linnaeus, 1758)
+T11494	Hemaris tityus (Linnaeus, 1758)
+T11495	Hemeaschmidtella
+T11496	Hemicosmites extraneus (Eichwald)
+T11497	Hemicosmites porosus Eichwald
+T11498	Hemicosmites rudis Jaekel
+T11499	Hemifusus
+T11500	Hemiphragma panderi (Dybowski, 1877)
+T11501	Hemiphragma subsphaericum Bassler
+T11502	Hemiphragma tenuimurale Ulrich, 1893
+T11503	Hemisphaerocoryphe pseudohemicranium Nieszkowski, 1859
+T11504	Hemithea aestivaria (Hübner, 1789)
+T11505	Hepialus humuli humuli (Linnaeus, 1758)
+T11506	Hercynia nobilis
+T11507	Hermannina hisingeri abbreviata Schmidt
+T11508	Herminia grisealis (Denis & Schiffermüller, 1775)
+T11509	Herminia strigillata (Linnaeus, 1758)
+T11510	Herminia tarsicrinalis (Knoch, 1782)
+T11511	Hesperia comma (Linnaeus, 1761)
+T11512	Hesperorthis inostrancevi Wysogorski
+T11513	Hesperorthis pljussensis Alichova, 1951
+T11514	Hesperorthis rae Oraspõld, 1956
+T11515	Hesslandella macroreticulata (Hessland, 1949)
+T11516	Heterogenea asella (Denis & Schiffermüller, 1775)
+T11517	Heteropora pustulosa Haime 1854
+T11518	Heterotrypa definita Dyer, 1925
+T11519	Heterotrypa frondosa (d'Orbigny, 1850)
+T11520	Heterotrypa moniliformis (Nicholson)
+T11521	Heterotrypa subramosa (Ulrich, 1879)
+T11522	Heterotrypa subramosa var prolifica Ulrich
+T11523	Hindella umbonata Billings
+T11524	Hipparchia (Parahipparchia) semele (Linnaeus, 1758)
+T11525	Hippopotamus major
+T11526	Hippurites cornu vaccinum
+T11527	Hippurites organisans
+T11528	Hoernesia (Gervillia) socialis Schlotheim
+T11529	Holmia kjerulfi (Linnarsson, 1873)
+T11530	Holmia mickwitzi (Schmidt)
+T11531	Holmia rowei Walcott, 1910
+T11532	Holopea  balticus
+T11533	Holopea
+T11534	Holopea ampullacea (Eichwald)
+T11535	Holopea eichwaldi Koken
+T11536	Holopea inaequistriata Koken
+T11537	Holopea simplex Eichwald
+T11538	Holoptychius nobilissimus Agassiz, 1839
+T11539	Holtedahlina moensis Rõõmusoks, 2004
+T11540	Holtedahlina rakverensis Oraspõld, 1956
+T11541	Holtedahlina sakuensis Oraspõld, 1956
+T11542	Holtedahlina subtilis Rõõmusoks, 2004
+T11543	Holtedahlina sulcata (de Verneuil, 1848)
+T11544	Homalonotus armatus Sandberger
+T11545	Homalonotus crassicauda Sandberger
+T11546	Homalonotus obtusus Sandberger
+T11547	Homalopyge stacey Schmidt
+T11548	Homeospira bayley (Davidson)
+T11549	Homoeospira baylei (Davidson)
+T11550	Homoeospira bouchardi (Davidson, 1847)
+T11551	Homostius latus Asmuss, 1856
+T11552	Homotrypa communis Bassler, 1903
+T11553	Homotrypa flabellaris Ulrich, 1890
+T11554	Homotrypa minnesotensis Ulrich
+T11555	Homotrypa ramulosa Bassler
+T11556	Homotrypa richmondensis Bassler, 1903
+T11557	Homotrypa similis Foord, 1883
+T11558	Homotrypa subramosa Ulrich, 1886
+T11559	Homotrypa wortheni var intercellata Bassler
+T11560	Homotrypella cribrosa Bassler
+T11561	Homotrypella hospitalis (Nicholson, 1881)
+T11562	Homotrypella instabilis Ulrich, 1886
+T11563	Homotrypella nodosa (Ulrich and Bassler)
+T11564	Hoplocrinus dipentas (Leuchtenberg, 1843)
+T11565	Hoplocrinus estonus Öpik, 1935
+T11566	Hoplocrinus grewingki Öpik
+T11567	Hoplocrinus grewingki Öpik, 1925
+T11568	Hoplocrinus pseudodicyclicus Öpik, 1935
+T11569	Hoplocrinus
+T11570	Hoplocrinus tallinnensis Öpik, 1935
+T11571	Hoplodrina blanda (Denis & Schiffermüller, 1775)
+T11572	Hoplodrina octogenaria (Goeze, 1781)
+T11573	Hoplolichas (Conolichas) monticulsus Öpik, 1937
+T11574	Hoplolichas conicotuberculatus (Nieszkowski)
+T11575	Hoplolichas furcifer F. Schmidt, 1885
+T11576	Horisme tersata (Denis & Schiffermüller, 1775)
+T11577	Horisme vitalbata (Denis & Schiffermüller, 1775)
+T11578	Howellites wesenbergensis (Alichova, 1951)
+T11579	Hybocrinus
+T11580	Hydrelia flammeolaria (Hufnagel, 1767)
+T11581	Hydrelia sylvata (Denis et Schiffermüller, 1775)
+T11582	Hydria cervinalis (Scopoli, 1763)
+T11583	Hydria undulata (Linnaeus, 1758)
+T11584	Hydriocrinus pusillus Trautschold, 1867
+T11585	Hydriomena furcata (Thunberg, 1784)
+T11586	Hydriomena impluviata (Denis & Schiffermüller, 1775)
+T11587	Hydriomena ruberata (Freyer, 1831)
+T11588	Hyles euphorbiae euphorbiae (Linnaeus, 1758)
+T11589	Hyles gallii (Rottemburg, 1775)
+T11590	Hyles livornica (Esper, 1780)
+T11591	Hyolithellus
+T11592	Hyolithes
+T11593	Hypena crassalis (Fabricius, 1787)
+T11594	Hypena proboscidalis (Linnaeus, 1758)
+T11595	Hypena rostralis (Linnaeus, 1758)
+T11596	Hypenodes humidalis Doubleday, 1850
+T11597	Hyponephele lycaon (Rottemburg, 1775)
+T11598	Hypoxystis pluviaria (Fabricius, 1787)
+T11599	Hyppa rectilinea (Esper, 1788)
+T11600	Ichthyostega
+T11601	Idaea aversata (Linnaeus, 1758)
+T11602	Idaea biselata (Hufnagel, 1767)
+T11603	Idaea dimidiata (Hufnagel, 1767)
+T11604	Idaea emarginata (Linnaeus, 1758)
+T11605	Idaea humiliata (Hufnagel, 1767)
+T11606	Idaea muricata (Hufnagel, 1767)
+T11607	Idaea pallidata (Denis & Schiffermüller, 1775)
+T11608	Idaea seriata (Schrank, 1802)
+T11609	Idaea serpentata (Hufnagel, 1767)
+T11610	Idaea straminata (Borkhausen, 1794)
+T11611	Idaea sylvestraria (Hübner, 1799)
+T11612	Ihnofossiil
+T11613	Ilionia (Lucina) hisengeri Verneuil
+T11614	Ilionia prisca (Hisinger)
+T11615	Illaenurus quadratus Hall, 1863
+T11616	Illaenus angustifrons Holm
+T11617	Illaenus bouchardi Barrande
+T11618	Illaenus dalmani Volborth, 1863
+T11619	Illaenus intermedius Holm
+T11620	Illaenus jevensis Holm
+T11621	Illaenus livonicus Holm
+T11622	Illaenus maskei Holm
+T11623	Illaenus oblongatus Angelin
+T11624	Illaenus oblongatus itferensis Holm
+T11625	Illaenus panderi Barrande
+T11626	Illaenus roemeri Volborth, 1864
+T11627	Illaenus schmidti Nieszkowski, 1857
+T11628	Illaenus
+T11629	Illaenus tauricornis Kutorga, 1848
+T11630	Illaenus wahlenbergianus Barrande
+T11631	Ilmarinia dimorpha Öpik, 1934
+T11632	Ilmarinia panderosa Öpik
+T11633	Ilmarinia ponderosa Öpik
+T11634	Ilmarinia sinuata (Pahlen, 1877)
+T11635	Impluviculus milonii (Deunff, 1968) Loeblich & Tappan, 1969
+T11636	Impluviculus multiangularis (Umnova, 1971) Volkova, 1990
+T11637	Inachis io (Linnaeus, 1758)
+T11638	Ingria aka Öpik
+T11639	Ingria expressa Öpik, 1932
+T11640	Ingria flabellum Öpik
+T11641	Ingria nefedyevi (Eichwald)
+T11642	Ingria pakriana Öpik, 1932
+T11646	Inoceramus balticus Böhm
+T11647	Inoceramus labiatus Schloth.
+T11648	Inoceramus labiatus Schlotheim
+T11649	Inoceramus schloenbachi Böhm
+T11650	Inoceramus
+T11651	Inversella angulata Öpik
+T11652	Inversella borealis Öpik
+T11653	Iphigena plicatula (Draparnaud)
+T11654	Iphigena ventricosa (Draparnaud, 1801)
+T11655	Ipimorpha retusa (Linnaeus, 1761)
+T11656	Ipimorpha subtusa (Denis & Schiffermüller, 1775)
+T11657	Irboskites fixatus Bekker, 1924
+T11658	Irboskites pskovensis Bekker
+T11659	Iru concava (Pahlen)
+T11660	Ischadites koenigi
+T11661	Ischadites koenigi Murchison
+T11662	Ischadites murchisoni Eichwald
+T11663	Ischadites
+T11664	Isocardia cornuta
+T11665	Isocardia humboltdi Goldf.
+T11666	Isocardia
+T11667	Isocardia suborbicularis Sandberger
+T11668	Isocardia subtransversa d'Orb
+T11669	Isocardia subtransversa d'Orbigny
+T11670	Isoxys acutangulus (Walcott, 1908)
+T11671	Issoria (Issoria) lathonia (Linnaeus, 1758)
+T11672	Izhoria angulata Golub ja Volkova, 1985
+T11673	Izhoria
+T11674	Jaekelaspis decipiens Woodward
+T11675	Jaekelaspis longicornis Heintz
+T11676	Joannites cymbiformis Wulfen
+T11677	Joannites Mojs
+T11678	Jodis lactearia (Linnaeus, 1758)
+T11679	Jodis putata (Linnaeus, 1758)
+T11680	Juglaus acuminata A. Braun
+T11681	Kaelususs Serpula dilatata d'Arch
+T11682	Keilamena occidens (Oraspõld, 1956)
+T11683	Kettnerites bankvaetensis Bergman, 1987
+T11684	Kettnerites sisyphi klasaardensis Bergman, 1987
+T11685	Kettnerites sisyphi sisyphi Bergman, 1987
+T11686	Kettnerites
+T11687	Keyserlingia buchii (de Verneuil, 1845)
+T11688	Keyserlingia
+T11689	Kitiiniku laadne mikrofosiil
+T11690	Kjaerina orvikui (Oraspõld, 1956)
+T11691	Kjaerina poljensis (Alichova, 1951)
+T11692	Kjerina poljensis (Alichova, 1951)
+T11693	Kokenospira retifera Öpik, 1930
+T11694	Kootenia dawsoni (Walcott, 1918 )
+T11695	Koproliit
+T11696	Koprolith
+T11697	Koslowskiprion brevialatus
+T11698	Koslowskiprion longicavernosus Kielan-Jaworowska, 1966
+T11699	Koslowskiprion
+T11700	Krattaspis viridatus Öpik, 1937
+T11701	Krinoidide varrelülid
+T11702	Kukrusena peetriensis Rõõmusoks, 2004
+T11703	Kullervo aluverensis Öpik, 1934
+T11704	Kullervo intacta Öpik, 1934
+T11705	Kullervo lacunata Öpik
+T11706	Kullervo lacunata Öpik, 1934
+T11707	Kullervo panderi Öpik, 1934
+T11708	Kurnamena acuta Rõõmusoks, 2004
+T11709	Kurnamena lateroguta Rõõmusoks
+T11710	Kurnamena laterorugata Rõõmusoks, 1989
+T11711	Kurnamena palmrei Rõõmusoks, 2004
+T11712	Kurnamena rugosoides (Oraspõld, 1956)
+T11713	Kurnamena taxilla (Oraspõld, 1956)
+T11714	Kutorgina cingulata Billings, 1861
+T11715	Labechia Riabinin
+T11716	Laccochilina decumana (Bonnema, 1909)
+T11717	Laceripora cribrosa (Eichwald)
+T11718	Lacunarites ilmatar Öpik
+T11719	Lacunarites ornatus (Eichwald)
+T11720	Ladogella rotundiformis Golub and Volkova, 1985
+T11721	Ladogia meyendorfi Verneuil
+T11722	Ladogiella imbricata Öpik
+T11723	Ladogiella sphaerica (Pander)
+T11724	Lagenochitina destombesii Elaouad-Debbaj
+T11725	Lagenochitina estonica Eisenack 1955
+T11727	Lambeophyllum dybowskii Kaljo
+T11728	Lamellispirifer muralis Verneuil
+T11729	Lamellocossus terebra (Denis & Schiffermüller, 1775)
+T11730	Lamna cuspidata Agassiz
+T11731	Lamna denticulata Agassiz
+T11732	Lamna elegans Lamarck
+T11733	Lamna
+T11734	Lampropteryx suffumata (Denis & Schiffermüller, 1775)
+T11735	Lamprotes c-aureum (Knoch, 1781)
+T11736	Laothoe amurensis Staudinger, 1879
+T11737	Laothoe populi populi (Linnaeus, 1758)
+T11738	Larentia clavaria (Haworth, 1809)
+T11739	Lasiocampa quercus quercus (Linnaeus, 1758)
+T11740	Lasiocampa trifolii trifolii (Denis & Schiffermüller, 1775)
+T11741	Lasiommata maera (Linnaeus, 1758)
+T11742	Lasiommata petropolitana (Fabricius, 1787)
+T11743	Lasionycta imbecilla (Fabricius, 1794)
+T11744	Laspeyria flexula (Denis & Schiffermüller, 1775)
+T11745	Laterophores ansiensis (Gailite, 1971)
+T11746	Leanchoilia superlata Walcott, 1912
+T11747	Leangella triangularis (Holtedahl)
+T11748	Leda gracilis Deshayes
+T11749	Leigerina hiiuensis Rõõmusoks, 2004
+T11750	Leiofusa stoumonensis Vanguestaine, 1973
+T11751	Leiolichas illaenoides Nieszkowski
+T11752	Leiosphaeridia fumiana Vanguestaine, 1974
+T11753	Leiosphaeridia gregalis Hagenfeldt, 1989
+T11755	Leiosphaeridia tenuissima Eisenack, 1958
+T11757	Leiosphaeridia voigtii Eisenack, 1958
+T11758	Leiovalia tenera Kiryanov, 1974
+T11759	Leonaspis roemeri (Barrande, 1852)
+T11760	Leperditia baltica Hisinger, 1831
+T11761	Leperditia tyraica Schmidt, 1874
+T11762	Lepidodendron tetragonum (Sternb.)
+T11763	Leptaena candata Schnur
+T11765	Leptaena depressa (J. de C. Sowerby, 1824)
+T11766	Leptaena depressa Dalman
+T11767	Leptaena dutertrii Murch.
+T11768	Leptaena estonensis Bekker, 1921
+T11769	Leptaena euglypha (Dalman)
+T11770	Leptaena funiculata Boritz
+T11771	Leptaena haranjeana de Vern.
+T11772	Leptaena interstrinalis Philips
+T11773	Leptaena juvenilis Öpik, 1930
+T11774	Leptaena laticosta Conrad
+T11775	Leptaena lepis de Vern.
+T11776	Leptaena plicata Murchison & Sedgwick
+T11777	Leptaena pseudoloricata Barrande
+T11778	Leptaena rhomboidalis (Wahlenberg, 1818)
+T11779	Leptaena rhomboidalis (Wilckens, 1769)
+T11780	Leptaena rugosoides Männil (in coll)
+T11781	Leptaena rugosoides Oraspõld, 1956
+T11782	Leptaena sedgiorgii Vern.
+T11783	Leptaena sp.
+T11784	Leptaena spumifera Öpik, 1930
+T11785	Leptaena trigonalis Schmidt
+T11786	Leptaena trigonalis Schmidt, 1908
+T11788	Leptelloidea (Leangella) triangularis (Holtedahl)
+T11789	Leptelloidea leptelloides (Bekker, 1921)
+T11790	Leptelloidea leptelloides (Bekker)
+T11791	Leptelloidea musca Öpik, 1930
+T11792	Leptelloidea musca alata Öpik, 1930
+T11793	Leptelloides leptelloides Bekker
+T11794	Leptembolon lingulaeformis (Mickwitz, 1896)
+T11795	Leptestia (Leptoptilum) bekkeri Öpik, 1930
+T11797	Leptestia diaphanes Öpik, 1930
+T11798	Leptestia musculosa Bekker, 1922
+T11799	Leptidea sinapis (Linnaeus, 1758)
+T11800	Leptoplastus stenotus Angelin, 1854
+T11801	Leptotrypa clavacoidea (James)
+T11802	Lesueurilla helix Eichwald
+T11803	Lesueurilla marginalis spiralis
+T11804	Leucania comma (Linnaeus, 1761)
+T11805	Leucania obsoleta (Hübner, 1803)
+T11806	Leucodonta bicoloria (Denis et Schiffermüller, 1775)
+T11807	Leucoma salicis (Linnaeus, 1758)
+T11808	Lichas (Lichas) squamulosus Öpik, 1937
+T11809	Lichas (Lichas) verrucosus Eichwald, 1842
+T11810	Lichas (Metopolichas) hübneri Eichwald, 1843
+T11811	Lichas (Metopolichas) pakrianus Öpik, 1937
+T11812	Lichas celorhin Angelin
+T11813	Lichas diabra Beyr.
+T11814	Lichas haueri Barrande
+T11815	Lichas inexspectatus Schmidt, 1907
+T11816	Lichas kuckersianus Schmidt, 1885
+T11817	Lichas palmata Barrande
+T11818	Lichas
+T11819	Lichas triconicus Dames, 1877
+T11820	Lichas wimani Öpik, 1925
+T11821	Lichenoides priscus Barrande, 1846
+T11822	Lichenopora hispida (Fleming, 1828)
+T11823	Liepaina plana Jankauskas & Volkova, 1979
+T11824	Ligdia adustata (Denis & Schiffermüller, 1775)
+T11825	Lima radiata
+T11826	Lima striata (Plagiostoma striatum) Goldf
+T11827	Lima striata (Plagiostoma striatum) Schlotheim
+T11828	Limenitis populi (Linnaeus, 1758)
+T11829	Limnea stagnalis (Linnaeus)
+T11830	Lingula beani
+T11831	Lingula lewisii Sowerby, 1839
+T11832	Lingula longissima Pander
+T11833	Lingula
+T11834	Lingula tenuissima Bronn
+T11835	Lingulata
+T11836	Lingulella chapa Walcott
+T11837	Lingulella exilis Resser and Endo
+T11838	Lingulella insons Barrande
+T11839	Lingulella
+T11840	Lioceras opalinum Rein
+T11841	Lioclema spineum ramosum Bekker, 1921
+T11842	Lioclemella clava Bassler
+T11843	Lioharpes venulosus (Hawle & Corda, 1847)
+T11844	Lithacodia uncula (Clerck, 1759)
+T11845	Lithomoia solidaginis (Hübner, 1803)
+T11846	Lithophane consocia (Borkhausen, 1792)
+T11847	Lithophane lamda (Fabricius, 1787)
+T11848	Lithophane socia (Hufnagel, 1766)
+T11849	Lithophyllia Edwards & Heine
+T11850	Lithostrotion
+T11851	Lithothamnium ramosissimum Reuss 1847
+T11852	Lithothamnium
+T11853	Litorinella (Hydrobia) acuta
+T11854	Lituites
+T11855	Lobites pisum Münster
+T11856	Lobocarcinus-paulino wurtemburgensis
+T11857	Lobophora halterata (Hufnagel, 1767)
+T11858	Locusta migratoria Linnaeus, 1758
+T11859	Lomaspilis marginata (Linnaeus, 1758)
+T11860	Lomaspilis opis (Butler, 1878)
+T11861	Lonchocephalus chippewaensis Owen, 1852
+T11862	Longiscula curvata (Hessland, 1949)
+T11863	Longiscula
+T11864	Longvillia asmusi (Verneuil, 1845)
+T11865	Lophiodon rhinocerodes Rotimeyer, 1862
+T11866	Lophiostroma schmidti (Nicholson, 1886)
+T11867	Lophosphaeridium bottnicum Hagenfeldt, 1989
+T11868	Lophosphaeridium latviense (Volkova, 1974) Moczydlowska 1998
+T11869	Lophosphaeridium
+T11870	Lophosphaeridium tynnii Hagenfeldt, 1989
+T11871	Lophosphaeridium variabile Volkova, 1974
+T11872	Lophosphaeridium zaleskyi (Naumova 1950) N.Umnova 1975
+T11873	Lopinga achine (Scopoli, 1763)
+T11874	Loxonema adsessa A. Roemer
+T11875	Loxonema arcuatum d'Orb.
+T11876	Loxonema fusiforma Römer
+T11877	Loxonema ovatum A. Roemer
+T11878	Loxonema ranellaeforma Roemer
+T11879	Loxonema
+T11880	Loxonema terebra A. Roemer
+T11881	Lua
+T11883	Lubivetikad
+T11884	Lucina antiqua Goldfuss
+T11885	Lucina declivis Roemer
+T11886	Lucina fischeriana Issel
+T11887	Lucina gracilis Nyst
+T11888	Lucina proavia
+T11889	Lucina proavia Goldfuss
+T11890	Lucina rectangularis Sandberger
+T11891	Lucina sinnosa Roemer
+T11892	Luhaia vardi Rõõmusoks, 1956
+T11893	Lunulidia lunula (Eisenack, 1951) Eisenack, 1958
+T11894	Lunulites hagenowi
+T11895	Lutraria inflata Steiniger
+T11896	Lycaena alciphron (Rottemburg, 1775)
+T11897	Lycaena dispar (Haworth, 1812)
+T11898	Lycaena hippothoe (Linnaeus, 1761)
+T11899	Lycaena phlaeas (Linnaeus, 1761)
+T11900	Lycaena virgaureae (Linnaeus, 1758)
+T11901	Lycia hirtaria (Clerck, 1759)
+T11902	Lycia lapponaria (Boisduval, 1840)
+T11903	Lycia pomonaria (Hübner, 1790)
+T11904	Lycophoria globosa Eichwald
+T11905	Lycophoria nucella (Dalman, 1828)
+T11906	Lycophotia porphyrea (Denis & Schiffermüller, 1775)
+T11907	Lygephila pastinum (Treitschke, 1826)
+T11908	Lygephila viciae (Hübner, 1822)
+T11909	Lymantria monacha (Linnaeus, 1758)
+T11910	Lymnaea stagnalis ( Linnæus, 1758)
+T11911	Lyopora tulaensis Sokolov, 1951
+T11912	Lyopora tulaensis Sokolov, 1955
+T11913	Lyriopecten ingriae Verneuil
+T11914	Lythodendron caespitosum Phil.
+T11915	Lythodendron conglomeratum Goldf.
+T11916	Lythria cruentaria (Hufnagel, 1767)
+T11917	Macaria alternata (Denis & Schiffermüller, 1775)
+T11918	Macaria brunneata (Thunberg, 1784)
+T11919	Macaria carbonaria (Clerck, 1759)
+T11920	Macaria liturata (Clerck, 1759)
+T11921	Macaria loricaria (Eversmann, 1837)
+T11922	Macaria notata (Linnaeus, 1758)
+T11923	Macaria signaria (Hübner, 1809)
+T11924	Macaria wauaria (Linnaeus, 1758)
+T11925	Macdunnoughia confusa (Stephens, 1850)
+T11926	Maclurites neritoides Eichwald
+T11927	Macoma balthica (Linnaeus, 1758)
+T11928	Macoma balthica Linnaeus, 1758
+T11929	Macrocephalites macrocephalus Schloth.
+T11930	Macrocephalites macrocephalus Schlotheim
+T11931	Macrocheilus schlotheimii d'Arch. & Vern.
+T11932	Macrocheilus subcostatus d'Orb
+T11933	Macroglossum stellatarum (Linnaeus, 1758)
+T11934	Macrothylacia rubi (Linnaeus, 1758)
+T11935	Macrypsilon
+T11936	Mactra trinacria
+T11937	Malacosoma castrense castrense (Linnaeus, 1758)
+T11938	Mammuthus primigenius (Blumenbach, 1799)
+T11939	Mammuthus primigenius Blumenback, 1799
+T11940	Maniola jurtina (Linnaeus, 1758)
+T11941	Marcusodictyon priscum (Bassler, 1911)
+T11942	Margaritifera margaritifera Linnaeus, 1758
+T11943	Marrella splendens Walcott, 1912
+T11944	Martania taeniata (Stephens, 1831)
+T11945	Mastodonsaurus jaegeri
+T11946	Mastopora concava (Eichwald)
+T11947	Medusites radiatus Linnarsson
+T11948	Megalaspides schmidti (Lamansky, 1905)
+T11949	Megalaspis heros Dalman, 1827
+T11950	Megalodus bipartitus F. Roemer
+T11951	Megalodus
+T11952	Megalomoide walliseri Isakar & Sinicyna, 1993
+T11953	Megalomoidea
+T11955	Megalomphala
+T11956	Meganteris archiaci Suess
+T11957	Meganteris terebratula de Verneuil
+T11958	Megaphyllites jarbas Münster
+T11959	Megistaspis (Megistaspis) elongata Schmidt
+T11960	Megistaspis (Megistaspis) gibba Schmidt
+T11961	Megistaspis (Megistaspis) hyorrhipa Leuchtenberg
+T11962	Megistaspis planilimbata (Angelin, 1851).
+T11963	Megistaspis estonica Tjernvik
+T11964	Megistaspis limbata (Boeck, 1838)
+T11965	Megistaspis
+T11966	Melania absoluta Goldf.
+T11967	Melania horrida Dkr.
+T11968	Melania inquinata Lamarck
+T11969	Melania korrida
+T11970	Melania strombiformis Schloth.
+T11971	Melania subangulata Goldf.
+T11972	Melanopsis kleini Kurr
+T11973	Melanostrophus fokini Öpik, 1930
+T11974	Melanostrophus signum Öpik, 1930
+T11975	Melitaea athalia (Rottemburg, 1775)
+T11976	Melitaea cinxia (Linnaeus, 1758)
+T11977	Melitaea phoebe (Denis & Schiffermüller, 1775)
+T11978	Melocrinus hieroglyphicus. (Goldfuss, 1831)
+T11979	Merista plebeja Sow.
+T11980	Merista
+T11981	Meristella ypsilon Barrande
+T11982	Meristina podolica Nikiforova
+T11983	Meristina tumida (Dalman, 1828)
+T11984	Mesapamea didyma (Esper, 1788)
+T11985	Mesapamea secalis (Linnaeus, 1758)
+T11986	Mesoleuca albicillata (Linnaeus, 1758)
+T11987	Mesoligia furuncula (Denis & Schiffermüller, 1775)
+T11988	Mesotrypa bystrowi Modzalevskaya, 1953
+T11989	Mesotrypa discoidea orientalis Bassler
+T11990	Mesotrypa prolifica Fritz
+T11991	Mesotype didymata (Linnaeus, 1758)
+T11992	Mesotype parallelolineata (Retzius, 1783)
+T11993	Metacopa
+T11994	Metopolichas verrucosus (Eichwald, 1842)
+T11995	Michelinia favosa
+T11996	Michelinoceras quantulum Stumbur, 1955
+T11997	Michelinoceras
+T11998	Mickwitzia (Causea) formosa Wiman
+T11999	Mickwitzia monilifera (Linnarsson, 1869)
+T12000	Mickwitzia monilifera Linnarsson
+T12001	Mickwitzia muralensis Walcott, 1913
+T12002	Mickwitzia
+T12003	Micraspis gracilis Kiaer
+T12004	Micraster coranguinum Ag.
+T12005	Micraster coranguinum Lam
+T12006	Micraster cortestudinarium Goldfuss
+T12007	Micrhystridium dissimilare Volkova, 1969
+T12008	Micrhystridium lanatum Volkova, 1968
+T12009	Micrhystridium lanceolatum Vanguestaine , 1974
+T12010	Micrhystridium notatum Volkova, 1969
+T12011	Micrhystridium obscurum
+T12012	Micrhystridium
+T12014	Micrhystridium spinosum Volkova, 1969
+T12015	Micrhystridium tornatum Volkova, 1968
+T12016	Microcheilinella
+T12017	Microdon
+T12018	Microsphaeridiorhynchus nucula (Sowerby)
+T12019	Miltochrista miniata (Forster, 1771)
+T12020	Mimas tiliae (Linnaeus, 1758)
+T12021	Mixosiphonoceras estonicum Stumbur
+T12022	Mjoesina maennili Rõõmusoks
+T12023	Mjoesina subaequiclina (Alichova, 1951)
+T12024	Mniotype adusta (Esper, 1790)
+T12025	Mniotype bathensis (Lutzau, 1901)
+T12026	Mniotype satura (Denis & Schiffermüller, 1775)
+T12027	Mochtyella cristata Kielan-Jaworowska, 1961
+T12028	Modiola corrugata Philippi, 1846
+T12029	Modiola micans Braun
+T12030	Modiolopsis
+T12031	Mollusca
+T12032	Moma alpium (Osbeck, 1778)
+T12033	Monograptus halli (Barrande, 1850)
+T12034	Monograptus latus McCoy
+T12035	Monograptus nudus Lapworth
+T12036	Monograptus priodon (Bronn, 1835)
+T12037	Monograptus proteus (Barrande, 1850)
+T12038	Monograptus
+T12039	Monograptus testis (Barrande, 1850)
+T12040	Monophyllites auslanus Hauer
+T12041	Monotis salinaria (Schlotheim 1820)
+T12042	Monotrypa jevensis Bassler, 1906
+T12043	Monticulipora pulchella (Edwards & Haime)
+T12044	Montlivaultia truncata
+T12045	Montlivoltia rugosa Münster
+T12046	Morania confluens Walcott, 1919
+T12047	Multiplicisphaeridium cervinacornua Welsch, 1986
+T12048	Multiplicisphaeridium dendroideum Jankauskas, 1976
+T12049	Multiplicisphaeridium
+T12050	Murchisonia  (Hormotoma) insignis (Eichwald, 1856)
+T12051	Murchisonia  (Hormotoma) scorbiculata Koken, 1897
+T12052	Murchisonia bilineata d'Arch.
+T12053	Murchisonia bistriata A. Roemer
+T12054	Murchisonia blumi Klipst.
+T12055	Murchisonia cingulata (Hisinger, 1829)
+T12056	Murchisonia coronata d'Arch. & Vern. Turritella coronata (Goldf.)
+T12057	Murchisonia intermedia d'Arch. & Vern.
+T12058	Murchisonia subangulata Phill.
+T12059	Mya arenaria Linnaeus, 1758
+T12060	Myacites abductus Phil.
+T12061	Myacites elongatus v Schloth.
+T12062	Myacites gregarius Ziet.
+T12063	Myacites striatulus F. Roemer
+T12064	Myacitus elongatus v Schloth.
+T12065	Myliobatis serratus v Meyer
+T12066	Myliobatis
+T12067	Myophoria goldfussi v. Alb.
+T12068	Myophoria vulgaris v Schloth.
+T12069	Mythimna conigera (Denis & Schiffermüller, 1775)
+T12070	Mythimna ferrago (Fabricius, 1787)
+T12071	Mythimna impura (Hübner, 1808)
+T12072	Mythimna pallens (Linnaeus, 1758)
+T12073	Mythimna turca (Linnaeus, 1761)
+T12074	Mytilus edulis Linnaeus, 1758
+T12075	Mytilus intumereus A. Roemer
+T12076	Najadites umbonatus Fischer
+T12077	Naraoia compacta Walcott, 1912
+T12078	Natica (Turbo) gregaria
+T12079	Natica annulata A. Roemer
+T12080	Natica antiqua Goldf.
+T12081	Natica aussavensis Steiniger
+T12082	Natica crassatina Lamarck
+T12083	Natica crithea d'Orb
+T12084	Natica dubia Roe.
+T12085	Natica excentrica A. Roemer
+T12086	Natica globosa
+T12087	Natica gregaria
+T12088	Natica gregaria Barrande
+T12089	Natica marginata A. Roemer
+T12090	Natica modesta Barrande
+T12091	Natica
+T12092	Natica vulcani Brongniart
+T12093	Nautilus
+T12094	Navicula bohemica Ehrenberg 1854
+T12095	Nematopora bogoljubovi Bekker
+T12096	Nematopora granosa Ulrich, 1890
+T12097	Nematopora ramosa Bekker, 1921
+T12098	Nematotrypa gracilis Bassler
+T12099	Nematotrypa spiralis Bekker, 1921
+T12100	Neocystiphyllum keyserlingi (Dybowski)
+T12101	Neolenus curticei (Walcott)
+T12102	Neoptychites peramplus Mantell
+T12103	Neozephyrus quercus (Linnaeus, 1758)
+T12104	Nerita subcostata (Goldfuss)
+T12105	Neuropteris gigantea
+T12106	Neuropteris
+T12107	Newlandia major Walcott , 1914
+T12108	Nicolella moneta Eichwald mut (Wysogorski, 1900)
+T12109	Nicolella actoniae (Sowerby) astroidea Reed
+T12111	Nicolella alliku Oraspõld, 1956
+T12112	Nicolella actoniae Sowerby
+T12113	Nicolella oswaldi mediofida Alichova, 1951
+T12114	Nicolella oswaldi oswaldi (Buch, 1839)
+T12115	Nicolella patens Oraspõld, 1956
+T12116	Nicolella salme Öpik, 1930
+T12117	Nicolella
+T12118	Nieszkowskia ahti Öpik, 1928
+T12119	Nieszkowskia capitalis Öpik, 1928
+T12120	Niobe laeviceps Dalman
+T12121	Noctua
+T12122	Noctua comes Hübner, 1813
+T12123	Noctua fimbriata (Schreber, 1759)
+T12124	Noctua pronuba (Linnaeus, 1758)
+T12125	Noctuidae
+T12126	Nodocosta pauli Gross, 1940
+T12127	Nodosus irregulare Hagenfeldt, 1989
+T12128	Noeggerathiopsis hislopi Bunbury
+T12129	Nogrobs quadrangularis (Lamarck, 1818)
+T12130	Nogrobs hydrocarbonicus Vinn et
+T12131	Nola aerugula (Hübner, 1793)
+T12132	Nola confusalis (Herrich-Schäffer, 1847)
+T12133	Nonagria typhae Thunberg, 1784
+T12134	Norwoodia tenera Walcott, 1916
+T12135	Nothooidium mordidum Cramer, Allam, Kanes and Díez, 1974) Loeblich & Tappan, 1976
+T12136	Nothosaurus mirabilis
+T12137	Nothosaurus mirabilis Münster
+T12138	Notidamus primigenius Agassiz
+T12139	Notodonta dromedarius (Linnaeus, 1767)
+T12140	Notodonta torva (Hübner, 1803)
+T12141	Notodonta tritophus (Denis et Schiffermüller, 1775)
+T12142	Notodonta ziczac (Linnaeus, 1758)
+T12143	Nucleolites clunicularis
+T12144	Nucula ahrendi Römer
+T12145	Nucula angleri Römer
+T12146	Nucula ardnennensis Steiniger
+T12147	Nucula daleidensis Steiniger
+T12148	Nucula diluviana Steiniger
+T12149	Nucula elliptica Römer
+T12150	Nucula fornicata Goldf.
+T12151	Nucula krachtae F. Roemer
+T12152	Nucula primaeva Steinberger
+T12153	Nucula scalaris Schnur
+T12154	Nucula securiformis Goldf.
+T12155	Nucula solennoides Goldf
+T12156	Nucula
+T12157	Nucula strigilata Goldfuss
+T12158	Nucula tumida Sandberg
+T12159	Nummulites complanatus Lamarck
+T12160	Nummulites laevigata
+T12161	Nybyceras intermedium Teichert
+T12162	Nybyoceras bekkeri Troedsson
+T12163	Nycteola degenerana (Hübner, 1799)
+T12164	Nymphalis antiopa (Linnaeus, 1758)
+T12165	Oandumena fluviatilis (Oraspõld, 1956)
+T12166	Obolella nuda Walcott, 1913
+T12167	Obolus acuminatus
+T12168	Obolus apollinis Eichwald, 1829
+T12171	Obolus eichwaldi Mickwitz, 1896
+T12172	Obolus panderi Mickwitz
+T12173	Obolus ruchini Khazanovitch & Popov, 1984
+T12174	Obolus
+T12176	Obolus triangularis Mickwitz
+T12177	Obous
+T12178	Ochlodes sylvanus (Esper, 1777)
+T12179	Ochropacha duplaris (Linnaeus, 1761)
+T12180	Ochropleura plecta plecta (Linnaeus, 1761)
+T12181	Odezia atrata (Linnaeus, 1758)
+T12182	Odontopera bidentata (Clerck, 1759)
+T12183	Odontopleura roemeri Barrande,1852
+T12184	Odontopleura
+T12185	Odontosia carmelita (Esper, 1799)
+T12186	Odontosia sieversii (Ménétriés, 1856)
+T12187	Oeneis (Oeneis) jutta (Hübner, 1806)
+T12188	Oenonites latus (Kielan-Jaworowska, 1966)
+T12189	Oenonites
+T12190	Oepikites obtusus (Mickwitz, 1896)
+T12191	Oeselaspis
+T12192	Ogmoopsis bocki (Öpik, 1935)
+T12193	Ogygopsis klotzi Rominger, 1887
+T12194	Okasnahksete fragmendid
+T12195	Olcostephanus striolaris Rein
+T12196	Olenellus (Holmia) kjerulfi (Linnarsson, 1871)
+T12197	Olenellus
+T12198	Olenoides serratus (Rominger, 1887)
+T12199	Olenus gibbosus (Wahlenberg, 1818)
+T12200	Olenus truncatus (Brünnich, 1781)
+T12201	Oligia latruncula (Denis & Schiffermüller, 1775)
+T12202	Oligia strigilis (Linnaeus, 1758)
+T12203	Olkostephanus subditus Eichwald
+T12204	Omphyma murchisona (Edwards & Haime)
+T12205	Omphyma murchisoni (Edwards & Haime)
+T12206	Omphyma turbinata (Linnaeus, 1761)
+T12207	Onniella navicula Öpik
+T12208	Onniella navis (Öpik)
+T12209	Operophtera brumata (Linnaeus, 1758)
+T12210	Operophtera fagata (Scharfenberg, 1805)
+T12211	Ophidoceras simplex
+T12212	Ophioceras simplex Barrande, 1865
+T12213	Opigena polygona (Denis & Schiffermüller, 1775)
+T12214	Opisthograptis luteolata (Linnaeus, 1758)
+T12215	Orbipora distincta (Eichwald, 1829)
+T12216	Orbitolites lenticulata Mantell 1835
+T12217	Orgyia antiqua (Linnaeus, 1758)
+T12218	Orgyia recens (Hübner, 1819)
+T12219	Ormoceras inquetum Stumbur
+T12220	Ormoceras novum Stumbur
+T12221	Ormoceras profundum Stumbur
+T12222	Ormoceras saxbyense Stumbur
+T12223	Ormoceras
+T12224	Ormoceras tantum Stumbur
+T12225	Ormoceras tersum Stumbur
+T12226	Ormoceras veteranum Stumbur
+T12228	Orthambonites calligramma Dalman
+T12229	Orthis canaliculata
+T12230	Orthis cannalicula Schnud
+T12231	Orthis frechi Wysogorski, 1900
+T12232	Orthis desiderata Sowerby
+T12233	Orthis dilatata F. Roemer
+T12234	Orthis eifliensis de Verneuil
+T12235	Orthis explanata Sowerby
+T12236	Orthis inostrancefi ubjaensis Öpik, 1930
+T12237	Orthis inostrancefi viruana Öpik, 1930
+T12238	Orthis inostrancefi Wysogorski
+T12239	Orthis inostrancefi Wysogorski, 1900
+T12240	Orthis kukersiana Wysogorski, 1900
+T12241	Orthis lewisii Davidson
+T12242	Orthis lyckholmiensis Wysogorski, 1900
+T12243	Orthis opercularis
+T12244	Orthis opercularis Vern.
+T12245	Orthis pecten Dalman
+T12246	Orthis plicatella Schnur
+T12247	Orthis resupinata (F. Roemer)
+T12248	Orthis rifeliensis
+T12249	Orthis sordida Sow.
+T12250	Orthis
+T12251	Orthis subarachnoidea Arch. & Vern.
+T12252	Orthis subtestudinaria Wirtym
+T12253	Orthis testudinaria Dalm.
+T12254	Orthis tetragona
+T12255	Orthis tetragona Umoch.
+T12256	Orthis umbraculum Buch
+T12257	Orthis umbraulum Buch
+T12258	Orthis undifera Schnur
+T12259	Orthis vesupinata F. Roemer
+T12260	Orthis vesupinata Römer
+T12262	Orthisocrania curvicosta Huene
+T12263	Orthisocrania depressa Eichwald
+T12264	Orthisocrania planissima plan. (Eichwald)
+T12265	Orthisocrania planissima planissima (Eichwald)
+T12266	Orthoceras amplicameratum Hall
+T12267	Orthoceras arcueliratum Hall
+T12268	Orthoceras bifoveatum Noetling, 1884
+T12269	Orthoceras bohemicum Barrande, 1866
+T12270	Orthoceras bohemicus Barrande
+T12271	Orthoceras compressus A. Roemer
+T12272	Orthoceras conicum Hisinger, 1837
+T12273	Orthoceras dulcis Barrande
+T12274	Orthoceras exentricum Barrande
+T12275	Orthoceras fenestriatum Eichwald
+T12276	Orthoceras gracile (Blumenbach, 1803)
+T12277	Orthoceras hiiuense Stumbur
+T12278	Orthoceras hoernesi Barrande
+T12279	Orthoceras inaequale Roemer
+T12280	Orthoceras lateseptatum
+T12281	Orthoceras latiseptatum v Hauer
+T12282	Orthoceras luhai Stumbur, 1956
+T12283	Orthoceras neptunicum Barrande
+T12284	Orthoceras novum Stumbur
+T12285	Orthoceras nuperum Stumbur
+T12286	Orthoceras omega Sow.
+T12287	Orthoceras originale (Barrande, 1868)
+T12288	Orthoceras originalis Barrande
+T12289	Orthoceras pelagium Barrande
+T12290	Orthoceras pseudo calamiteus Barrande
+T12291	Orthoceras regulare (Schlotheim 1820)
+T12292	Orthoceras regulare (Schlotheim, 1820)
+T12293	Orthoceras regulare (Schlotheim)
+T12294	Orthoceras regulare Schlotheim, 1820
+T12295	Orthoceras reticulatum v Hauer
+T12296	Orthoceras socuim
+T12297	Orthoceras
+T12298	Orthoceras striatulum (Boll, 1857)
+T12299	Orthoceras styloideus Barrande
+T12300	Orthoceras subannularis Münster
+T12301	Orthoceras subflexuosa Münster
+T12302	Orthoceras truncatum Barrande
+T12303	Orthoceras typus Saeman
+T12304	Orthoceras valens Barrande
+T12306	Orthoceratidae
+T12308	Orthoceratites gracilis (Blumenbach)
+T12309	Orthonama vittata (Borkhausen, 1794)
+T12310	Orthorhynchula linneyi (James, 1881)
+T12311	Orthosia (Monima) cerasi (Fabricius, 1775)
+T12312	Orthosia cruda (Denis & Schiffermüller, 1775)
+T12313	Orthosia gothica (Linnaeus, 1758)
+T12314	Orthosia gracilis (Denis & Schiffermüller, 1775)
+T12315	Orthosia incerta (Hufnagel, 1766)
+T12316	Orthosia miniosa (Denis & Schiffermüller, 1775)
+T12317	Orthosia munda (Denis & Schiffermüller, 1775)
+T12318	Orthosia opima (Hübner, 1809)
+T12319	Orthosia populeti (Fabricius, 1775)
+T12320	Oryctocephalus reynoldsi Reed, 1899
+T12321	Osceolia osceola [Hall, 1863] Walcott, 1914
+T12322	Osprioneides kampto Beuck and Wisshak, 2008
+T12323	Ostpreussensia cornuta (Kummerow, 1924)
+T12324	Ostrea bullata Phil.
+T12325	Ostrea callifera Lamarck
+T12326	Ostrea carinata Schlotheim
+T12327	Ostrea cyathula Lamarck
+T12328	Ostrea flabelliformis Nilson
+T12329	Ostrea haliotidea Sowerby
+T12330	Ostrea mirabilis Rousseau
+T12331	Ostrea nettelbladti Koch ja Wiechmann
+T12332	Ostrea rastellaria
+T12333	Ostrea Grewingk
+T12335	Ostrea vesicularis Lamarck
+T12336	Otarion planifrons (Eichwald)
+T12337	Otarion
+T12338	Otrhoceras araneosum Barrande
+T12339	Ottoia prolifica Walcott, 1911
+T12340	Ourapteryx sambucaria (Linnaeus, 1758)
+T12341	Oxydiscus karki Öpik, 1930
+T12342	Oxynoticeras stauffense
+T12343	Oxyrhina
+T12344	Pachydictiella
+T12345	Pachydictya bifurcata (Hall, 1883)
+T12346	Pachydictya crassa Hall
+T12347	Pachydictya cyclostomoides Eichwald
+T12348	Pachydictya flabellum Leuchtenberg
+T12349	Pachydictya irregularis Bekker, 1921
+T12350	Pachydictya kuckersensis Bekker, 1919
+T12351	Pachydictya kuckersiana Bekker, 1919
+T12352	Pachydictya kuckersiana Bekker, 1921
+T12353	Pachypora cervicornis Blainville
+T12354	Paedemonis transitans Walcott
+T12355	Pagetia bootes Walcott, 1916
+T12356	Pagetia clytia Walcott, 1916
+T12357	Palaeofavosites parilis Klaamann, 1961
+T12358	Palaeoniscus freieslebeni Blainville, 1818
+T12359	Palaeophycus devonicus Schimper, 1874
+T12360	Palaeophyllum fasciculus Kutonga
+T12361	Palaeosabella boring
+T12362	Palaeostrophomena concava Holtedahl
+T12363	Palaeostrophomena concava Schmidt
+T12364	Paldoceras paldiskense Kröger, Zhang et Isakar, 2009
+T12365	Paleoniscus elegans Sedgwick
+T12366	Paleoniscus wratislaviensis Agassiz
+T12367	Panarchaeogonus atavus Öpik, 1937
+T12368	Panarchaeogonus parvus Öpik, 1937
+T12369	Panderina bocki (Lamansky, 1905)
+T12370	Panderina
+T12371	Panderites imbrex (Pander, 1830)
+T12372	Panemeria tenebrata (Scopoli, 1763)
+T12373	Panopaea heberti Bosquet
+T12374	Panthea coenobita (Esper, 1785)
+T12375	Papilio machaon Linnaeus, 1758
+T12376	Parabekkerina  anijana (Öpik, 1930)
+T12377	Parabekkerina grandis (Alichova, 1951)
+T12378	Parabolina spinulosa (Wahlenberg, 1818)
+T12379	Paracardium
+T12380	Paraceraurus aculeatus Eichwald
+T12381	Paracolax tristalis (Fabricius, 1794)
+T12382	Paradiarsia punicea (Hübner, 1803)
+T12383	Paradoxides bohemicus (Boeck, 1828 )
+T12384	Paradoxides oelandicus (Sjögren, 1872)
+T12385	Paradrina clavipalpis (Scopoli, 1763)
+T12386	Paranthrene tabaniformis tabaniformis (Rottemburg, 1775)
+T12387	Pararaphistoma qualteriatum (Schlotheim, 1820)
+T12388	Pararaphistoma vaginati (Koken, 1925)
+T12389	Pararaphistoma vaginati (Koken)
+T12390	Pararaphistoma wesenbergense Koken
+T12391	Pararge aegeria (Linnaeus, 1758)
+T12392	Parascotia fuliginaria (Linnaeus, 1761)
+T12393	Parasemia plantaginis (Linnaeus, 1758)
+T12394	Parastichtis suspecta (Hübner, 1817)
+T12395	Parastichtis ypsillon (Denis & Schiffermüller, 1775)
+T12396	Parkinsonia parkinsoni
+T12397	Parmorthis elegantula (Dalman)
+T12398	Parnassius mnemosyne (Linnaeus, 1758)
+T12399	Parrotia pristina Ett.
+T12400	Parvihebetoceras wahli Kröger, 2007
+T12401	Pasiphila chloerata (Mabille, 1870)
+T12402	Pasiphila debiliata (Hübner, 1817)
+T12403	Pasiphila rectangulata (Linnaeus, 1758)
+T12404	Paterina labradorica var. swantonensis Walcott
+T12405	Paucicrura navis Öpik
+T12406	Paurorthis parva (Pander, 1830)
+T12407	Paurorthis parva (Pander)
+T12408	Pecopteris arborescens Schlotheim
+T12409	Pecopteris cyathea Brongniart
+T12410	Pecten asper Lamarck
+T12411	Pecten decussatus Münst.
+T12412	Pecten demissus
+T12413	Pecten discites Schloth.
+T12414	Pecten laevigatus
+T12415	Pecten pictus Goldf.
+T12416	Pecten polymorphus Bronn
+T12417	Pecten ryphus d'Orb.
+T12418	Pecten
+T12419	Pecten textorius v. Schlotheim
+T12420	Pecten thorenti d'Arch
+T12421	Pectunculus inflatus Rosso
+T12422	Pectunculus philippi Deshayes
+T12423	Pelosia muscerda (Hufnagel, 1766)
+T12424	Peltoceras biblex
+T12425	Peltoceras caprinum Schlotheim
+T12426	Peltura scarabaeoides (Wahlenberg, 1821)
+T12427	Pelurga comitata (Linnaeus, 1758)
+T12428	Pennisetia hylaeiformis (Laspeyres, 1801)
+T12429	Pentacrinus basaltiformis Miller 1821
+T12430	Pentacrinus multiradiatus Klippsteni
+T12431	Pentamerus borealis (Eichwald, 1842)
+T12432	Pentamerus duplicatus
+T12433	Pentamerus galeatus
+T12434	Pentamerus galeatus Conrad
+T12435	Pentamerus globus Bronn
+T12436	Pentamerus gothlandicus Lebedev, 1892
+T12437	Pentamerus oblongus (Sowerby, 1839)
+T12438	Pentamerus sieberi v. Buch
+T12439	Pentatremites eifeliensis
+T12440	Pentremites borealis
+T12441	Pentremites godoni Defrance, 1819
+T12442	Pentremites melo Owen et Shumard, 1850
+T12443	Pentremites schultzii Arch. & Vern.
+T12444	Pentremites sulcatus Roemer
+T12445	Pentrenites reinwardtii (Troost, 1835)
+T12446	Perforatella bidens (Chemnitz, 1786)
+T12447	Peridea anceps (Goeze, 1781)
+T12448	Perisphinates colubrinus Rein
+T12449	Perisphinctes
+T12450	Perisphinctes biplex Sow.
+T12452	Perisphinctes ulmensis Oppel
+T12453	Perizoma affinitata (Stephens, 1831)
+T12454	Perizoma albulata thules (Weir, 1880)
+T12455	Perizoma alchemillata (Linnaeus, 1758)
+T12456	Perizoma bifaciata (Haworth, 1809)
+T12457	Perizoma blandiata (Denis & Schiffermüller, 1775)
+T12458	Perizoma flavofasciata (Thunberg, 1792)
+T12459	Perizoma hydrata (Treitschke, 1829)
+T12460	Perna mytiloides Philipsson
+T12461	Peronopora decipiens (Rominger, 1866)
+T12462	Peronopora milleri Nickels
+T12463	Peronopsis montis (Matthew, 1899)
+T12466	Phacops bronni Barrande
+T12467	Phacops cephalotes Barr.
+T12468	Phacops cephalotes Corda
+T12469	Phacops fecundus Barrande
+T12470	Phacops latifrons (Bronn, 1825)
+T12471	Phacops latifrons (Burmeister)
+T12472	Phacops latifrons Burmeister
+T12473	Phacops mucronatus
+T12474	Phacops punctata Bronn
+T12475	Phacops
+T12476	Phalacropterix graslinella (Boisduval, 1852)
+T12477	Phalagnostus nudus ( Beyrich 1845)
+T12478	Phalera bucephala (Linnaeus, 1758)
+T12479	Pharmacis fusconebulosa DeGeer, 1778
+T12480	Pharostoma nieszkowskii Fr. Schmidt, 1894
+T12481	Pharyngolepis vogti Kiaer
+T12482	Phasianella ventricosa Goldf.
+T12483	Phaulactis
+T12484	Pheosia gnoma (Fabricius, 1776)
+T12485	Pheosia tremula (Clerck, 1759)
+T12486	Phibalapteryx virgata (Hufnagel, 1767)
+T12487	Phigalia pilosaria (Denis & Schiffermüller, 1775)
+T12488	Phihedra kegelensis Huene
+T12489	Philereme transversata (Hufnagel, 1767)
+T12490	Philereme vetulata (Denis & Schiffermüller, 1775)
+T12491	Philhedra
+T12492	Philhedrella bucculenta Huene
+T12493	Phlebolepis elegans (Pander, 1856)
+T12494	Pholadomya umbonata F. Römer
+T12495	Photedes captiuncula (Treitschke, 1825)
+T12496	Photedes minima (Haworth, 1809)
+T12497	Phragmataecia castaneae (Hübner, 1790)
+T12498	Phragmatobia fuliginosa (Linnaeus, 1758)
+T12499	Phragmatobia luctifera (Denis & Schiffermüller, 1775)
+T12500	Phragmoceras broderipi Barrande,865
+T12501	Phragmoceras orthogaster Sandberger & Sandberger, 1852
+T12502	Phragmoceras saxbyense Stumbur
+T12503	Phragmoceras
+T12504	Phyllodesma ilicifolium ilicifolium (Linnaeus, 1758)
+T12505	Phyllodictya flabellaris Bassler
+T12506	Phyllograptus angustifolium Hall
+T12507	Phylloporina granistriata Ulrich, 1890
+T12508	Phylloporina papillosa Bekker, 1921
+T12509	Phylloporina tenella Eichwald
+T12510	Phymatopus hecta Linnaeus, 1758
+T12511	Phytometra viridaria (Clerck, 1759)
+T12512	Pieris brassicae (Linnaeus, 1758)
+T12513	Pieris napi (Linnaeus, 1758)
+T12514	Pieris rapae (Linnaeus, 1758)
+T12515	Piersaloceras gageli Teichert, 1930
+T12517	Pileopsis lineata Goldfuss
+T12518	Pileopsis prisca Phillips
+T12519	Pileopsis
+T12520	Pinnatulites procerus (Kummerow, 1924)
+T12521	Pirea orbicularis Volkova 1990
+T12522	Piretopsis grewingkii (Bock, 1867)
+T12523	Pirgumena martnai Rõõmusoks, 1993
+T12524	Pirgumena martnai Rõõmusoks, 2004
+T12527	Pisidium amnicum Müller, 1774
+T12528	Pisidium casertanum (Poli, 1791)
+T12529	Pisidium henslowanum Sheppard, 1823
+T12530	Pisidium milium Held, 1836
+T12531	Pisidium nitidum Jenyns 1832
+T12532	Pisidium obtusale (Lamarck 1818)
+T12533	Placodus gigas Agass.
+T12534	Placodus gigas Agassiz
+T12535	Placodus rostratus Münster
+T12536	Plaesiomys (Dinorthis) pectinella (Conrad & Emmons, 1842)
+T12537	Plaesiomys subquadrata (Hall)
+T12538	Plagodis dolabraria (Linnaeus, 1767)
+T12539	Plagodis pulveraria (Linnaeus, 1758)
+T12540	Planctoceras falcatus (Schlotheim, 1820)
+T12541	Plasmopora voita (Edwards & Haime)
+T12542	Plataspis brevicornis Heintz
+T12543	Platyceras (Platyostoma) cornutum (Hisinger, 1837)
+T12544	Platyceras (Platyostoma) lineata (Conrad, 1842)
+T12545	Platyceras erectum Hall, 1843
+T12546	Platyceras subspinosum Hall, 1876
+T12547	Platycrinus hemisphaericus Meek et Worthen
+T12548	Platycrinus planus Owen et Shumard
+T12549	Platycrinus
+T12550	Platylichas fossulatus Öpik, 1937
+T12551	Platylichas margaritifer (Nieszkowski, 1857)
+T12552	Platylichas st. mathiae Fr. Schmidt, 1885
+T12553	Platylichas vultuosus Öpik, 1937
+T12554	Platyperigea montana (Bremer, 1861)
+T12555	Platyschisma kirchholmiensis Keyserling
+T12556	Platyschisma
+T12557	Platysolenites antiquissimus Eichwald 1860
+T12558	Platysolenites antiquissimus Eichwald, 1860
+T12559	Platysolenites antiquissimus Eichwald,1860
+T12560	Platystrophia acutilirata Conrad, 1842
+T12561	Platystrophia biforata (Schlotheim, 1820)
+T12562	Platystrophia humilis Oraspõld
+T12563	Platystrophia crassoplicata Alichova var rava Oraspõld, 1956
+T12564	Platystrophia crassoplicata crassoplicata Alichova
+T12565	Platystrophia dentata (Pander, 1830)
+T12566	Platystrophia dentata (Pander)
+T12567	Platystrophia dentata (Pander) var dentatoides Oraspõld, 1956
+T12568	Platystrophia dentata (Pander) var evari Oraspõld, 1956
+T12569	Platystrophia dentata (Pander) var trapetzoidalis Alichova, 1951
+T12570	Platystrophia dentata (Pander) var trapezoidalis Alichova
+T12571	Platystrophia dentata (Pander) var trapezoidalis Alichova, 1951
+T12572	Platystrophia dentata (Pander) var triata Oraspõld, 1956
+T12573	Platystrophia galri Männil
+T12574	Platystrophia lutkevichi lutkevichi Alichova, 1951
+T12575	Platystrophia lynx lynx (Eichwald, 1830)
+T12576	Platystrophia lynx ovalis Alichova
+T12577	Platystrophia ponderosa Foerste, 1909
+T12578	Platystrophia quadriplicata Alichova
+T12579	Platystrophia
+T12580	Platystrophia sublimis Öpik, 1930
+T12581	Plebeius (Aricia) artaxerxes (Fabricius, 1793)
+T12582	Plebeius (Aricia) eumedon (Esper, 1780)
+T12583	Plebeius (Plebeius) argus (Linnaeus, 1758)
+T12584	Plebeius (Plebeius) idas (Linnaeus, 1761)
+T12585	Plebeius (Vacciniina) optilete (Knoch, 1781)
+T12586	Plectambonites planissimus (Pander)
+T12587	Plectambonites radiatus (Schmidt, 1858)
+T12588	Plectambonites schmidti leptelloides Bekker
+T12589	Plectella uncinata (Pander)
+T12590	Plectorthis plicatella (Hall, 1847)
+T12591	Plectotrypa
+T12592	Plemyria rubiginata (Denis & Schiffermüller, 1775)
+T12593	Plethorhyncha pleiopleura (Conrad, 1841)
+T12594	Pleuracanthus laciniatus F. Roemer
+T12595	Pleuracanthus laviniatus Roemer
+T12596	Pleurocardium compressum Schnur
+T12597	Pleurocyathus turbinoloides
+T12598	Pleurophorus lamellosus Sandberger
+T12599	Pleurorthoceras clarksvillense (Flower, 1924)
+T12600	Pleurotoma duchasteli Ny.
+T12601	Pleurotomaria bochemica Barrande
+T12602	Pleurotomaria subclathrata Sandberger
+T12603	Pleurotomaria daleidensis F. Roemer
+T12604	Pleurotomaria decussata Sandberger
+T12605	Pleurotomaria delphinulaeformis Sandberger
+T12606	Pleurotomaria evexicosta Sandberger
+T12607	Pleurotomaria haueri
+T12608	Pleurotomaria laevis A. Roemer
+T12609	Pleurotomaria purpurea d'Arch. & Vern.
+T12610	Pleurotomaria quadrilineata Sandberger
+T12611	Pleurotomaria sp
+T12614	Pleurotomaria sublaevis A. Roemer
+T12615	Pleurotomaria turbinea Steiniger
+T12616	Pleurotomaria voronejensis Verneuil
+T12617	Pliomera fischeri (Eichwald, 1825)
+T12619	Plusia festucae (Linnaeus, 1758)
+T12620	Plusia putnami Grote, 1873
+T12621	Poecilocampa populi populi (Linnaeus, 1758)
+T12622	Pollingeria grandis Walcott, 1911
+T12623	Polychaetaspis
+T12624	Polychaetaspis wyszogrodensis Koz?owski, 1956
+T12625	Polychrysia moneta (Fabricius, 1787)
+T12626	Polygonia c-album (Linnaeus, 1758)
+T12627	Polygonium sexiradiatum (Timofeev, 1959) Volkova, 1990
+T12628	Polymixis polymita (Linnaeus, 1761)
+T12629	Polyommatus (Cyaniris) semiargus (Rottemburg, 1775)
+T12630	Polyommatus (Polyommatus) amandus Schneider, 1792
+T12631	Polyommatus (Polyommatus) icarus (Rottemburg, 1775)
+T12632	Polypogon tentacularia (Linnaeus, 1758)
+T12633	Polypona striatella Sandberger
+T12634	Polypora biarmica Keyserling, 1846
+T12635	Polypora quadrata Bekker, 1921
+T12636	Polyrhizodus
+T12637	Pomerantsoceras tibia Kröger, 2007
+T12638	Pomerantsoceras
+T12639	Pomotoceros triqueter (Foyn and Gjoen, 1954)
+T12640	Pontia daplidice (Linnaeus, 1758)
+T12641	Populus glandulifera Heer
+T12642	Porambonites baueri Noetling
+T12643	Porambonites gigas Schmidt
+T12644	Porambonites intercedens Pander
+T12645	Porambonites laticaudata Bekker, 1921
+T12646	Porambonites schmidti Noetling
+T12647	Porambonites
+T12648	Porambonites teretior Eichwald
+T12649	Porambonites wahli Heinrichson
+T12650	Porambonites wesenbergensis Teichert
+T12651	Porcellia primordialis F. Roemer
+T12652	Porella compressa (Sowerby, 1806)
+T12653	Porites favus Barrande
+T12654	Porites tubulata Londsdale
+T12655	Porkunioceras tuba Kröger, 2007
+T12656	Porolepis
+T12657	Posidomya
+T12658	Posidonia becheri Bronn 1828
+T12659	Posidonia becheri Bronn, 1828
+T12660	Posidonia bronni Voltz
+T12661	Posidonomya bucherii Brown
+T12662	Posidonomya venusta (Münster, 1833)
+T12663	Prasopora grandis (Ulrich, 1886)
+T12664	Prasopora simulatrix Ulrich ,1886
+T12665	Primitophyllum primum Kaljo
+T12666	Priscotheca complanata Deunff
+T12667	Proavella proavus Eichwald
+T12668	Problematicum
+T12669	Productorthis obtusa (Pander, 1830)
+T12670	Productus horridus
+T12671	Productus horridus Sowerby
+T12672	Productus spinulosus Sowerby, 1814
+T12673	Productus stuckenbergii
+T12674	Productus subaculeatus Murchison
+T12675	Productus subaculeatus Murchison, 1840
+T12676	Proetus (Gerastus)
+T12677	Proetus archiaci Barrande
+T12678	Proetus bohemicus Barrande
+T12679	Proetus bucculatus Öpik, 1937
+T12680	Proetus orbitatus Barrande
+T12681	Proetus remisulcatus Nieszkowski
+T12682	Proetus venustus Barrande
+T12683	Proetus zalesskyi Öpik, 1928
+T12684	Progonambonites estonus Öpik
+T12685	Progonambonites reclinatus (Pander)
+T12686	Progonambonites volborthi (Pahlen)
+T12687	Progonambonites catellatus Öpik, 1934
+T12688	Pronorites mixolobus Phillips
+T12689	Propomatoceros trigona (Parsch, 1956)
+T12690	Propora bacillifera Lindström
+T12691	Propora tubulata (Edwards & Haime)
+T12692	Protarea vetusta (Hall, 1847)
+T12693	Protocardia
+T12694	Protochonetes striatellus (Dalman, 1828)
+T12695	Protocrinites oviformis Eichwald
+T12696	Protocrisina disposita Bekker, 1921
+T12697	Protocystites flavus
+T12698	Protodeltote pygarga (Hufnagel, 1766)
+T12699	Protolampra sobrina (Duponchel, 1843)
+T12700	Protophragmoceras sphinx (Eichwald)
+T12701	Protopteraspis vogti  Kiaer
+T12702	Protospongia
+T12703	Psammodus rugosus
+T12704	Psammolepis heterolepis Preobrazenski, 1911
+T12705	Psammolepis
+T12707	Psammosteidae
+T12708	Pseudasaphus tecticaudatus (Steinhardt, 1874)
+T12709	Pseudasaphus tecticaudatus laurssoni Öpik, 1927
+T12710	Pseudeustrotia candidula (Denis & Schiffermüller, 1775)
+T12711	Pseudoasaphus globifrons Eichwald,1857
+T12712	Pseudobasilicus kegelensis Schmidt
+T12713	Pseudobasilicus kuckersianus Schmidt
+T12714	Pseudobasilicus lawrowi Schmidt
+T12715	Pseudocrania antiquissima (Eichwald, 1843)
+T12716	Pseudocrania cranoides Huene
+T12717	Pseudocrania planissima Eichwald
+T12718	Pseudohornera bassleri Bekker, 1921
+T12719	Pseudohornera bifida (Eichwald, 1855)
+T12720	Pseudohornera bifida excendens Männil
+T12721	Pseudoips prasinana (Linnaeus, 1758)
+T12722	Pseudolingula quadrata Eichwald
+T12723	Pseudomelania scalata Schlotheim
+T12724	Pseudometoptoma concentricum Huene
+T12725	Pseudometoptoma monopleurum Huene
+T12726	Pseudometoptoma siluricum (Eichwald, 1842)
+T12727	Pseudomonotis echinata Sowerby
+T12728	Pseudomonotis ochotica Keyserling
+T12729	Pseudoniscus aculeatus Nieszkowski
+T12730	Pseudopanthera macularia (Linnaeus, 1758)
+T12731	Pseudophilotes baton (Bergsträsser, 1779)
+T12732	Pseudostrophomena reclinis Rõõmusoks, 1963
+T12733	Psyche casta (Pallas, 1767)
+T12734	Pterapherapteryx sexalata (Retzius, 1783)
+T12735	Pteria (Actinopteria) subdecussata Hall
+T12736	Pteria grewingki Venjukow
+T12737	Pteria inostrantzevi (Venjukow)
+T12738	Pteria rostrata Eichwald
+T12739	Pteria
+T12740	Pteria tenuicostata Roemer
+T12741	Pteria vorthii Verneuil
+T12742	Pterichthys concatenatus Eichwald, 1844
+T12743	Pterinea concentrica A. Roemer
+T12744	Pterinea conf. ventricosa Goldf.
+T12745	Pterinea costata Goldf.
+T12746	Pterinea elegans Goldf.
+T12747	Pterinea elongata Sandberger
+T12748	Pterinea faceiculata Goldf.
+T12749	Pterinea lineata Goldf.
+T12750	Pterinea plana Goldf.
+T12751	Pterinea reticulata Hisinger
+T12752	Pterinea
+T12753	Pterinea truncata F. Roemer
+T12754	Pterinea ventricosa Goldf.
+T12755	Pterolepis nitidus Kiaer, 1924
+T12756	Pteronitella retroflexa (Wahlenberg, 1821)
+T12757	Pterophyllum jaegeri
+T12758	Pterophyllum lipoldi
+T12759	Pterophyllum longifolium
+T12760	Pteropora pennula Eichwald, 1860
+T12761	Pterospermella gothlandica
+T12762	Pterospermella solida Volkova, 1969
+T12763	Pterospermella velata Moczydlowska , 1988
+T12764	Pterospermella vitrea Volkova, 1974
+T12765	Pterostoma palpina (Clerck, 1759)
+T12766	Pterygometopus exilis (Eichwald, 1858)
+T12767	Pterygometopus kuckersiana Schmidt, 1881
+T12768	Ptilodictya lanceolata (Goldfuss, 1826)
+T12769	Ptilodon capucina (Linnaeus, 1758)
+T12770	Ptilodyctia
+T12771	Ptilophora plumigera (Denis et Schiffermüller, 1775)
+T12772	Ptychodus decurrens
+T12773	Ptychodus latissimus Agassiz
+T12774	Ptychoparia orientalis Resser and Endo
+T12775	Ptychopteria irboskiana Venjukow
+T12776	Ptychopyge cincta Brögger
+T12777	Ptychopyge pahleni Schmidt
+T12778	Ptychopyge tecticaudata Steinhardt
+T12779	Ptychopyge truncata Nieszkowski
+T12780	Pugnax livonica (Buch)
+T12781	Pugnoides meyendorfi (Verneuil)
+T12782	Pullvillites
+T12783	Pupilla muscorum (Linnaeus, 1758)
+T12784	Purula microtrycha A. Roemer
+T12785	Pycnomphalus borkholmiensis Koken
+T12786	Pycnosteus pauli Mark, 1956
+T12787	Pycnosteus
+T12788	Pygaera timon (Hübner, 1803)
+T12789	Pyrgus alveus (Hübner, 1803)
+T12790	Pyrgus malvae (Linnaeus, 1758)
+T12791	Pyrgus serratulae (Rambur, 1839)
+T12793	Pyritonema subulare Roemer
+T12794	Quinqueloculina saxorum
+T12795	Radix ovata (Draparnaud, 1805)
+T12796	Rafinesquina (Playfairia) oanduensis Oraspõld, 1956
+T12797	Rafinesquina (R.) orvikui Männil
+T12799	Rafinesquina alternata (Conrad), Hall and Clarke, 1892
+T12800	Rafinesquina alternata alternistriata (Hall,1847)
+T12801	Rafinesquina angusta (Schmidt, 1881)
+T12802	Rafinesquina pseudoalternata (Schmidt)
+T12803	Rakverina inaequiclina (Alichova, 1951)
+T12804	Rakverina inaequiclina (Alichova)
+T12805	Rakverina oanduensis (Oraspõld, 1956)
+T12806	Ramphoprion
+T12807	Ranina reussi Woodward
+T12808	Rastrites peregrinus Barrande
+T12809	Rastrites phleoides (Tornquist, 1907)
+T12810	Ratrophyllum conicum
+T12811	Rauna janischewkyi Öpik
+T12812	Rauna janishewskyi (Lessnikow)
+T12813	Rauna venusta Öpik
+T12814	Rauna yanischevskyi (Lessnikov)
+T12815	Receptaculites koenigii Murchison
+T12816	Receptaculites orbis Eichwald
+T12817	Receptaculites
+T12818	Rectigrewingkia anthelion (Dybowski, 1873)
+T12819	Rectigrewingkia anthelion punctata Kaljo
+T12820	Rectigrewingkia lutkevitschi Reiman
+T12821	Redlichia manchurensis Resser and Endo
+T12822	Remopleurides nanus elongatus Fr. Schmidt, 1894
+T12823	Remopleurides nanus Leuchtenberg var. elongata Fr. Schmidt, 1894
+T12824	Remopleurides psammius Öpik, 1937
+T12825	Remopleurides dalecarlicus Warburg, 1925
+T12826	Remopleurites radians Barrande
+T12827	Repharia orthoceratum Rohe
+T12828	Reraspis plautini (Schmidt, 1881)
+T12829	Reraspis rosenthali (Schmidt, 1881)
+T12830	Reraspis sexermis Öpik, 1937
+T12831	Resserella canalis (Sowerby)
+T12832	Resserella concavoconvexa (Twenhofel, 1927)
+T12833	Retinella hammonis (Ström, 1765)
+T12834	Retinella nitidula (Draparnaud)
+T12835	Retzia haidingeri Barrande
+T12836	Retzia ladina
+T12837	Retzia trigonella
+T12838	Rhabdinopora flabelliforme flabelliforme (Eichwald, 1840)
+T12839	Rhabdinopora flabelliformis norvegica (Kjerulf, 1865)
+T12840	Rhabdinopora
+T12841	Rhagades pruni (Denis & Schiffermüller, 1775)
+T12842	Rhegmaphyllum whittardi (Schmidt, 1930)
+T12843	Rheumaptera hastata (Linnaeus, 1758)
+T12844	Rheumaptera subhastata (Nolcken, 1870)
+T12845	Rhipidium
+T12846	Rhipidocrinus crenatus (Goödfuss, 1831)
+T12847	Rhipidocystis robusta Hecker
+T12848	Rhipidomella idonea Hall & Clarke, 1892
+T12849	Rhipidomella penelope Hall, 1860
+T12850	Rhipidomella vanuxemi Hall, 1857
+T12851	Rhizedra lutosa (Hübner, 1803)
+T12852	Rhizocorallium zenense
+T12853	Rhodocrinus crenatus
+T12854	Rhodocrinus verus Müttler
+T12855	Rhodostrophia vibicaria (Clerck, 1759)
+T12856	Rhombotrypa quadrata (Rominger, 1866)
+T12857	Rhopaliophora palmata (Combaz & Peniguel, 1972) Playford & Martin 1984
+T12858	Rhopalodon wangenheimi Fischer 1841
+T12859	Rhyacia simulans (Hufnagel, 1766)
+T12860	Rhyncholepis parvulus Kiaer
+T12861	Rhyncholepis
+T12862	Rhynchonella cuvieri d'Orbigny
+T12863	Rhynchonella dilatata Suess 1855
+T12864	Rhynchonella goldfussi
+T12865	Rhynchonella nympha (Barrande, 1879)
+T12866	Rhynchonella princeps Barrande
+T12867	Rhynchonella
+T12868	Rhynchonella varians Schlotheim
+T12869	Rhynchonella ventriplanata Schloenb.
+T12870	Rhynchonella wilsoni (Sowerby)
+T12871	Rhynchotrema capax (Conrad, 1842)
+T12872	Rhynchotrema increbescens (Hall, 1847)
+T12873	Rhynchotrema parva Oraspõld, 1956
+T12874	Rhyparia purpurata (Linnaeus, 1758)
+T12875	Richardsonoceras goldmanni Kröger, Zhang et Isakar, 2009
+T12876	Richardsonoceroides schiefferdeckeri (Dewitz, 1880)
+T12877	Rigidella mitis (Öpik, 1935)
+T12878	Rimella fissurella Lamarck
+T12879	Ristnacrinus marinus Öpik, 1934
+T12880	Rivula sericealis (Scopoli, 1763)
+T12881	Roomamisjäljed
+T12882	Rotella helicinaeformis (Goldf.)
+T12883	Rotella wurmii A. Roemer
+T12884	Rugomena adilensis Rõõmusoks, 1993
+T12885	Rusina ferruginea (Esper, 1785)
+T12886	Rusuphycos
+T12887	Sabellidites cambriensis
+T12888	Sactoceras constans Stumbur
+T12889	Sactoceras dominum Stumbur
+T12890	Sactoceras heckeri (Teichert)
+T12891	Sactoceras quantulum Stumbur
+T12892	Saffordophyllum grande (Sokolov, 1951)
+T12893	Sakunites luhai (Sokolskaya, 1954)
+T12894	Salix integra Goepp.
+T12895	Salpingostoma
+T12896	Salpingostoma compressa (Eichwald, 1840)
+T12897	Salpingostoma megalostoma (Eichwald, 1840)
+T12898	Sampo hiiuensis Öpik
+T12899	Sanctoceras quantulum Stumbur
+T12900	Sanctoceras
+T12901	Sanguinolaria dorsata Goldf.
+T12902	Sao hirsuta Barrande
+T12903	Sapindus falcifolius Braun
+T12904	Saturnia pavonia (Linnaeus, 1758)
+T12905	Satyrium pruni (Linnaeus, 1758)
+T12906	Satyrium w-album (Knoch, 1782)
+T12907	Saukiella pyrene (Walcott, 1914)
+T12908	Saxbyonia fluctuosa Rõõmusoks, 2004
+T12909	Scenella discinoides Schmidt
+T12910	Scenella discinoides Schmidt, 1888
+T12911	Scenella varians Walcott, 1908
+T12912	Schelwienella
+T12913	Schelwienella umbraculum
+T12914	Schizambon esthonia Walcott, 1912
+T12915	Schizodus obscurus Sowerby
+T12916	Schizophoria resupinata (Martin, 1809)
+T12917	Schizophoria striatula (Schlotheim)
+T12918	Schizophoria vulvaria Schlotheim, 1820
+T12919	Schloenbachia varians J. Sowerby 1817
+T12920	Schlotheimophyllum patellatum (Schlotheim, 1820)
+T12921	Schmidtiellus mickwitzi Schmidt,1888
+T12922	Schmidtiellus reetae Bergström, 1973
+T12923	Schmidtiellus
+T12924	Schmidtites celatus (Volborth, 1869)
+T12925	Schmidtites crassus
+T12926	Schmidtites
+T12929	Schmidtomena acuteplicata (Schmidt, 1858)
+T12930	Schmidtomena acuteplicata (Schmidt)
+T12931	Schmidtomena acutiplicata (Schmidt)
+T12932	Schrankia costaestrigalis (Stephens, 1834)
+T12933	Schroederoceras balaschovi Stumbur, 1956
+T12934	Schroederoceras dominum Stumbur
+T12935	Schroederoceras hyatti (Strand)
+T12936	Scolecodont
+T12937	Scoliopteryx libatrix (Linnaeus, 1758)
+T12938	Scopula decorata (Denis & Schiffermüller, 1775)
+T12939	Scopula floslactata (Haworth, 1809)
+T12940	Scopula immorata (Linnaeus, 1758)
+T12941	Scopula immutata (Linnaeus, 1758)
+T12942	Scopula rubiginata (Hufnagel, 1767)
+T12943	Scopula ternata Schrank, 1802
+T12944	Scotopteryx chenopodiata (Linnaeus, 1758)
+T12945	Scutellum estonicum (Fr. Schmidt), 1894
+T12946	Scyphocrinus
+T12947	Sedina buettneri (E. Hering, 1858)
+T12948	Selenia dentaria (Fabricius, 1775)
+T12949	Selenia lunularia (Hübner, 1788)
+T12950	Selenia tetralunaria (Hufnagel, 1767)
+T12951	Seliscothon mantelli Goldfuss
+T12952	Selkirkia columbia Walcott, 1911
+T12954	Septomena alliku (Oraspõld, 1956)
+T12956	Septomena crypta (Öpik, 1930)
+T12957	Septomena cryptoides (Oraspõld, 1956)
+T12958	Septomena juvenilis (Öpik, 1930)
+T12959	Septomena senecta Rõõmusoks, 2004
+T12960	Serpula (Cementula)
+T12961	Serpula centrifuga A. Roemer
+T12962	Serpula convoluta Münst.
+T12963	Serpula grandis
+T12964	Serpula grandis Goldf.
+T12965	Serpula
+T12966	Serpula tetragona Sowbery
+T12967	Serpulites kukersianus Öpik, 1927
+T12968	Serpulites longissimus Murchison, 1839
+T12969	Sesia apiformis (Clerck, 1759)
+T12970	Setema cereola (Hübner, 1803)
+T12971	Setina irrorella (Linnaeus, 1758)
+T12973	Sidneya inexpectans Walcott, 1911
+T12974	Sigillaria oculata
+T12976	Simbirskites versicolor Trautsch
+T12977	Similoleptaena crassorugata Rõõmusoks , 2004
+T12978	Similoleptaena multirugata Rõõmusoks
+T12979	Similoleptaena paucirugata Rõõmusoks, 1989
+T12980	Similoleptaena paucirugata Rõõmusoks, 2004
+T12981	Similoleptaena pertenuis Rõõmusoks, 2004
+T12982	Similoleptaena planitia Rõõmusoks, 2004
+T12983	Similoleptaena
+T12985	Similoleptaena tarwanpensis Rõõmusoks, 2004
+T12986	Similoleptaena undosa Rõõmusoks, 2004
+T12988	Similoleptaena friedrichi Rõõmusoks, 2004
+T12989	Simyra albovenosa (Goeze, 1781)
+T12990	Sinuites bilobatus Sowerby
+T12991	Siphonia cervicornis Goldfuss
+T12992	Siphonia ficus
+T12993	Siphonia punctata Goldfuss
+T12994	Siphonotreta
+T12995	Siphonotreta unguiculata Eichwald
+T12996	Siphonotreta unguiculata Eichwald, 1829
+T12997	Siphonotreta verrucosa Eichwald
+T12998	Skiagia ciliosa  (Volkova, 1969) Downie, 1982
+T12999	Skiagia ciliosa  Volkova, 1969
+T13000	Skiagia compressa Volkova, 1968
+T13001	Skiagia insigne Fridriksone, 1971
+T13002	Skiagia orbiculare Volkova, 1968
+T13003	Skiagia ornata Volkova, 1968
+T13004	Skolithos linearis (Haldeman, 1840)
+T13005	Smerinthus ocellata ocellata (Linnaeus, 1758)
+T13006	Solemya
+T13007	Solen (Eusis) hausmanni Schlotheim
+T13008	Solen cortatus Sandberger
+T13009	Solen pelagicus Goldf.
+T13010	Solen
+T13011	Solenopleura brachymetopa (Angelin, 1851)
+T13012	Solenopleura canaliculata (Angelin, 1851)
+T13013	Solenopora spongioides Dybowsky
+T13014	Solenopora spongoides Dybowski
+T13015	Solenopsis costata Sandberg
+T13016	Solisphaeridium
+T13017	Solisphaerium
+T13018	Sowerbyella (Sowerbyella) oepiki Rõõmusoks
+T13019	Sowerbyella (Sowerbyella) forumi Rõõmusoks
+T13020	Sowerbyella (Sowerbyella) raegaverensis Rõõmusoks
+T13021	Sowerbyella (Sowerbyella) trivia Rõõmusoks
+T13022	Sowerbyella (Viruella) liliifera Öpik, 1930
+T13023	Sowerbyella (Viruella) minima Rõõmusoks
+T13024	Sowerbyella (Viruella) uhakuana Rõõmusoks
+T13025	Sowerbyella sericea (Sowerby, 1839)
+T13027	Sowerbyella sladensis Jones, 1928
+T13028	Sowerbyella eha Öpik, 1930
+T13029	Sowerbyella liliifera Öpik, 1930
+T13030	Sowerbyella liliifera mitis Öpik, 1930
+T13031	Sowerbyella liliifera tegula Öpik, 1930
+T13032	Sowerbyella liliifera triangulum Öpik, 1930
+T13034	Sowerbyella patula Öpik, 1930
+T13035	Sowerbyella quincuecostata estona Öpik, 1930
+T13036	Sowerbyella semiluna Öpik, 1930
+T13037	Sowerbyella
+T13044	Sowerbyella undosa Öpik, 1930
+T13046	Spaelotis ravida (Denis & Schiffermüller, 1775)
+T13047	Sphaenopteris divaricatus Göepperl
+T13048	Sphaerexochus mirus Beyr.
+T13049	Sphaerexochus romingeri Hall, 1868
+T13050	Sphaerirhynchia wilsoni (J. De C. Sowerby)
+T13051	Sphaerirhynchia wilsoni (Sowerby, 1816)
+T13052	Sphaerium corneum (Linnæus, 1758)
+T13053	Sphaerium corneum Linnaeus, 1758
+T13054	Sphaerium rivicola Lamarck, 1818
+T13055	Sphaerocodium gothlandicum Rothpletz
+T13056	Sphaerocoryphe huebneri Schmidt
+T13057	Sphaerocystites multifasciatus Hall, 1858
+T13058	Sphaerodus parvus Agassiz, 1843
+T13059	Sphinx ligustri Linnaeus, 1758
+T13060	Sphinx pinastri Linnaeus, 1758
+T13061	Spilosoma lubricipeda (Linnaeus, 1758)
+T13062	Spilosoma lutea (Hufnagel, 1766)
+T13063	Spilosoma urticae (Esper, 1789)
+T13064	Spirifer audaculus (Conrad)
+T13065	Spirifer bouchardi Verneuil, Terebratulites comprinatus Schloth.
+T13066	Spirifer concentricus Schnur
+T13067	Spirifer confex undecim olicatus F. Roemer
+T13068	Spirifer consobrinus d'Orbigny
+T13069	Spirifer crispus (Hisinger )
+T13070	Spirifer cultrijugatus Römer
+T13071	Spirifer cultrijugatus Roemer, 1844
+T13072	Spirifer curvatus
+T13073	Spirifer curvatus Buch
+T13074	Spirifer davidsoni
+T13075	Spirifer decheni Kayser
+T13076	Spirifer deflexus A. Roemer
+T13077	Spirifer disjunctus Sowerby
+T13078	Spirifer elegans
+T13079	Spirifer granulosus Conrad
+T13080	Spirifer granulosus var. clintoni Hall, 1867
+T13081	Spirifer hercyniae Giebel
+T13082	Spirifer hereoclitus Buch
+T13083	Spirifer laevicosta Braun
+T13084	Spirifer laevicosta Bronn
+T13085	Spirifer laevigatus Brown
+T13086	Spirifer macronotus Hall, 1857
+T13087	Spirifer macropterus Goldf.
+T13088	Spirifer mucronatus (Conrad, 1902)
+T13089	Spirifer muralis Verneuil
+T13090	Spirifer naiiadum Barrande
+T13091	Spirifer schrenki Keyserling
+T13092	Spirifer simplex Phil.
+T13093	Spirifer
+T13094	Spirifer speciosus
+T13095	Spirifer speciosus complanatus Schloth.
+T13096	Spirifer speciosus Schlotheim
+T13097	Spirifer speciosus Schlotheim var angusta plicatus Goldf.
+T13098	Spirifer speciosus Schlotheim var micropterus Goldf.
+T13099	Spirifer striatus Martin
+T13100	Spirifer subcuspidatus Schnur
+T13101	Spirifer tenellus Barrande
+T13102	Spirifer trapetzoidalis Dalman
+T13103	Spirifer undecimplicatus F. Roemer
+T13104	Spirifer undiferus F. Roemer
+T13105	Spirifer undiferus Roemer
+T13106	Spirifer undulatus Sowerby
+T13107	Spirifer unguiculus Phillips
+T13108	Spirifer venus d'Orbigny, 1850
+T13109	Spirifer verneuili Murchison
+T13110	Spirifer verneuili Murchison var lourdealii
+T13111	Spirifer verneuili Murchison, 1840
+T13112	Spirifer vesupinata F. Roemer
+T13113	Spirifer viator Barrande
+T13114	Spirifer zukzack A. Roemer
+T13116	Spiriferina rostrata
+T13117	Spirigera concentrica d'Orbigny
+T13118	Spirigera concentrica d'Orbigny; Terebratula concentrica v. Buch
+T13119	Spirigera flabellata Schnur
+T13120	Spirigera fultonensis Swallow, 1860
+T13121	Spirigera reticularis d'Orb.
+T13122	Spirigera squamifera Schnur
+T13123	Atrypa aspera (Schloth.)
+T13124	Spirigera zonata Schnur
+T13125	Spirigerina reticularis (d'Orbigny)
+T13126	Spirula compressa Goldfuss
+T13127	Spodoptera exigua (Hübner, 1808)
+T13128	Spondylus spinosus Schreibers 1793
+T13129	Spondylus spinosus Sowbery
+T13130	Spongie
+T13131	Sporadoceras münsteri v Buch
+T13132	Spyroceras clathrato-annulatum (Roemer)
+T13133	Spyroceras inforum Stumbur
+T13134	Spyroceras inhorum Stumbur, 1955
+T13135	Spyroceras paulum Stumbur
+T13136	Spyroceras senckenbergi Teichert
+T13137	Spyroceras textum-arenaceum (Roemer)
+T13138	Stauria favosa
+T13139	Staurocephalus murchisoni Barrande
+T13140	Stauropus fagi (Linnaeus, 1758)
+T13141	Stellechinatum uncinatum (Downie, 1958) Molyneux, 1987
+T13142	Stelliferidium aolandicum Tynni 1982
+T13143	Stelliferidium cortinulum (Deunff,1961) Deuff, Gorka & Rauscher 1974
+T13144	Stelliferidium furcatum (Deunff, 1961) Deunff, Gorka and Rauscher, 1974
+T13145	Stelliferidium modestum (Gorka, 1967) Deunff, Gorka and Rauscher, 1974
+T13146	Stelliferidium pseudoornatum Pittau, 1985
+T13147	Stelliferidium
+T13148	Sterrhopterix fusca (Haworth, 1809)
+T13149	Stictoporellina cribrosa (Ulrich, 1886)
+T13150	Stigmaria
+T13151	Stigmatella crenulata Ulrich & Bassler, 1904
+T13152	Stigmatella vulgaris Parks & Dyer, 1922
+T13153	Stomatograptus grandis (Suess, 1851)
+T13154	Stophomena kiaeri Holtedahl
+T13155	Strandoceras orvikui Kröger, 2007
+T13156	Strandoceras sphinx Schmidt
+T13157	Straparollus borkholmiensis Koken
+T13158	Straparollus maximus d'Orb.
+T13159	Streptelasma (Kenophyllum) siluricus Dybowski
+T13160	Streptelasma (Kenophyllum) subcilindricum Dybowski
+T13161	Streptelasma calicula Hall
+T13162	Streptelasma milne-edwardsi Dybowski, 1873
+T13163	Streptelasma
+T13164	Streptis undifera (Schmidt, 1858)
+T13165	Striatocycloceras romingeri (Foerste, 1932)
+T13166	Striatocycloceras undulostriatum (Hall, 1847)
+T13167	Stricklandia lens (Sowerby, 1839)
+T13168	Stricklandia lens lens (Sowerby, 1839)
+T13169	Striispirifer plicatellus (Linnaeus, 1758)
+T13170	Stringocephalus (Strygocephalus) burtini Defrance
+T13171	Stringocephalus dorsatus Goldfuss
+T13172	Stromatophora polymorpha Goldfuss
+T13173	Stromatopora schelonensis Riabinin
+T13174	Stromatopora concentrica Goldfuss, 1826
+T13175	Stromatopora microlaminata Riabinin
+T13176	Stromatopora perforata (Nichoson)
+T13177	Stromatoporata
+T13178	Strombodes middendorfi (Dybowski, 1874)
+T13179	Strophalosia horrescens Verneuil
+T13180	Stropheodonta demissa (Conrad, 1842)
+T13181	Stropheodonta naraujoana Verneuil
+T13182	Strophomena (Actinomena) orta Öpik, 1930
+T13183	Strophomena (Actinomena)
+T13184	Strophomena (Actinomena) vanadis Öpik, 1930
+T13185	Strophomena bouéi
+T13186	Strophomena depressa
+T13187	Strophomena depressa Sowerby
+T13188	Strophomena planoconvexa Hall, 1847
+T13189	Strophomena planumbona (Hall, 1847)
+T13190	Strophomena pseudoloricata (Barrande, 1848)
+T13191	Strophomena pulchra Rõõmusoks
+T13192	Strophonella euglypha (Hisinger, 1819)
+T13193	Strophostylus
+T13194	Sturia majo
+T13195	Subfossiilseid molluskeid jõesetetest
+T13196	Subulites (Cyrtospira)
+T13197	Subulites (Subulites) amphora (Eichwald, 1854)
+T13198	Subulites (Subulites) revalensis Koken
+T13199	Subulites (Subulites) subula Koken
+T13200	Subulites revaliensis Koken
+T13201	Subulites amphora (Eichwald, 1854)
+T13202	Subulites gigas (Eichwald, 1840)
+T13203	Subulites peregrinus (Schlotheim, 1820)
+T13204	Subulites subula (Koken)
+T13205	Subulites wesenbergensis  Koken & Perner, 1925
+T13206	Succinea oblonga (Draparnaud, 1801)
+T13207	Succinea pfeifferi Rossmässler, 1835
+T13208	Succinea putris (Linnaeus, 1758)
+T13209	Succinea
+T13210	Svalbardaspis rotundus Heintz
+T13211	Sylvanakalk
+T13212	Synanthedon formicaeformis (Esper, 1783)
+T13213	Synanthedon scoliaeformis (Borkhausen, 1789)
+T13214	Synanthedon spheciformis (Denis & Schiffermüller, 1775)
+T13215	Synanthedon tipuliformis (Clerck, 1759)
+T13216	Synerocrinus (Eorbesiocrinus) incurvus
+T13217	Syngrapha interrogationis (Linnaeus, 1758)
+T13218	Syngrapha microgamma (Hübner, 1823)
+T13219	Synsphaeridium
+T13220	Syringopora blanda Klaamann, 1962
+T13221	Törnquista minuta (Nieszkowski, 1857)
+T13222	Taenicephalus shumardi (Hall, 1863)
+T13223	Taleporia tubulosa (Retzius, 1783)
+T13224	Tallinnellina lanceolata (Hessland, 1949)
+T13225	Tallinnites imbrexoidea (Sokolskaya, 1954)
+T13226	Tartuosteus giganteus (Gross, 1933)
+T13227	Tartuosteus
+T13228	Tasmanites bobrowskae
+T13229	Tasmanites volkovae Kiryanov, 1974
+T13230	Taxus
+T13231	Tellina (Peronidia) nysti Deshayes
+T13232	Tellina
+T13233	Tellina trigona A. Roemer
+T13234	Temnograptus
+T13235	Tentaculites decorus
+T13236	Tentaculites scalaris Schlotheim
+T13237	Tentaculites
+T13239	Terebratula (Rhynchautlh) pila Schnur
+T13240	Terebratula ambigua
+T13241	Terebratula ascia Girard
+T13242	Terebratula bicanaliculata Schlotheim
+T13243	Terebratula bisuffarcinata
+T13244	Terebratula bisuffarcinata Schlotheim
+T13245	Terebratula canalis Sowerby
+T13246	Terebratula carnea Sowbery
+T13247	Terebratula concentrica Bronn
+T13248	Terebratula concentrica Buch
+T13249	Terebratula concentrica v. Buch
+T13250	Terebratula contraria A. Roemer
+T13251	Terebratula cuboides Sowerby
+T13252	Terebratula daleidensis F. Roemer
+T13253	Terebratula daphne Barrande
+T13254	Terebratula digona
+T13255	Terebratula elongata Schloth.
+T13256	Terebratula famula Barrande
+T13257	Terebratula ferta Buch
+T13258	Terebratula formosa Schnur
+T13259	Terebratula grandis Blumenbach 1803
+T13260	Terebratula hebe Barrande
+T13261	Terebratula henrici Barrande
+T13262	Terebratula humeralis Roemer
+T13263	Terebratula lahuseni
+T13264	Terebratula lata d'Orbigny
+T13265	Terebratula latisinuata Barrande
+T13266	Terebratula lepida d'Arch & Vern.
+T13267	Terebratula megaera Barrande
+T13268	Terebratula microrhyncha Roemer
+T13269	Terebratula navicula Sowerby
+T13270	Terebratula niobe Barrande
+T13271	Terebratula obovata Sowerby
+T13272	Terebratula primipilaris L. v Buch
+T13274	Terebratula pugnus Sow.
+T13275	Terebratula reticularis Bronn
+T13276	Terebratula reticularis Brow.
+T13277	Terebratula sappho Barrande
+T13278	Terebratula scalprum F. Roemer
+T13279	Terebratula sella Sowerby
+T13280	Terebratula semiglobosa Sow
+T13281	Terebratula semilaevis A. Roemer
+T13282	Terebratula
+T13283	Terebratula strigiceps F. Roemer
+T13284	Terebratula subdentata Phillips
+T13285	Terebratula subsella Leymerie
+T13286	Terebratula vulgaris Schlotheim
+T13287	Terebratula vulgaris v Schloth.
+T13288	Terebratula wahlenbergii
+T13289	Terebratula ypsilon Barrande
+T13290	Tethea ocularis (Linnaeus, 1767)
+T13291	Tethea or (Denis & Schiffermüller, 1775)
+T13292	Tetheella fluctuosa (Hübner, 1803)
+T13293	Tetradium fibratum Safford, 1856
+T13294	Tetrakorallid Turbinolidae
+T13295	Textularia agglutinans Ridley 1884
+T13296	Thaerodonta nubila Rõõmusoks
+T13297	Thalera fimbrialis (Scopoli, 1763)
+T13298	Thallograptus defensor Öpik, 1928
+T13299	Thallograptus ramulus Öpik
+T13300	Thallograptus
+T13301	Thallograptus sphaericola Öpik
+T13302	Thalpophila matura (Hufnagel, 1766)
+T13303	Theamataspis illaenoides Öpik, 1937
+T13304	Theca rhombifera Barrande
+T13305	Theca striata Barrande
+T13306	Thecia major Roming.
+T13307	Thecia swinderniana (Goldfuss, 1829)
+T13308	Thecidea hieroglyphica Goldfuss 1840
+T13309	Thecla betulae (Linnaeus, 1758)
+T13310	Thecosmilia
+T13311	Thera cognata (Thunberg, 1792)
+T13312	Thera firmata (Hübner, 1822)
+T13313	Thera juniperata (Linnaeus, 1758)
+T13314	Thera obeliscata (Hübner, 1787)
+T13315	Thera variata (Denis & Schiffermüller, 1775)
+T13316	Thetidia (Anthonechloris) smaragdaria ssp. smaragdaria (Fabricius, 1787)
+T13317	Thetis trigona F. A. Roemer
+T13318	Thetis trigona Roemer
+T13319	Tholera cespitis (Denis & Schiffermüller, 1775)
+T13320	Tholera decimalis (Poda, 1761)
+T13321	Thracia
+T13322	Thumatha senex (Hübner, 1808)
+T13323	Thyatira batis (Linnaeus, 1758)
+T13324	Thymelicus lineola (Ochsenheimer, 1808)
+T13325	Thymelicus sylvestris (Poda, 1761)
+T13326	Thysanotos siluricus (Eichwald, 1840)
+T13327	Timandra griseata Petersen, 1902
+T13328	Timofeevia estonica Volkova, 1990
+T13329	Timofeevia lancarae (Cramer & Diez) Vanguestaine 1978
+T13330	Timofeevia parva Hagenfeldt, 1989
+T13331	Timofeevia phosphoritica Vanguestaine, 1978
+T13332	Timofeevia phosphoritica Vanguestaine, 1978.
+T13333	Timofeevia
+T13334	Timofeevia tacheddirtensis Vanguestaine and Van Looy, 1983
+T13335	Torellella
+T13336	Toxochasmops maximus (Schmidt)
+T13337	Toxochasmops wesenbergensis Schmidt
+T13338	Trachea atriplicis (Linnaeus, 1758)
+T13339	Trachyceras aonoides Mojs.
+T13340	Trachyceras credneri Klipstein
+T13341	Trachyceras
+T13342	Tremataspis
+T13343	Tremataspis mammillata Patten, 1931
+T13344	Tremataspis schmidti
+T13345	Tremataspis schmidti Rohan
+T13347	Trematodictyum reticulatum
+T13348	Trematopora kuckersiana Bassler, 1911
+T13349	Trematopora
+T13350	Trematopora tuberculata (Hall)
+T13351	Trichia hispida (Linnaeus, 1758)
+T13352	Trichiura crataegi crataegi (Linnaeus, 1758)
+T13353	Trichopteryx carpinata (Borkhausen, 1794)
+T13354	Trichopteryx polycommata (Denis & Schiffermüller, 1775)
+T13355	Trichosphaeridium hirtum Timofeev
+T13356	Trichosphaeridium hirtum Timofeev, 1958
+T13357	Trichosphaeridium
+T13358	Tricrepicephalus texanus (Shumard, 1861)
+T13359	Trigonia clavellata
+T13360	Trigonia costata Park
+T13361	Trigonia hybrida
+T13362	Trigonosemus elegans d'Orbigny
+T13363	Trigrammaria estonica (Rõõmusoks, 1985)
+T13364	Trigrammaria minima (Rõõmusoks, 1985)
+T13365	Trigrammaria virve Rõõmusoks, 1985
+T13367	Trilobiitide roomamisjäljed
+T13368	Trilobites
+T13369	Trinucleus burklandi Barrande
+T13370	Trinucleus goldfussii Barrande
+T13371	Trinucleus ornatus Sternberg
+T13372	Triodia sylvina Linnaeus, 1761
+T13373	Triphosa dubitata (Linnaeus, 1758)
+T13374	Triplesia columba Öpik, 1930
+T13375	Triplesia insularis Eichwald
+T13376	Trisateles emortualis (Denis & Schiffermüller, 1775)
+T13377	Triton flandricus Lon.
+T13378	Trochiscolithus
+T13379	Trochoceras sandbergeri Barrande
+T13380	Trochoceras
+T13381	Trochoceras troihoides Barrande
+T13382	Trocholites ignatum Stumbur
+T13383	Trochonema biceps (Eichwald)
+T13384	Trochonema panderi Koken
+T13385	Trochosmilia
+T13386	Trochurus mastocephala Öpik, 1937
+T13387	Trochus nessigii Roemer
+T13388	Trochus turbo armatus Goldf.
+T13389	Tropidoleptus carinatus (Conrad, 1839)
+T13390	Trunculumarium revinium (Vanguestaine, 1973) Loeblich & Tappan 1976
+T13391	Trunculumarium revinium (Vanguestaine,, 1973) Loeblich & Tappan 1976
+T13392	Trunculumarium
+T13393	Trypanites fimbriatus (Stephenson, 1952)
+T13394	Trypanites and Palaeosabella borings
+T13396	Trypanites
+T13397	Tryplasma praecox Kaljo
+T13398	Tryplasma
+T13399	Tubina
+T13400	Turbinolepsis pluriradialis Römer
+T13401	Turbo armatus Goldf.
+T13402	Turbo cirhosus (Sowerby)
+T13403	Turbo coelatus d'Orb.
+T13404	Turbo coralli Murchison
+T13405	Turbo cyclostomoides Valaeontage
+T13406	Turbo inaequilineatus Sandb.
+T13407	Turbo priscus Steiniger
+T13408	Turbo speciosa Barrande
+T13409	Turbo spinosa Barrande
+T13410	Turbo vigilans Barrande
+T13411	Turbo wurmii A. Roemer
+T13412	Turrilites saxonicus Schlüt.
+T13413	Turris (Pleurotoma) regularis
+T13414	Turritella (Hausator) geinitzi Speyer
+T13415	Turritella binodosa Münster.
+T13416	Turritella geinitzi
+T13417	Turritella turris Lamarck, 1799
+T13418	Tyta luctuosa (Denis & Schiffermüller, 1775)
+T13419	Ukoa ornata Öpik
+T13420	Ulmus brauni Heer
+T13421	Uncinulus princeps (Barrande, 1847)
+T13422	Ungula convexa Pander, 1830
+T13423	Ungula ingrica ( Eichwald, 1829)
+T13424	Ungula inornata (Mickwitz, 1896)
+T13426	Ungula sp.
+T13428	Unio carbonarius
+T13429	Unio crassus Philipsson, 1788
+T13430	Unio pictorum Linnaeus, 1758
+T13431	Unio tumidus Philipsson, 1788
+T13432	Unisulcopleura punctosulcata Schallreuter, 1993
+T13433	Unisulcopleura
+T13434	Ussikäigud liivakivis
+T13435	Vallonia pulchella (Müller 1774)
+T13436	Valvata cristata O.F. Müller, 1774
+T13437	Vanessa atalanta (Linnaeus, 1758)
+T13438	Vanessa cardui (Linnaeus, 1758)
+T13439	Vanuxemella nortia Walcott, 1916
+T13440	Veimarnella rotundata (Bekker)
+T13441	Vellamo aenigma Öpik
+T13442	Vellamo ambisulcata Öpik, 1934
+T13443	Vellamo anijana Öpik, 1934
+T13444	Vellamo defecta Öpik, 1934
+T13445	Vellamo emarginata (Pahlen, 1877)
+T13446	Vellamo leigeri Öpik, 1934
+T13447	Vellamo magna Öpik, 1934
+T13448	Vellamo oandoensis Öpik, 1934
+T13449	Vellamo parva Öpik, 1930
+T13450	Vellamo phrygia Öpik, 1934
+T13451	Vellamo pyramidalis (Pahlen, 1877)
+T13452	Vellamo rara Öpik
+T13453	Vellamo sauramoi Öpik
+T13454	Vellamo silurica Öpik, 1934
+T13455	Vellamo simplex Öpik
+T13456	Vellamo
+T13457	Vellamo symmetrica Öpik, 1934
+T13458	Vellamo verneuili (Eichwald, 1841)
+T13459	Vellamo verneuili (Eichwald)
+T13460	Vellamo wesenbergensis (Pahlen)
+T13461	Vellamo wesenbergensis auriculata Öpik
+T13462	Vellamo wesenbergensis Pahlen
+T13463	Ventriculites decurrens T. Smith
+T13464	Ventriculites longitudinalis Schmidt
+T13465	Ventriculites striatus Smith, 1848
+T13466	Venulites concentricus F. Roemer
+T13467	Venulites concentricus Römer
+T13468	Venulites nach Roemer
+T13469	Venus prisca A. Roemer
+T13470	Venusia blomeri (Curtis, 1832)
+T13471	Venusia cambrica Curtis, 1839
+T13473	Vermetus imbricatus Sdbg.
+T13474	Vermiliopsis negevensis Vinn and Wilson, 2010
+T13475	Veryachium
+T13476	Veryhachium dumontii Vanguestaine, 1974
+T13477	Vinlandostrophia crassa (James, 1874)
+T13478	Virunites orvikui (Oraspõld, 1956)
+T13479	Vistulella koslowskii Kielan-Jaworowska, 1966
+T13480	Vitrea
+T13481	Volborthella tenuis Schmidt, 1888
+T13482	Volkovia dentifera Volkova, 1969
+T13483	Voltzia heterophylla Brongniart
+T13484	Volutilithes muricinus Lamarck, 1803
+T13485	Volviceramus involutus J. de C. Sowerby
+T13486	Volviceramus lamarcki Park
+T13487	Vormsipora hirsuta Lindström
+T13488	Vulcanisphaera africana Deunff, 1961
+T13491	Vulcanisphaera imparilis forma 4 Rasul, 1976
+T13492	Vulcanisphaera turbata Martin, 1981
+T13494	Wanneria walcottanus (Wanner, 1901)
+T13495	Waptia fieldensis Walcott, 1912
+T13496	Wilsonia  princeps Barrande
+T13497	Worthenia (Lophospira) estona Koken
+T13498	Worthenia (Lophospira) mickwitzi Koken, 1896
+T13499	Worthenia (Lophospira) raudi Öpik, 1930
+T13500	Xanthorhoe biriviata (Borkhausen, 1794)
+T13501	Xanthorhoe designata (Hufnagel, 1767)
+T13502	Xanthorhoe ferrugata (Clerck, 1759)
+T13503	Xanthorhoe fluctuata (Linnaeus, 1758)
+T13504	Xanthorhoe montanata (Denis & Schiffermüller, 1775)
+T13505	Xanthorhoe quadrifasiata (Clerck, 1759)
+T13506	Xenasaphus devexus devexus (Eichwald)
+T13507	Xenotrypa
+T13508	Xestia alpicola (Zetterstedt, 1839)
+T13509	Xestia baja (Denis & Schiffermüller, 1775)
+T13510	Xestia c-nigrum (Linnaeus, 1758)
+T13511	Xestia castanea (Esper, 1798)
+T13512	Xestia collina (Boisduval, 1840)
+T13513	Xestia sexstrigata (Haworth, 1809)
+T13514	Xestia triangulum (Hufnagel, 1766)
+T13515	Xestia xanthographa (Denis & Schiffermüller, 1775)
+T13516	Xylena vetusta (Hübner, 1813)
+T13517	Zacanthoides romingeri Resser, 1942
+T13518	Zanclognatha tarsipennalis Treitschke, 1835
+T13519	Zaphrentis cliffordiana Edward & Heyne
+T13520	Zaphrentis corniculum Edward & Heyne
+T13521	Zaphrentis simplex Hall, 1876
+T13522	Zaphrentis
+T13523	Zitteloceras
+T13524	Zygaena filipendulae (Linnaeus, 1758)
+T13525	Zygaena lonicerae (Scheven, 1777)
+T13526	Zygaena osterodensis Reiss, 1921
+T13527	Zygaena viciae (Denis & Schiffermüller, 1775)
+T13528	Zygospira aprinis (Verneuil, 1845)
+T13529	Zygospira gutta Oraspõld, 1956
+T13530	Zygospira modesta (Say in Hall, 1847)
+T13531	Zygospiraella duboisi (Verneuil, 1845)

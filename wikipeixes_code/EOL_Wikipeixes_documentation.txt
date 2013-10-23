@@ -1,0 +1,94 @@
+EOL Wikipeixes documentation
+August 2013
+
+Anne Thessen was funded as an independent contractor to gather data from Wikpeixes by 
+screen scraping. The data were to be delivered in DwC-A format.
+
+NOTE: The way the pages and the html is constructed makes grabbing specific 
+bits very difficult. I am using Beautiful Soup to clean the text. I would like to use 
+Scrapy to get the actual data, but I am having trouble getting it installed on my machine. 
+Until that problem is solved, I will have to use the custom python code below. There are 
+two species pages with English text labeled as Portuguese with radically different page 
+layouts.
+
+1. The first step is to generate a list of the urls at wikipeixes. Do this using 
+wikipeixes_get_url.py. The input is the wikipeixes home page and the output is a list of
+urls wikipeixes_url.txt. If you already have a list of urls from wikipeixes, you don't 
+need to do this unless again unless new taxon pages have been added.
+
+2. Use wikipeixes_get_text.py to scrape the page and place the data in a tab delimited
+table. The input file is the list of urls (wikipeixes_url.txt). The output file is 
+wikipeixes_metadata.txt. 
+
+3. Delete the first (header) line from wikipeixes_metadata.txt and save it as 
+wikipeixes_metadata_final.txt.  
+
+4. Use wikipeixes_get_url_photo.py to generate a list of urls (wikipeixes_photo_url.txt) 
+for all the images in the gallery. The list of urls will have to be deduped. Some odd URLs 
+will be at the end and will have to be removed. If you already have a list of image urls 
+from wikipeixes, you don't need to do this again unless new images have been added.
+
+5. Use wikipeixes_get_photo.py to scrape the page and place data in a tab 
+delimited table. The input file is the list of image URLs (wikipeixes_photo_url.txt). The 
+output file is wikipeixes_photo_metadata.txt. 
+
+6. In the shell run this command 
+cat wikipiexes_metadata_final.txt wikipiexes_photo_metadata_final.txt > all_wikip_names.txt
+This will create a file (all_wikip_names.txt) that is only good for using to create a list 
+of all unique names for both the text and the images. If you already have a taxon list, 
+you don't need to do this unless new taxa have been added to wikipeixes.
+
+7. Use generate_taxon_list.py to generate a list of unique taxa from 
+all_wikip_names.txt and assign each taxon a unique identifier. The output is the DwC-A 
+core file, wikip_taxa.txt. Again, if you already have the core DwC-A file, you don't have 
+to do this again unless new taxa have been added to wikipeixes.
+
+8. Use taxon_list_to_dict.py to generate a dictionary (wikip_taxa_dict.txt) out of the 
+wikip_taxa.txt file. This will help wikipeixes_media_text.py look up the taxon ID numbers 
+when generating the media extension file. If you already have a dictionary, then you don't
+have to do this unless new taxa have been added to wikipeixes. 
+
+9. Use wikipeixes_media_text.py to generate the media extension file for the text. Make 
+sure wikip_media.txt is empty. There may be some manual tweaks that need to happen in the 
+dictionary and the DwC-A core file.
+
+10. Use wikipeixes_media_photo.py to add to the DwC-A media extension file. There should 
+already be the data in the file from the text. Now we want to add the information from 
+the images. There may be some manual tweaks that need to happen in the dictionary and the 
+DwC-A core file.
+
+11. Use wikipeixes_vernacular.py to generate the DwC-A vernacular names extension file. It 
+will use wikipiexes_metadata_final.txt as input.
+
+12. Use wikipeixes_synonyms.py to add synonym information to the DwC-A core file 
+(wikip_taxa.txt). It will use wikipiexes_metadata_final.txt as input.
+
+13. Use wikipeixes_references.py to grab the References from the wikipeixes pages. The 
+input is a list of urls and the output is a tab delimited list of all the references in 
+wikipiexes_references_metadata.txt. Remove the header line and save as 
+wikipiexes_references_metadata_final.txt. You many have to separate some of the references 
+manually in wikipeixes_references_metadata_final.txt to that each reference has its own 
+line.
+
+14. Use wikipeixes_references_file.py to generate the DwC-A extension file for the 
+references (wikip_references.txt). You will have to dedupe the references in the extension 
+file before adding ReferenceIDs to the core file. There were few enough references that 
+I was easily able to manually add the Reference ID to the core file.
+
+15. At this point, all the bits are finished. Have a look over the files and fix any 
+errors. Then zip them together and run them through the validator. Fix any issues the 
+validator finds.
+
+
+
+Notes:
+
+Content from these two pages is in English (despite being labeled as Portuguese) and in a 
+radically different page layout. For now, it will have to be added by hand. If many more 
+pages are added in this style additional code should be written.
+http://wikipeixes.com.br/especies:amazonspinther_dalmata
+http://wikipeixes.com.br/especies:acinocheirodon_melanogramma
+
+Wikipeixes has a list of recent changes on their home page. The best way to update may be 
+to target the recent changes and leave everything else untouched. It appears that they do 
+not update often.

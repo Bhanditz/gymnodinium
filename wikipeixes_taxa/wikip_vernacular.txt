@@ -1,0 +1,227 @@
+T10457	Avião	Wikipeixes	pt-br	BR
+T10457	L155	Wikipeixes	pt-br	BR
+T10418	Cachorrinho	Wikipeixes	pt-br	BR
+T10409	Peixe-cachorro	Wikipeixes	pt-br	BR
+T10409	cachorrinho	Wikipeixes	pt-br	BR
+T10409	ueua.	Wikipeixes	pt-br	BR
+T10488	Cará.	Wikipeixes	pt-br	BR
+T10098	Palmito (	Wikipeixes	pt-br	BR
+T10831	Reco-reco	Wikipeixes	pt-br	BR
+T10831	“Dusky Doradid”.	Wikipeixes	pt-br	BR
+T10187	Reco-reco.	Wikipeixes	pt-br	BR
+T10068	Bloodfin tetra (EUA)	Wikipeixes	pt-br	BR
+T10545	Reco-reco.	Wikipeixes	pt-br	BR
+T10925	Piaba (Amazônia)	Wikipeixes	pt-br	BR
+T10992	Carataí (PA)	Wikipeixes	pt-br	BR
+T10622	Bicuda	Wikipeixes	pt-br	BR
+T10622	pirapucu (AM)	Wikipeixes	pt-br	BR
+T10693	Bicuda	Wikipeixes	pt-br	BR
+T10693	pirapucu (AM)	Wikipeixes	pt-br	BR
+T10155	Inclua os nomes populares	Wikipeixes	pt-br	BR
+T10155	caso conhecidos	Wikipeixes	pt-br	BR
+T10155	indicando a região ou o país/idioma onde o nome é usado. Exemplo:	Wikipeixes	pt-br	BR
+T10729	Matrinchã	Wikipeixes	pt-br	BR
+T10082	Piabanha	Wikipeixes	pt-br	BR
+T10346	Pirapitinga	Wikipeixes	pt-br	BR
+T10903	Pirapitinga e suas contrações	Wikipeixes	pt-br	BR
+T10903	como Parpitinga (SP) e Pipitinga (MG).	Wikipeixes	pt-br	BR
+T10400	Matrinchã	Wikipeixes	pt-br	BR
+T10528	Vermelha	Wikipeixes	pt-br	BR
+T10784	Pesu (Guiana)	Wikipeixes	pt-br	BR
+T11002	Rabeca	Wikipeixes	pt-br	BR
+T10663	João-duro	Wikipeixes	pt-br	BR
+T10716	Borboleta	Wikipeixes	pt-br	BR
+T10716	Machadinho	Wikipeixes	pt-br	BR
+T10716	Papudinho.	Wikipeixes	pt-br	BR
+T10179	Inclua os nomes populares	Wikipeixes	pt-br	BR
+T10179	caso conhecidos	Wikipeixes	pt-br	BR
+T10179	indicando a região ou o país/idioma onde o nome é usado. Exemplo:	Wikipeixes	pt-br	BR
+T10618	Inclua os nomes populares	Wikipeixes	pt-br	BR
+T10618	caso conhecidos	Wikipeixes	pt-br	BR
+T10618	indicando a região ou o país/idioma onde o nome é usado. Exemplo:	Wikipeixes	pt-br	BR
+T10730	Duro-duro (MT)	Wikipeixes	pt-br	BR
+T10254	Tucunaré-borboleta	Wikipeixes	pt-br	BR
+T11001	Tucunaré-paca	Wikipeixes	pt-br	BR
+T11001	tucunaré-açu	Wikipeixes	pt-br	BR
+T10334	Joaninha,Jacundá.	Wikipeixes	pt-br	BR
+T10492	Jacundá	Wikipeixes	pt-br	BR
+T10641	“Jacundá”	Wikipeixes	pt-br	BR
+T10504	Jacundá.	Wikipeixes	pt-br	BR
+T10313	Jacundá	Wikipeixes	pt-br	BR
+T10313	Joana	Wikipeixes	pt-br	BR
+T10313	Joaninha	Wikipeixes	pt-br	BR
+T10313	joão-bobo	Wikipeixes	pt-br	BR
+T10313	peixe-sabão.	Wikipeixes	pt-br	BR
+T10101	Jacundá	Wikipeixes	pt-br	BR
+T10101	Joaninha e Peixe-sabão (Brasil) e Striped Pike em inglês.	Wikipeixes	pt-br	BR
+T10173	Jacundá	Wikipeixes	pt-br	BR
+T10173	Joana	Wikipeixes	pt-br	BR
+T10173	Joaninha	Wikipeixes	pt-br	BR
+T10173	joão-bobo	Wikipeixes	pt-br	BR
+T10173	peixe-sabão.	Wikipeixes	pt-br	BR
+T10297	Branquinha	Wikipeixes	pt-br	BR
+T10935	Manjuba	Wikipeixes	pt-br	BR
+T10935	branquinha.	Wikipeixes	pt-br	BR
+T10665	Minguilista (PA)	Wikipeixes	pt-br	BR
+T10531	Bocachico (VEN)	Wikipeixes	pt-br	BR
+T10531	Corito e Viejita (COL).	Wikipeixes	pt-br	BR
+T10810	Saguiru (BRA)	Wikipeixes	pt-br	BR
+T10797	Okoroawu (Tuyuka	Wikipeixes	pt-br	BR
+T10797	alto rio Tiquié).	Wikipeixes	pt-br	BR
+T10497	Porthole catfish (EUA)	Wikipeixes	pt-br	BR
+T10962	Conhecido na bacia do rio São Francisco como Mandi-açu.	Wikipeixes	pt-br	BR
+T10660	Mandi boca-de-flor	Wikipeixes	pt-br	BR
+T10660	botinho.	Wikipeixes	pt-br	BR
+T10395	Mandi boca-de-flor	Wikipeixes	pt-br	BR
+T10395	botinho.	Wikipeixes	pt-br	BR
+T10513	Bananinha	Wikipeixes	pt-br	BR
+T10513	Peixe-banana e Piau-banana (Brasil.	Wikipeixes	pt-br	BR
+T10157	Jurupóca (MT,	Wikipeixes	pt-br	BR
+T10197	Inclua os nomes populares	Wikipeixes	pt-br	BR
+T10197	caso conhecidos	Wikipeixes	pt-br	BR
+T10197	indicando a região ou o país/idioma onde o nome é usado. Exemplo:	Wikipeixes	pt-br	BR
+T10898	Pirandirá (AM).	Wikipeixes	pt-br	BR
+T10415	L-number:	Wikipeixes	pt-br	BR
+T10454	L-number:	Wikipeixes	pt-br	BR
+T10763	L-number:	Wikipeixes	pt-br	BR
+T10158	Bola de neve (Amazonas	Wikipeixes	pt-br	BR
+T10158	Brasil).	Wikipeixes	pt-br	BR
+T10837	L-number:	Wikipeixes	pt-br	BR
+T10202	Acari zebra e cascudo zebra imperial (português)	Wikipeixes	pt-br	BR
+T10202	zebra pleco (inglês).	Wikipeixes	pt-br	BR
+T10568	Rosaceo pingo-de-sangue (Amazonas)	Wikipeixes	pt-br	BR
+T10568	“Bleeding-heart Tetra” (inglês)	Wikipeixes	pt-br	BR
+T10870	“Piaba” (Brasil).	Wikipeixes	pt-br	BR
+T10637	Rosaceos pingo-de-sangue (Amazonas)	Wikipeixes	pt-br	BR
+T10637	“bleeding-heart tetra” (inglês)	Wikipeixes	pt-br	BR
+T10637	etc.	Wikipeixes	pt-br	BR
+T10032	Conhecido como cascudo ou acari (NE - Brasil)	Wikipeixes	pt-br	BR
+T10808	Kopeyaka (Tuyuka	Wikipeixes	pt-br	BR
+T10808	alto rio Tiquié).	Wikipeixes	pt-br	BR
+T10604	Inclua os nomes populares	Wikipeixes	pt-br	BR
+T10604	caso conhecidos	Wikipeixes	pt-br	BR
+T10604	indicando a região ou o país/idioma onde o nome é usado. Exemplo:	Wikipeixes	pt-br	BR
+T10930	Aracu-caneta (PA)	Wikipeixes	pt-br	BR
+T10909	Jundiá	Wikipeixes	pt-br	BR
+T10720	Solteira (SP)	Wikipeixes	pt-br	BR
+T10625	Aracu-cabeça-gorda	Wikipeixes	pt-br	BR
+T10753	Chimboré	Wikipeixes	pt-br	BR
+T10627	Piava-vermelha	Wikipeixes	pt-br	BR
+T10965	Piau	Wikipeixes	pt-br	BR
+T10999	Piau-flamenguista	Wikipeixes	pt-br	BR
+T10999	aracu-flamenguista	Wikipeixes	pt-br	BR
+T10361	Piau	Wikipeixes	pt-br	BR
+T10361	aracu.	Wikipeixes	pt-br	BR
+T10926	Aracu-quatro-pintas	Wikipeixes	pt-br	BR
+T10508	Piava de lagoa	Wikipeixes	pt-br	BR
+T10249	Aracu pinima	Wikipeixes	pt-br	BR
+T10526	Aracu	Wikipeixes	pt-br	BR
+T10927	Ferreirinha	Wikipeixes	pt-br	BR
+T10221	Piau-Três-Pintas	Wikipeixes	pt-br	BR
+T10948	Canivete	Wikipeixes	pt-br	BR
+T10353	Piau-jejo (MG)	Wikipeixes	pt-br	BR
+T10823	Aracu cabeça-gorda	Wikipeixes	pt-br	BR
+T10031	Anujá onça.	Wikipeixes	pt-br	BR
+T10451	Bacu-pedra	Wikipeixes	pt-br	BR
+T10120	Lambari e lambari-corintiano (Brasil)	Wikipeixes	pt-br	BR
+T10774	Lambari-olho-de-fogo (Brasil)	Wikipeixes	pt-br	BR
+T10230	Pacu	Wikipeixes	pt-br	BR
+T10230	Pacu curupité	Wikipeixes	pt-br	BR
+T10230	Pacu dente seco	Wikipeixes	pt-br	BR
+T10748	Inclua os nomes populares	Wikipeixes	pt-br	BR
+T10748	caso conhecidos	Wikipeixes	pt-br	BR
+T10748	indicando a região ou o país/idioma onde o nome é usado. Exemplo:	Wikipeixes	pt-br	BR
+T10724	Reco-reco.	Wikipeixes	pt-br	BR
+T10555	Cujuba	Wikipeixes	pt-br	BR
+T10566	Cuiu-cuiu	Wikipeixes	pt-br	BR
+T10566	cujuba.	Wikipeixes	pt-br	BR
+T10239	Corvina	Wikipeixes	pt-br	BR
+T10879	Pirarara.	Wikipeixes	pt-br	BR
+T10602	Inclua os nomes populares	Wikipeixes	pt-br	BR
+T10602	caso conhecidos	Wikipeixes	pt-br	BR
+T10602	indicando a região ou o país/idioma onde o nome é usado. Exemplo:	Wikipeixes	pt-br	BR
+T10785	Mandi	Wikipeixes	pt-br	BR
+T10917	Os pescadores de Minas Gerais o chamam de mandi branco para diferenciá-lo do mandi amarelo (	Wikipeixes	pt-br	BR
+T10742	Corvina	Wikipeixes	pt-br	BR
+T10742	cruvina (GO	Wikipeixes	pt-br	BR
+T10742	MT)	Wikipeixes	pt-br	BR
+T10742	pescada	Wikipeixes	pt-br	BR
+T10742	pescada-do-piauí (SP)	Wikipeixes	pt-br	BR
+T10742	pescada-branca (PA)	Wikipeixes	pt-br	BR
+T10107	Reco-reco.	Wikipeixes	pt-br	BR
+T10421	Branquinha	Wikipeixes	pt-br	BR
+T10863	Manamana (COL e VEN)	Wikipeixes	pt-br	BR
+T10335	Branquinha	Wikipeixes	pt-br	BR
+T10640	Saguiru-boi (MT)	Wikipeixes	pt-br	BR
+T10714	Curimatã-pacu (MG	Wikipeixes	pt-br	BR
+T10714	BA)	Wikipeixes	pt-br	BR
+T10714	curimba	Wikipeixes	pt-br	BR
+T10714	curimbatá (Brasil)	Wikipeixes	pt-br	BR
+T10866	Curimatã-pioa (MG	Wikipeixes	pt-br	BR
+T10866	BA)	Wikipeixes	pt-br	BR
+T10866	curimba	Wikipeixes	pt-br	BR
+T10866	curimbatá (Brasil)	Wikipeixes	pt-br	BR
+T10567	Curimatã	Wikipeixes	pt-br	BR
+T10567	curimbatá.	Wikipeixes	pt-br	BR
+T10401	Corimba	Wikipeixes	pt-br	BR
+T10401	corimbatá	Wikipeixes	pt-br	BR
+T10734	Curimatã	Wikipeixes	pt-br	BR
+T10265	Branquinha (BRA)	Wikipeixes	pt-br	BR
+T10262	Sairú	Wikipeixes	pt-br	BR
+T10386	Branquinha	Wikipeixes	pt-br	BR
+T10844	Reco-reco	Wikipeixes	pt-br	BR
+T10844	barriga-mole.	Wikipeixes	pt-br	BR
+T10216	Acará-bandeira	Wikipeixes	pt-br	BR
+T10403	Bodó (AM).	Wikipeixes	pt-br	BR
+T10360	Piranha	Wikipeixes	pt-br	BR
+T10039	Cacunda (Brasil)	Wikipeixes	pt-br	BR
+T10039	Dientudo (Venezuela)	Wikipeixes	pt-br	BR
+T10975	Dourado	Wikipeixes	pt-br	BR
+T10975	dourado do São Francisco	Wikipeixes	pt-br	BR
+T10201	Cará-trovão	Wikipeixes	pt-br	BR
+T10201	truvão (alto rio Negro	Wikipeixes	pt-br	BR
+T10201	AM)	Wikipeixes	pt-br	BR
+T10080	Piau-branco (MG)	Wikipeixes	pt-br	BR
+T10738	Piau-vara (GO	Wikipeixes	pt-br	BR
+T10738	TO)	Wikipeixes	pt-br	BR
+T10378	Reco-reco.	Wikipeixes	pt-br	BR
+T10074	Pirambeba	Wikipeixes	pt-br	BR
+T10074	cavaca (MG)	Wikipeixes	pt-br	BR
+T10636	Piranha-chupita (PA)	Wikipeixes	pt-br	BR
+T10208	Piranha-preta	Wikipeixes	pt-br	BR
+T10648	Cari-chicote (PA)	Wikipeixes	pt-br	BR
+T10648	cari-da-praia (PA)	Wikipeixes	pt-br	BR
+T10503	Surubim-do-doce	Wikipeixes	pt-br	BR
+T10951	Inclua os nomes populares	Wikipeixes	pt-br	BR
+T10951	caso conhecidos	Wikipeixes	pt-br	BR
+T10951	indicando a região ou o país/idioma onde o nome é usado. Exemplo:	Wikipeixes	pt-br	BR
+T10850	Branquinha	Wikipeixes	pt-br	BR
+T10698	Tuvira espada (Minas Gerias)	Wikipeixes	pt-br	BR
+T10671	Tuvira	Wikipeixes	pt-br	BR
+T10671	ituí	Wikipeixes	pt-br	BR
+T10671	sarapó.	Wikipeixes	pt-br	BR
+T10741	Piaba-branca (MG)	Wikipeixes	pt-br	BR
+T10915	Sauá	Wikipeixes	pt-br	BR
+T10915	Piaba	Wikipeixes	pt-br	BR
+T10605	Piaba	Wikipeixes	pt-br	BR
+T10605	sauá	Wikipeixes	pt-br	BR
+T10606	Cangati	Wikipeixes	pt-br	BR
+T10606	muquirana (GO)	Wikipeixes	pt-br	BR
+T10606	cachorrinho-de-padre	Wikipeixes	pt-br	BR
+T10606	cabeça-de-ferro	Wikipeixes	pt-br	BR
+T10606	anujá	Wikipeixes	pt-br	BR
+T10259	Reco-reco.	Wikipeixes	pt-br	BR
+T10705	Inclua os nomes populares	Wikipeixes	pt-br	BR
+T10705	caso conhecidos	Wikipeixes	pt-br	BR
+T10705	indicando a região ou o país/idioma onde o nome é usado. Exemplo:	Wikipeixes	pt-br	BR
+T10382	Cambeva	Wikipeixes	pt-br	BR
+T10209	Sardina (Peru)	Wikipeixes	pt-br	BR
+T10864	Piaba-facão (MG)	Wikipeixes	pt-br	BR
+T10591	Abramites	Wikipeixes	pt-br	BR
+T10533	Curupetê	Wikipeixes	pt-br	BR
+T30001	piaba dálmata	Wikipeixes	pt-br	BR
+T30001	piabinha	Wikipeixes	pt-br	BR
+T30001	lambari	Wikipeixes	pt-br	BR
+T10769	pequira	Wikipeixes	pt-br	BR
+T10769	piabinha	Wikipeixes	pt-br	BR
+T10769	lambari	Wikipeixes	pt-br	BR
